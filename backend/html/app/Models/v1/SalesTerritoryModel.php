@@ -10,9 +10,9 @@ class SalesTerritoryModel extends Model
     use HasFactory;
     public const CREATED_AT = null;
     public const UPDATED_AT = null;
-    protected $table = '';
+    protected $table = 'sales_territory';
 
-    protected $fillable = [];
+    protected $fillable = ['geo_id'];
 
     public function boundary()
     {

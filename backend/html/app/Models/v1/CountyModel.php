@@ -10,12 +10,16 @@ class CountyModel extends Model
     use HasFactory;
     public const CREATED_AT = null;
     public const UPDATED_AT = null;
-    protected $table = '';
+    protected $table = 'county';
 
-    protected $fillable = [];
+    protected $fillable = ['geo_id','state_id'];
 
     public function boundary()
     {
         return $this->belongsTo(GeographicBoundaryModel::class, 'geo_id');
+    }
+    public function getState()
+    {
+        return $this->belongsTo(StateModel::class, 'state_id', 'geo_id');
     }
 }
