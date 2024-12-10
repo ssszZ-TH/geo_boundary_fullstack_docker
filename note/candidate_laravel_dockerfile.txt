@@ -1,0 +1,26 @@
+# Dockerfile (backend/Dockerfile)
+FROM php:8.1-fpm
+
+# Set working directory
+WORKDIR /var/www/html
+
+# ติดตั้ง dependencies ต่างๆ รวมถึง PHP extensions ที่ Laravel ใช้งาน
+RUN apt-get update && apt-get install -y \
+    git \
+    unzip \
+    libpq-dev \
+    && docker-php-ext-install pdo pdo_pgsql \
+    && docker-php-ext-install mbstring tokenizer
+
+# ติดตั้ง Composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+
+# คัดลอกไฟล์ทั้งหมดไปยังคอนเทนเนอร์
+COPY . /var/www/html
+
+# ติดตั้ง Composer dependencies ของ Laravel
+RUN composer install
+
+# ตั้งค่า permissions ให้กับโฟลเดอร์ storage และ bootstrap/cache
+RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache \
+    && chmod -R 775 /var/www/html/storage /var/www/html/bootstrap/cache

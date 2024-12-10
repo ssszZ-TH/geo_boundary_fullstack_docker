@@ -1,0 +1,45 @@
+ช่วยสร้าง sql script สำหรับสร้าง database ตามนี้
+
+table 1 : GEOGRAPHIC_BOUNDARY
+มี attrbute ดังนี้
+geo_id  pk
+geo_code  
+name  notnull
+abbreviation 
+
+table 2 : COUNTRY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to GEOGRAPHIC_BOUNDARY
+
+table 3 : PROVINCE เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to country
+
+table 4 : POSTAL_CODE เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to country
+
+table 5 : TERITORY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to country
+
+table 6 : STATE เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to country
+
+table 7 : SALES_TERRITORY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to GEOGRAPHIC_BOUNDARY
+
+table 8 : SERVICE_TERRITORY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to GEOGRAPHIC_BOUNDARY
+
+table 9 : REGION เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to GEOGRAPHIC_BOUNDARY
+
+table 10 : CITY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to STATE
+
+table 11 : COUNTY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to STATE
+
+table 12 : COUNTY_CITY เป็น subtype ของ GEOGRAPHIC_BOUNDARY
+belong to COUNTY เเละ CITY
+
+table 13 : GEOGRAPHIC_BOUNDARY_TYPE
+definded type ของ GEOGRAPHIC_BOUNDARY
+มีไว้เก็บในกรณีที่ geo ใหม่ที่เราใส่เข้ามา ไม่ตรงกับ subtype ที่มีอยู่เลย

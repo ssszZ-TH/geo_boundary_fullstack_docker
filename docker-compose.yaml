@@ -1,0 +1,80 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:13
+    volumes:
+      - ./db-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: myapp
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    networks:
+      - app-network
+
+  backend:
+    build:
+      context: ./backend
+    # container_name: laravel_app
+    working_dir: /var/www/html
+    volumes:
+      - ./backend/html:/var/www/html
+    environment:
+      DB_CONNECTION: pgsql
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_DATABASE: myapp
+      DB_USERNAME: user
+      DB_PASSWORD: password
+    networks:
+      - app-network
+    deploy:
+      replicas: 3  # เพิ่ม replicas เพื่อให้มี 3 ตัว
+
+  nginx:
+    image: nginx:latest
+    # container_name: nginx_server
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./backend:/var/www/html
+    ports:
+      - "8080:80"
+      - "5173:5173"
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+  frontend:
+    build: ./frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@example.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    volumes:
+      - ./pg-admin-data:/var/lib/pgadmin
+    depends_on:
+      - db
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db-data:
+  pg-admin-data:
