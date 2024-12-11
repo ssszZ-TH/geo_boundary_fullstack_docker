@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\v1\GeographicBoundaryModel as Model;
 use Illuminate\Validation\ValidationException;
 
+
 class GeographicBoundaryController extends Controller
 {
     /**
@@ -14,10 +15,9 @@ class GeographicBoundaryController extends Controller
      */
     public function index()
     {
-        // ดึงข้อมูลพร้อมความสัมพันธ์ 'type'
-        $item = Model::with(['geoType'])->get();
+        //
+        $item = Model::all();
 
-        // ส่งข้อมูลในรูปแบบ JSON Response
         return response()->json($item, 200);
     }
 
@@ -29,14 +29,14 @@ class GeographicBoundaryController extends Controller
         //
         try {
             $request->validate([
-                'geo_code' => 'nullable|string|max:50|unique:geographic_boundary,geo_code',
-                'name' => 'required|string|max:255|unique:geographic_boundary,name',
+                'geo_code' => 'nullable|string|max:50',
+                'name' => 'required|string|max:255',
                 'abbreviation' => 'nullable|string|max:50',
                 'type_id' => 'required|integer|exists:geographic_boundary_type,type_id',
             ]);
 
             $item = Model::create($request->all());
-            
+
             return response()->json($item, 201);
         } catch (ValidationException $e) {
             return response()->json([
@@ -52,7 +52,7 @@ class GeographicBoundaryController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with(['geoType'])->findOrFail($id);
+        $item = Model::with([])->findOrFail($id);
         return response()->json($item);
     }
 
@@ -69,8 +69,8 @@ class GeographicBoundaryController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_code' => 'nullable|string|max:50|unique:geographic_boundary,geo_code',
-                'name' => 'required|string|max:255|unique:geographic_boundary,name',
+                'geo_code' => 'nullable|string|max:50',
+                'name' => 'required|string|max:255',
                 'abbreviation' => 'nullable|string|max:50',
                 'type_id' => 'required|integer|exists:geographic_boundary_type,type_id',
             ]);
@@ -94,7 +94,7 @@ class GeographicBoundaryController extends Controller
      */
     public function destroy(string $id)
     {
-        // ตรวจสอบว่ามี item อยู่ในฐานข้อมูลหรือไม่
+        //
         $item = Model::find($id);
         if (!$item) {
             return response()->json(['error' => 'Product not found'], 404);
