@@ -65,7 +65,7 @@ class CityController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:city,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
                 'state_id' => 'required|integer|exists:state,geo_id',
             ]);
 
