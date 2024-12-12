@@ -16,7 +16,7 @@ class GeographicBoundaryController extends Controller
     public function index()
     {
         //
-        $item = Model::all();
+        $item = Model::with(['geoType'])->get();
 
         return response()->json($item, 200);
     }
@@ -52,7 +52,7 @@ class GeographicBoundaryController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with([])->findOrFail($id);
+        $item = Model::with(['geoType'])->findOrFail($id);
         return response()->json($item);
     }
 

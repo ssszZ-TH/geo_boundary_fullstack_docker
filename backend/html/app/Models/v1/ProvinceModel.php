@@ -21,7 +21,7 @@ class ProvinceModel extends Model
         return $this->belongsTo(GeographicBoundaryModel::class, 'geo_id');
     }
 
-    public function country()
+    public function getCountry()
     {
         return $this->belongsTo(CountryModel::class, 'country_id', 'geo_id');
     }

@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\v1\GeographicBoundaryController;
 use App\Http\Controllers\Api\v1\GeographicBoundaryTypeController;
+use App\Http\Controllers\Api\v1\CityController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,6 +23,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::apiResource('v1/geographic_boundary', GeographicBoundaryController::class);
 Route::apiResource('v1/geographic_boundary_type', GeographicBoundaryTypeController::class);
+Route::apiResource('v1/city', CityController::class);
 
 
 Route::get('v1/test', function () {

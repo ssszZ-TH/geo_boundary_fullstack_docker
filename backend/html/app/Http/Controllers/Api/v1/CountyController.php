@@ -15,7 +15,7 @@ class CountyController extends Controller
     public function index()
     {
         //
-        $item = Model::all();
+        $item = Model::with(['boundary','getState'])->get();
 
         return response()->json($item, 200);
     }
@@ -49,7 +49,7 @@ class CountyController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with([])->findOrFail($id);
+        $item = Model::with(['boundary','getState'])->findOrFail($id);
         return response()->json($item);
     }
 

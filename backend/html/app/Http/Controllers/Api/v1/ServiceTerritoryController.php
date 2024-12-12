@@ -15,7 +15,7 @@ class ServiceTerritoryController extends Controller
     public function index()
     {
         //
-        $item = Model::all();
+        $item = Model::with(['boundary'])->get();
 
         return response()->json($item, 200);
     }
@@ -48,7 +48,7 @@ class ServiceTerritoryController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with([])->findOrFail($id);
+        $item = Model::with(['boundary'])->findOrFail($id);
         return response()->json($item);
     }
 
