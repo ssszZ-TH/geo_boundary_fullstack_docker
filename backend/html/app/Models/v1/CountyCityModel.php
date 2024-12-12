@@ -11,6 +11,7 @@ class CountyCityModel extends Model
     public const CREATED_AT = null;
     public const UPDATED_AT = null;
     protected $table = 'county_city';
+    protected $primaryKey = 'geo_id';
 
     protected $fillable = ['geo_id','county_id','city_id'];
 

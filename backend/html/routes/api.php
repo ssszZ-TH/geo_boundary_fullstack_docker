@@ -2,9 +2,19 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+
+use App\Http\Controllers\Api\v1\CityController;
+use App\Http\Controllers\Api\v1\CountryController;
+use App\Http\Controllers\Api\v1\CountyCityController;
+use App\Http\Controllers\Api\v1\CountyController;
 use App\Http\Controllers\Api\v1\GeographicBoundaryController;
 use App\Http\Controllers\Api\v1\GeographicBoundaryTypeController;
-use App\Http\Controllers\Api\v1\CityController;
+use App\Http\Controllers\Api\v1\ProvinceController;
+use App\Http\Controllers\Api\v1\RegionController;
+use App\Http\Controllers\Api\v1\SalesTerritoryController;
+use App\Http\Controllers\Api\v1\ServiceTerritoryController;
+use App\Http\Controllers\Api\v1\StateController;
+use App\Http\Controllers\Api\v1\TerritoryController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,9 +31,19 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+Route::apiResource('v1/city',CityController::class);
+Route::apiResource('v1/country',CountryController::class);
+Route::apiResource('v1/county_city',CountyCityController::class);
+Route::apiResource('v1/county',CountyController::class);
 Route::apiResource('v1/geographic_boundary', GeographicBoundaryController::class);
 Route::apiResource('v1/geographic_boundary_type', GeographicBoundaryTypeController::class);
 Route::apiResource('v1/city', CityController::class);
+Route::apiResource('v1/province',ProvinceController::class);
+Route::apiResource('v1/region',RegionController::class);
+Route::apiResource('v1/sales_territory',SalesTerritoryController::class);
+Route::apiResource('v1/service_territory',ServiceTerritoryController::class);
+Route::apiResource('v1/state',StateController::class);
+Route::apiResource('v1/territory',TerritoryController::class);
 
 
 Route::get('v1/test', function () {

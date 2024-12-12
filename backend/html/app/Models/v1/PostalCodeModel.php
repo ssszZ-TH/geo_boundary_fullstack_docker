@@ -11,6 +11,7 @@ class PostalCodeModel extends Model
     public const CREATED_AT = null;
     public const UPDATED_AT = null;
     protected $table = 'postal_code';
+    protected $primaryKey = 'geo_id';
 
     protected $fillable = ['geo_id','country_id'];
 

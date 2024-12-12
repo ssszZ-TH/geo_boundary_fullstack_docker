@@ -11,6 +11,7 @@ class CountryModel extends Model
     use HasFactory;
     public const CREATED_AT = null;
     public const UPDATED_AT = null;
+    protected $primaryKey = 'geo_id';
     protected $table = 'country';
 
     protected $fillable = ['geo_id'];
