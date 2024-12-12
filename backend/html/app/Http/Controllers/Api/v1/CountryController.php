@@ -28,7 +28,7 @@ class CountryController extends Controller
         //
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:country,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
             ]);
 
             $item = Model::create($request->all());
@@ -65,7 +65,7 @@ class CountryController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:country,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
 
             ]);
 

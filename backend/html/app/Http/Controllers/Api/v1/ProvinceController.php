@@ -28,7 +28,7 @@ class ProvinceController extends Controller
         //
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:province,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
                 'country_id' => 'required|integer|exists:country,geo_id',
             ]);
 
@@ -66,7 +66,7 @@ class ProvinceController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:province,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
                 'country_id' => 'required|integer|exists:country,geo_id',
             ]);
 

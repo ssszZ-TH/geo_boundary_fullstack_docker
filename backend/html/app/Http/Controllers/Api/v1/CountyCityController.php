@@ -28,7 +28,7 @@ class CountyCityController extends Controller
         //
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:county_city,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
                 'county_id' => 'required|integer|exists:county,geo_id',
                 'city_id' => 'required|integer|exists:city,geo_id',
             ]);
@@ -67,7 +67,7 @@ class CountyCityController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:county_city,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
                 'county_id' => 'required|integer|exists:county,geo_id',
                 'city_id' => 'required|integer|exists:city,geo_id',
             ]);

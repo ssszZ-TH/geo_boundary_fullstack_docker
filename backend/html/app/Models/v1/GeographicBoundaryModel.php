@@ -15,6 +15,7 @@ class GeographicBoundaryModel extends Model
     protected $fillable = [
         'geo_code',
         'name',
+        'abbreviation',
         'type_id'
     ];
     public const CREATED_AT = null;
