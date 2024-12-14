@@ -28,7 +28,7 @@ class SalesTerritoryController extends Controller
         //
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:sales_territory,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
             ]);
 
             $item = Model::create($request->all());
@@ -65,7 +65,7 @@ class SalesTerritoryController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id|unique:sales_territory,geo_id',
+                'geo_id' => 'required|integer|exists:geographic_boundary,geo_id',
             ]);
 
             $item->update($request->all());

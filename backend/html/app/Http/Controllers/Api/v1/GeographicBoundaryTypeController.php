@@ -28,7 +28,7 @@ class GeographicBoundaryTypeController extends Controller
         //
         try {
             $request->validate([
-                'type_name' => 'required|string|max:100|unique:geographic_boundary_type,type_name',
+                'type_name' => 'required|string|max:100',
             ]);
 
             $item = Model::create($request->all());
@@ -65,7 +65,7 @@ class GeographicBoundaryTypeController extends Controller
         $originalData = $item->toArray();
         try {
             $request->validate([
-                'type_name' => 'required|string|max:100|unique:geographic_boundary_type,type_name',
+                'type_name' => 'required|string|max:100',
             ]);
 
             $item->update($request->all());
