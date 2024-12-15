@@ -1,0 +1,76 @@
+ในการ crud country ต้องยิง service ดังนี้ ช่วยทำ country.ts ที่เป็น file รวบรวม function ให้หน่อย ในเเต่ละบรรทัศใส่ comment อธิบาย
+
+create 
+ขั้นเเรก insert data ลง suppertype
+post http://localhost:8080/api/v1/geographic_boundary
+body {
+        "geo_code": "countrydemo1",
+        "name": "testname1",
+        "abbreviation": "TESTAB1",
+        "type_id": 1
+    }
+
+response
+{
+    "geo_code": "countrydemo1",
+    "name": "testname1",
+    "type_id": 1,
+    "geo_id": 20
+}
+
+ชั้นต่อไป insert data ลง subtype ก็ต้องเอา geo_id ที่ได้รับ มาทำดังนี้ต่อ
+post http://localhost:8080/api/v1/country
+body {
+    "geo_id": 20
+}
+response {
+    "geo_id": 20
+}
+
+get all req ไปที่ subtype ตัวเดียว supper type ตามมาด้วย
+get http://localhost:8080/api/v1/country
+
+get one req ไปที่ subtype ตัวเดียว supper type ตามมาด้วย
+get http://localhost:8080/api/v1/country/20
+
+update 
+ขั้นเเรกส่ง body ประมานนี้ไปที่ suppertype
+put http://localhost:8080/api/v1/geographic_boundary/17
+body {
+        "geo_code": "newTH-001",
+        "name": "newtestname",
+        "abbreviation": "newTESTABB",
+        "type_id": 1
+    }
+response {
+    "original_data": {
+        "geo_id": 17,
+        "geo_code": "TH-001",
+        "name": "testname",
+        "abbreviation": null,
+        "type_id": 2
+    },
+    "updated_data": {
+        "geo_id": 17,
+        "geo_code": "newTH-001",
+        "name": "newtestname",
+        "abbreviation": null,
+        "type_id": 1
+    }
+}
+
+ขั้นต่อมา insert ลง subtype
+put http://localhost:8080/api/v1/country/20
+body {"geo_id": 20}
+response {
+    "original_data": {
+        "geo_id": 20
+    },
+    "updated_data": {
+        "geo_id": 20
+    }
+}
+
+delete  delete ที่ suppertype ตัวเดียว ได้เลย เพราะว่าผมใส่ on delete cascade ไว้ที่ subtype เเล้ว
+
+delete http://localhost:8080/api/v1/geographic_boundary/20 ตรงๆ ได้เลย
