@@ -1,4 +1,7 @@
-import CircularProgress from '@mui/material/CircularProgress';
+import CircularProgress from "@mui/material/CircularProgress";
 
-// การใช้งาน
-<CircularProgress />
+function Loading() {
+  return <CircularProgress />;
+}
+
+export default Loading;
