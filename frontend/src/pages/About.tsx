@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
+import AppBarCustom from "../components/AppBarCustom";
 
 export default function About() {
   return (
-    <div>About</div>
-  )
+    <>
+      <AppBarCustom />
+      <div>About</div>
+    </>
+  );
 }

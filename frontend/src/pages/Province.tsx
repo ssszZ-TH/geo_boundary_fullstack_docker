@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import AppBarCustom from "../components/AppBarCustom";
 
 function Province() {
   return (
-    <div>Province</div>
-  )
+    <>
+      <AppBarCustom />
+      <div>Province</div>
+    </>
+  );
 }
 
-export default Province
+export default Province;

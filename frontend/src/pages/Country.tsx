@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import AppBarCustom from "../components/AppBarCustom";
 
 function Country() {
   return (
-    <div>Country</div>
-  )
+    <>
+      <AppBarCustom />
+      <div>Country</div>
+    </>
+  );
 }
 
-export default Country
+export default Country;

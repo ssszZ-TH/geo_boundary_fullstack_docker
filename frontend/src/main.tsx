@@ -13,7 +13,7 @@ createRoot(document.getElementById('root')!).render(
       <Suspense fallback={<Loading/>}>
         <Routes>
           <Route path="/about" element={<About />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           {/* สามารถเพิ่ม Route อื่น ๆ ได้ที่นี่ */}
         </Routes>
       </Suspense>

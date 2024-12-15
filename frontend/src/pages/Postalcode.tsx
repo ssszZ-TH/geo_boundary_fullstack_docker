@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import AppBarCustom from "../components/AppBarCustom";
 
 function Postalcode() {
   return (
-    <div>Postalcode</div>
-  )
+    <>
+      <AppBarCustom />
+      <div>Postalcode</div>
+    </>
+  );
 }
 
-export default Postalcode
+export default Postalcode;

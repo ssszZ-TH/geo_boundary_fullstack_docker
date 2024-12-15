@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function CountyCity() {
   return (
-    <div>CountyCity</div>
-  )
+    <>
+      <div>CountyCity</div>
+    </>
+  );
 }
 
-export default CountyCity
+export default CountyCity;

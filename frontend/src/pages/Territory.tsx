@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import AppBarCustom from "../components/AppBarCustom";
 
 function Territory() {
   return (
-    <div>Territory</div>
-  )
+    <>
+      <AppBarCustom />
+      <div>Territory</div>
+    </>
+  );
 }
 
-export default Territory
+export default Territory;

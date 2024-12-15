@@ -1,9 +1,13 @@
-import GeoTree from "../components/GeoTree"
+import AppBarCustom from "../components/AppBarCustom";
+import GeoTree from "../components/GeoTree";
 
 function Home() {
   return (
-    <GeoTree/>
-  )
+    <>
+      <AppBarCustom />
+      <GeoTree />
+    </>
+  );
 }
 
-export default Home
+export default Home;
