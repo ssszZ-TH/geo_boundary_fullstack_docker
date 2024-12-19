@@ -1,18 +1,8 @@
-import React, { useState } from "react";
-import {
-  Modal,
-  Box,
-  Button,
-  TextField,
-  Typography,
-  FormControl,
-  InputLabel,
-  Select,
-  MenuItem,
-} from "@mui/material";
+import React, { useState, useEffect } from "react";
+import { Modal, Box, Button, TextField, Typography } from "@mui/material";
 
 interface typeOfCountryData {
-  geo_id: number;
+  geo_id: number | null;
   geo_code: string;
   name: string;
   abbreviation: string | null;
@@ -26,21 +16,6 @@ interface CountryModalProps {
   onSubmit: (updatedCountry: typeOfCountryData) => void;
 }
 
-// ข้อมูลสำหรับ dropdown
-const typeOptions = [
-  { id: 1, text: "Country" },
-  { id: 2, text: "Province" },
-  { id: 3, text: "State" },
-  { id: 4, text: "City" },
-  { id: 5, text: "County" },
-  { id: 6, text: "Postal Code" },
-  { id: 7, text: "Territory" },
-  { id: 8, text: "Sales Territory" },
-  { id: 9, text: "Service Territory" },
-  { id: 10, text: "Region" },
-  { id: 12, text: "County City" },
-];
-
 const style = {
   position: "absolute" as "absolute",
   top: "50%",
@@ -52,13 +27,18 @@ const style = {
   p: 4,
 };
 
-const CountryModal: React.FC<CountryModalProps> = ({
+function CountryModal({
   open,
   onClose,
   initialDetail,
   onSubmit,
-}) => {
-  const [formData, setFormData] = useState<CountryData>(initialDetail);
+}: CountryModalProps) {
+  const [formData, setFormData] = useState<typeOfCountryData>(initialDetail);
+
+  // ใช้ useEffect เพื่ออัปเดต formData เมื่อ initialDetail เปลี่ยน
+  useEffect(() => {
+    setFormData(initialDetail);
+  }, [initialDetail]);
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | { name?: string; value: unknown }>
@@ -103,31 +83,12 @@ const CountryModal: React.FC<CountryModalProps> = ({
           margin="normal"
         />
 
-        {/* Dropdown for Type ID */}
-        {/* <FormControl fullWidth margin="normal">
-          <InputLabel id="type-id-label">Type ID</InputLabel>
-          <Select
-            labelId="type-id-label"
-            name="type_id"
-            value={formData.type_id}
-            onChange={handleChange}
-            label="Type ID"
-          >
-            {typeOptions.map((option) => (
-              <MenuItem key={option.id} value={option.id}>
-                {option.text}
-              </MenuItem>
-            ))}
-            
-          </Select>
-        </FormControl> */}
-
         <Button variant="contained" color="primary" onClick={handleSubmit}>
           Save
         </Button>
       </Box>
     </Modal>
   );
-};
+}
 
 export default CountryModal;
