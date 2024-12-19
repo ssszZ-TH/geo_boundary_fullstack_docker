@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['Home'];
+const pages = ['Go To Home'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 interface ResponsiveAppBarProps {
@@ -24,8 +24,8 @@ function ResponsiveAppBar({title}:ResponsiveAppBarProps) {
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(null);
 
-  
-  const [titleText] = React.useState<string>(title);
+  // define default title as ...
+  const [titleText] = React.useState<string>(title||'...');
 
   const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorElNav(event.currentTarget);
@@ -37,7 +37,7 @@ function ResponsiveAppBar({title}:ResponsiveAppBarProps) {
   const handleCloseNavMenu = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorElNav(null);
     console.log(event.currentTarget.textContent);
-    if(event.currentTarget.textContent === 'Home'){
+    if(event.currentTarget.textContent === 'Go To Home'){
       window.location.href = '/';
     }
   };
