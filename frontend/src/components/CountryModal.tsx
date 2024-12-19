@@ -9,13 +9,6 @@ interface typeOfCountryData {
   type_id: number; // เปลี่ยนเป็น number หรือ string ตามที่คุณต้องการ
 }
 
-interface CountryModalProps {
-  open: boolean;
-  onClose: () => void;
-  initialDetail: typeOfCountryData;
-  onSubmit: (updatedCountry: typeOfCountryData) => void;
-}
-
 const style = {
   position: "absolute" as "absolute",
   top: "50%",
@@ -27,16 +20,33 @@ const style = {
   p: 4,
 };
 
+interface CountryModalProps {
+  open: boolean;
+  onClose: () => void;
+  initialDetail: typeOfCountryData;
+  onSubmit: (updatedCountry: typeOfCountryData) => void;
+  openModalFor: string;
+}
+
 function CountryModal({
   open,
   onClose,
   initialDetail,
   onSubmit,
+  openModalFor,
 }: CountryModalProps) {
-  const [formData, setFormData] = useState<typeOfCountryData>(initialDetail);
+  const [formData, setFormData] = useState<typeOfCountryData>({
+    geo_id: null,
+    geo_code: "",
+    name: "",
+    abbreviation: "",
+    type_id: 1,
+  });
 
   // ใช้ useEffect เพื่ออัปเดต formData เมื่อ initialDetail เปลี่ยน
   useEffect(() => {
+    // ตรวจสอบว่า initialDetail มีข้อมูลที่จะใช้
+    console.log("set form initialDetail = ", initialDetail);
     setFormData(initialDetail);
   }, [initialDetail]);
 
@@ -52,11 +62,15 @@ function CountryModal({
     onClose();
   };
 
+  useEffect(() => {
+    console.log("openModalFor = ", openModalFor);
+  }, [openModalFor]);
+
   return (
     <Modal open={open} onClose={onClose}>
       <Box sx={style}>
         <Typography variant="h6" component="h2">
-          Detail
+          Details
         </Typography>
         <TextField
           label="Geo Code"

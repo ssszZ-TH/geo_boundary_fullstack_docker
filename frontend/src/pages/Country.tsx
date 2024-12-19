@@ -64,15 +64,9 @@ function Country() {
   const handleUpdateButton = async (row: any) => {
     console.log("edit button receive value = ", row);
 
-    // ตรวจสอบว่า row มีข้อมูลที่จำเป็น
-    if (!row || !row.geo_id) {
-      console.error("Invalid row data:", row);
-      return;
-    }
-
     // ตั้งค่า initialDetail ด้วยข้อมูลที่ถูกต้อง
-    setInitialDetail(transformData(row));
-    openModal();
+    setInitialDetail(row);
+    openModal("update");
   };
 
   // flatten object
@@ -136,7 +130,10 @@ function Country() {
   }, []);
 
   // modal ทำเพื่อให้เข้าใจง่ายยิ่งขึ้น
-  const openModal = () => setOpen(true);
+  const openModal = (reson?: string) => {
+    setOpenModalFor(reson || "");
+    setOpen(true);
+  }
   const closeModal = () => {
     // ปิด modal
     setOpen(false);
@@ -148,6 +145,7 @@ function Country() {
       abbreviation: "",
       type_id: 1,
     });
+    setOpenModalFor("")
   };
 
   interface typeOfUpdatedCountry {
@@ -164,11 +162,12 @@ function Country() {
     try {
       if (updatedCountry.geo_id) {
         // ถ้ามี geo_id แสดงว่าต้องอัปเดต
-        await updateCountry(
+        await updateCountry (
           updatedCountry.geo_id,
           updatedCountry.geo_code,
           updatedCountry.name,
-          updatedCountry.abbreviation || ""
+          updatedCountry.abbreviation || "",
+          updatedCountry.type_id,
         );
         console.log("Updated Country:", updatedCountry);
         // setLoading(false);
@@ -178,9 +177,8 @@ function Country() {
           updatedCountry.geo_code,
           updatedCountry.name,
           updatedCountry.abbreviation || "",
-          updatedCountry.type_id
+          updatedCountry.type_id,
         );
-        setOpenModalFor("create");
         console.log("Created Country:", updatedCountry);
         // setLoading(false);
       }
