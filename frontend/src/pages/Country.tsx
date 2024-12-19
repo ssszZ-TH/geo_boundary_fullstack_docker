@@ -36,7 +36,7 @@ function Country() {
   const [rows, setRows] = useState([]);
   const [loading, setLoading] = useState(true); // สถานะการโหลด
   const [open, setOpen] = useState(false);
-  const [country, setCountry] = useState({
+  const [initialDetail, setInitialDetail] = useState({
     geo_code: "",
     name: "",
     abbreviation: "",
@@ -159,7 +159,7 @@ function Country() {
       <CountryModal
         open={open}
         onClose={closeModal}
-        country={country}
+        initialDetail={initialDetail}
         onSubmit={handleSubmit}
       />
     </>

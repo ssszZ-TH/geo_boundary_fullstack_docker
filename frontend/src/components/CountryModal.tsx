@@ -11,7 +11,7 @@ import {
   MenuItem,
 } from "@mui/material";
 
-interface CountryData {
+interface typeOfCountryData {
   geo_id: number;
   geo_code: string;
   name: string;
@@ -22,8 +22,8 @@ interface CountryData {
 interface CountryModalProps {
   open: boolean;
   onClose: () => void;
-  country: CountryData;
-  onSubmit: (updatedCountry: CountryData) => void;
+  initialDetail: typeOfCountryData;
+  onSubmit: (updatedCountry: typeOfCountryData) => void;
 }
 
 // ข้อมูลสำหรับ dropdown
@@ -40,6 +40,7 @@ const typeOptions = [
   { id: 10, text: "Region" },
   { id: 12, text: "County City" },
 ];
+
 const style = {
   position: "absolute" as "absolute",
   top: "50%",
@@ -54,10 +55,10 @@ const style = {
 const CountryModal: React.FC<CountryModalProps> = ({
   open,
   onClose,
-  country,
+  initialDetail,
   onSubmit,
 }) => {
-  const [formData, setFormData] = useState<CountryData>(country);
+  const [formData, setFormData] = useState<CountryData>(initialDetail);
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | { name?: string; value: unknown }>
