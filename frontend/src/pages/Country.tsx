@@ -32,9 +32,9 @@ function Country() {
       width: 100,
     },
     {
-      field: "action", // คอลัมน์ใหม่สำหรับปุ่ม Update
-      headerName: "Actions",
-      width: 150,
+      field: "update", // คอลัมน์ใหม่สำหรับปุ่ม Update
+      headerName: "",
+      width: 100,
       renderCell: (params) => (
         <Button
           variant="contained"
@@ -42,6 +42,20 @@ function Country() {
           onClick={() => handleUpdateButton(params.row)} // เรียกใช้ฟังก์ชัน handleEdit เมื่อคลิก
         >
           Update
+        </Button>
+      ),
+    },
+    {
+      field: "delete", // คอลัมน์ใหม่สำหรับปุ่ม Update
+      headerName: "",
+      width: 100,
+      renderCell: (params) => (
+        <Button
+          variant="contained"
+          color="error"
+          onClick={() => handleDeleteButton(params.row.geo_id)} // เรียกใช้ฟังก์ชัน handleEdit เมื่อคลิก
+        >
+          Delete
         </Button>
       ),
     },
@@ -67,6 +81,14 @@ function Country() {
     // ตั้งค่า initialDetail ด้วยข้อมูลที่ถูกต้อง
     setInitialDetail(row);
     openModal("update");
+  };
+
+  const handleDeleteButton = async (geo_id: number) => {
+    console.log("delete button receive value = ", geo_id);
+    setLoading(true);
+    await deleteCountry(geo_id);
+    await fetchCountries();
+    setLoading(false);
   };
 
   // flatten object
