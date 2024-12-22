@@ -5,7 +5,7 @@ import axios from 'axios';
 const BASE_URL = 'http://localhost:8080/api/v1';
 
 // Function to create a new country
-export const createCountry = async (geoCode: string, name: string, abbreviation: string, typeId: number) => {
+export const createCountry = async (geoCode: string, name: string, abbreviation: string, typeId: number = 7) => {
   // Step 1: Insert data into supertype
   const supertypeResponse = await axios.post(`${BASE_URL}/geographic_boundary`, {
     geo_code: geoCode,
@@ -18,7 +18,7 @@ export const createCountry = async (geoCode: string, name: string, abbreviation:
   const geoId = supertypeResponse.data.geo_id;
 
   // Step 2: Insert data into subtype
-  const subtypeResponse = await axios.post(`${BASE_URL}/country`, {
+  const subtypeResponse = await axios.post(`${BASE_URL}/sales_territory`, {
     geo_id: geoId,
   });
 
@@ -28,14 +28,14 @@ export const createCountry = async (geoCode: string, name: string, abbreviation:
 // Function to get all countries
 export const getAllCountries = async () => {
   // Fetch all countries from the subtype
-  const response = await axios.get(`${BASE_URL}/country`);
+  const response = await axios.get(`${BASE_URL}/sales_territory`);
   return response.data;
 };
 
 // Function to get a single country by ID
 export const getCountryById = async (geoId: number) => {
   // Fetch a single country from the subtype
-  const response = await axios.get(`${BASE_URL}/country/${geoId}`);
+  const response = await axios.get(`${BASE_URL}/sales_territory/${geoId}`);
   return response.data;
 };
 
@@ -45,7 +45,7 @@ export const updateCountry = async (
   geoCode: string,
   name: string,
   abbreviation: string,
-  typeId: number
+  typeId: number = 7
 ) => {
   // Step 1: Update data in the supertype
   const supertypeResponse = await axios.put(`${BASE_URL}/geographic_boundary/${geoId}`, {
@@ -56,7 +56,7 @@ export const updateCountry = async (
   });
 
   // Step 2: Update data in the subtype
-  const subtypeResponse = await axios.put(`${BASE_URL}/country/${geoId}`, {
+  const subtypeResponse = await axios.put(`${BASE_URL}/sales_territory/${geoId}`, {
     geo_id: geoId,
   });
 
