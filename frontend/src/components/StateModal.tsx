@@ -27,7 +27,7 @@ interface CountryModalProps {
   openModalFor: string;
 }
 
-function CountryModal({
+function StateModal({
   open,
   onClose,
   initialDetail,
@@ -103,4 +103,4 @@ function CountryModal({
   );
 }
 
-export default CountryModal;
+export default StateModal;
