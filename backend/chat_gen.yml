@@ -1,0 +1,32 @@
+# Dockerfile (backend/Dockerfile)
+FROM php:8.1-fpm-alpine
+
+WORKDIR /var/www/html
+
+# ติดตั้ง dependencies พื้นฐาน
+RUN apk update && apk add --no-cache \
+    git \
+    unzip \
+    postgresql-dev \
+    && docker-php-ext-install pdo pdo_pgsql
+
+# ติดตั้ง Composer
+COPY --from=composer:latest /usr/bin/composer /usr/local/bin/composer
+
+# คัดลอกไฟล์ composer.json และ composer.lock ก่อน
+COPY composer.json composer.lock /var/www/html/
+
+# ติดตั้ง dependencies ของ PHP
+RUN composer install --no-dev --optimize-autoloader
+
+# คัดลอกไฟล์โค้ดทั้งหมด
+COPY . /var/www/html
+
+# ตั้งค่า permission ให้เหมาะสม
+RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+
+# เปิด OPCache
+RUN echo "opcache.enable=1" >> /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini \
+    && echo "opcache.memory_consumption=128" >> /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini \
+    && echo "opcache.max_accelerated_files=10000" >> /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini \
+    && echo "opcache.validate_timestamps=0" >> /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini

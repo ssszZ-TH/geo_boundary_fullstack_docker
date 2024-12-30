@@ -69,7 +69,6 @@ function Country() {
     geo_code: "",
     name: "",
     abbreviation: "",
-    type_id: 1,
   });
 
   // เหตุผลในการเปิด modal มีเปิดเพื่อ อ่าน เปิด แก้ไข เปิดเพื่อสร้างข้อมูลใหม่
@@ -91,8 +90,17 @@ function Country() {
     setLoading(false);
   };
 
+  interface typeOfRawRow{
+    geo_id: number,
+    boundary: {
+      geo_code: string,
+      name: string,
+      abbreviation: string,
+    }
+  }
+
   // flatten object
-  const transformData = (obj: any) => {
+  const transformData = (obj: typeOfRawRow) => {
     if (!obj || !obj.boundary) {
       console.warn("Invalid object structure:", obj);
       return {
@@ -100,7 +108,6 @@ function Country() {
         geo_code: "",
         name: "",
         abbreviation: "-",
-        type_id: 1,
       };
     }
 
@@ -109,7 +116,6 @@ function Country() {
       geo_code: obj.boundary.geo_code || "",
       name: obj.boundary.name || "",
       abbreviation: obj.boundary.abbreviation || "-",
-      type_id: obj.boundary.type_id || 1,
     };
   };
 
@@ -165,7 +171,6 @@ function Country() {
       geo_code: "",
       name: "",
       abbreviation: "",
-      type_id: 1,
     });
     setOpenModalFor("")
   };
@@ -189,7 +194,6 @@ function Country() {
           updatedCountry.geo_code,
           updatedCountry.name,
           updatedCountry.abbreviation || "",
-          updatedCountry.type_id,
         );
         console.log("Updated Country:", updatedCountry);
         // setLoading(false);
@@ -199,7 +203,6 @@ function Country() {
           updatedCountry.geo_code,
           updatedCountry.name,
           updatedCountry.abbreviation || "",
-          updatedCountry.type_id,
         );
         console.log("Created Country:", updatedCountry);
         // setLoading(false);

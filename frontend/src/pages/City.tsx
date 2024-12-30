@@ -4,7 +4,7 @@ import AppBarCustom from "../components/AppBarCustom";
 function City() {
   return (
     <>
-      <AppBarCustom />
+      <AppBarCustom title={"City"} />
       <div>City</div>
     </>
   );
