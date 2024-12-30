@@ -1,11 +1,23 @@
 import React, { useState, useEffect } from "react";
-import { Modal, Box, Button, TextField, Typography } from "@mui/material";
+import {
+  Modal,
+  Box,
+  Button,
+  TextField,
+  Typography,
+  MenuItem,
+  Select,
+  InputLabel,
+  FormControl,
+} from "@mui/material";
+import { getAllCountries } from "../services/country";
 
 interface typeOfCountryData {
   geo_id: number | null;
   geo_code: string;
   name: string;
   abbreviation: string | null;
+  countryId: number;
 }
 
 const style = {
@@ -34,16 +46,56 @@ function StateModal({
   onSubmit,
   openModalFor,
 }: CountryModalProps) {
+  const [countryList, setCountryList] = useState([{ id: 0, text: "Loading" }]);
+
+  interface optionCountry {
+    id: number;
+    text: string;
+  }
+
+  interface country {
+    geo_id: number;
+    boundary: {
+      geo_code: string;
+      name: string;
+      abbreviation: string;
+    };
+  }
+
+  const transformCountries = (
+    countries: Array<country>
+  ): Array<optionCountry> => {
+    const transformedCountries = countries.map((country: any) => ({
+      id: country.geo_id,
+      text: country.boundary.name,
+    }));
+    return transformedCountries;
+  };
+
+  const fetchCountryList = async () => {
+    const countries = await getAllCountries();
+    console.log("country list api = ", countries);
+    console.log("country list = ", transformCountries(countries));
+    setCountryList(transformCountries(countries));
+  };
+
+  useEffect(() => {
+    fetchCountryList();
+  }, []);
+
   const [formData, setFormData] = useState<typeOfCountryData>({
     geo_id: null,
     geo_code: "",
     name: "",
     abbreviation: "",
+    countryId: 0,
   });
 
-  // ใช้ useEffect เพื่ออัปเดต formData เมื่อ initialDetail เปลี่ยน
+  // useEffect(() => {
+  //   console.log("form data =", formData);
+  // }, [formData]);
+
   useEffect(() => {
-    // ตรวจสอบว่า initialDetail มีข้อมูลที่จะใช้
     console.log("set form initialDetail = ", initialDetail);
     setFormData(initialDetail);
   }, [initialDetail]);
@@ -94,7 +146,21 @@ function StateModal({
           fullWidth
           margin="normal"
         />
-
+        <FormControl fullWidth margin="normal">
+          <InputLabel id="country-select-label">Country</InputLabel>
+          <Select
+            labelId="country-select-label"
+            name="countryId"
+            value={formData.countryId || ""}
+            onChange={handleChange}
+          >
+            {countryList.map((item) => (
+              <MenuItem key={item.id} value={item.id}>
+                {item.text}
+              </MenuItem>
+            ))}
+          </Select>
+        </FormControl>
         <Button variant="contained" color="primary" onClick={handleSubmit}>
           Save
         </Button>

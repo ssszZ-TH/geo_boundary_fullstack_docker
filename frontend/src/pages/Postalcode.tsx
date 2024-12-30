@@ -32,6 +32,11 @@ function Postalcode() {
       width: 100,
     },
     {
+      field: "countryId",
+      headerName: "Part of Country",
+      width: 100,
+    },
+    {
       field: "update", // คอลัมน์ใหม่สำหรับปุ่ม Update
       headerName: "",
       width: 100,
@@ -101,23 +106,26 @@ function Postalcode() {
 
   interface typeOfRawRow {
     geo_id: number;
+    country_id: number;
     boundary: {
       geo_code: string;
       name: string;
       abbreviation: string;
-      country_id: number;
     };
+    get_country: {
+      geo_id: number;
+    }
   }
 
   // prepair obj to mui table
   const transformData = (obj: typeOfRawRow): typeOfMuiRow => {
-    if (!obj || !obj.boundary) {
+    if (!obj || !obj.boundary || !obj.get_country) {
       console.warn("Invalid object structure:", obj);
       return {
         geo_id: obj.geo_id || null,
         geo_code: "",
         name: "",
-        abbreviation: "-",
+        abbreviation: "",
         countryId: 0,
       };
     }
@@ -127,7 +135,7 @@ function Postalcode() {
       geo_code: obj.boundary.geo_code || "",
       name: obj.boundary.name || "",
       abbreviation: obj.boundary.abbreviation || "-",
-      countryId: obj.boundary.country_id || 0,
+      countryId: obj.get_country.geo_id,
     };
   };
 
