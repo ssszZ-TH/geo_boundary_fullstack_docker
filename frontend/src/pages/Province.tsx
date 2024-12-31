@@ -243,7 +243,7 @@ function Province() {
 
   return (
     <>
-      <AppBarCustom title="CRUD Postalcode" />
+      <AppBarCustom title="CRUD Province" />
 
       {loading ? (
         <Loading /> // แสดง loading component ถ้ากำลังโหลด

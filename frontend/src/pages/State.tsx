@@ -243,7 +243,7 @@ function State() {
 
   return (
     <>
-      <AppBarCustom title="CRUD Postalcode" />
+      <AppBarCustom title="CRUD State" />
 
       {loading ? (
         <Loading /> // แสดง loading component ถ้ากำลังโหลด
