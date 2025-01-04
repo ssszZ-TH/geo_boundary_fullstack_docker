@@ -1,0 +1,2723 @@
+รหัสสำนักทะเบียน/อำเภอ,จังหวัด/สำนักทะเบียน/อำเภอ ภาษาไทย,จังหวัด/สำนักทะเบียน/อำเภอ ภาษาอังกฤษ,ปีเดือนวันที่จำหน่าย
+1000,กรุงเทพมหานคร,Bangkok,0
+1001,ท้องถิ่นเขตพระนคร,Phra Nakhon District,0
+1002,ท้องถิ่นเขตดุสิต,Dusit District,0
+1003,ท้องถิ่นเขตหนองจอก,Nong Chok District,0
+1004,ท้องถิ่นเขตบางรัก,Bang Rak District,0
+1005,ท้องถิ่นเขตบางเขน,Bang Khen District,0
+1006,ท้องถิ่นเขตบางกะปิ,Bang Kapi District,0
+1007,ท้องถิ่นเขตปทุมวัน,Pathum Wan District,0
+1008,ท้องถิ่นเขตป้อมปราบศัตรูพ่าย,Pom Prap Sattru Phai District,0
+1009,ท้องถิ่นเขตพระโขนง,Phra Khanong District,0
+1010,ท้องถิ่นเขตมีนบุรี,Min Buri District,0
+1011,ท้องถิ่นเขตลาดกระบัง,Lat Krabang District,0
+1012,ท้องถิ่นเขตยานนาวา,Yan Nawa District,0
+1013,ท้องถิ่นเขตสัมพันธวงศ์,Samphanthawong District,0
+1014,ท้องถิ่นเขตพญาไท,Phaya Thai District,0
+1015,ท้องถิ่นเขตธนบุรี,Thon Buri District,0
+1016,ท้องถิ่นเขตบางกอกใหญ่,Bangkok Yai District,0
+1017,ท้องถิ่นเขตห้วยขวาง,Huai Khwang District,0
+1018,ท้องถิ่นเขตคลองสาน,Khlong San District,0
+1019,ท้องถิ่นเขตตลิ่งชัน,Taling Chan District,0
+1020,ท้องถิ่นเขตบางกอกน้อย,Bangkok Noi District,0
+1021,ท้องถิ่นเขตบางขุนเทียน,Bang Khun Thian District,0
+1022,ท้องถิ่นเขตภาษีเจริญ,Phasi Charoen District,0
+1023,ท้องถิ่นเขตหนองแขม,Nong Khaem District,0
+1024,ท้องถิ่นเขตราษฎร์บูรณะ,Rat Burana District,0
+1025,ท้องถิ่นเขตบางพลัด,Bang Phlat District,0
+1026,ท้องถิ่นเขตดินแดง,Din Daeng District,0
+1027,ท้องถิ่นเขตบึงกุ่ม,Bueng Kum District,0
+1028,ท้องถิ่นเขตสาทร,Sathon District,0
+1029,ท้องถิ่นเขตบางซื่อ,Bang Sue District,0
+1030,ท้องถิ่นเขตจตุจักร,Chatuchak District,0
+1031,ท้องถิ่นเขตบางคอแหลม,Bang Kho Laem District,0
+1032,ท้องถิ่นเขตประเวศ,Prawet District,0
+1033,ท้องถิ่นเขตคลองเตย,Khlong Toei District,0
+1034,ท้องถิ่นเขตสวนหลวง,Suan Luang District,0
+1035,ท้องถิ่นเขตจอมทอง,Chom Thong District,0
+1036,ท้องถิ่นเขตดอนเมือง,Don Mueang District,0
+1037,ท้องถิ่นเขตราชเทวี,Ratchathewi District,0
+1038,ท้องถิ่นเขตลาดพร้าว,Lat Phrao District,0
+1039,ท้องถิ่นเขตวัฒนา,Vadhana District,0
+1040,ท้องถิ่นเขตบางแค,Bang Khae District,0
+1041,ท้องถิ่นเขตหลักสี่,Lak Si District,0
+1042,ท้องถิ่นเขตสายไหม,Sai Mai District,0
+1043,ท้องถิ่นเขตคันนายาว,Khan Na Yao District,0
+1044,ท้องถิ่นเขตสะพานสูง,Saphan Sung District,0
+1045,ท้องถิ่นเขตวังทองหลาง,Wang Thonglang District,0
+1046,ท้องถิ่นเขตคลองสามวา,Khlong Sam Wa District,0
+1047,ท้องถิ่นเขตบางนา,Bang Na District,0
+1048,ท้องถิ่นเขตทวีวัฒนา,Thawi Watthana District,0
+1049,ท้องถิ่นเขตทุ่งครุ,Thung Khru District,0
+1050,ท้องถิ่นเขตบางบอน,Bang Bon District,0
+1098,สำนักงานปกครองและทะเบียน,Administration and Registration Office,0
+1099,สำนักทะเบียนกลาง,Central Registration Office,0
+1100,จังหวัดสมุทรปราการ,Samut Prakan Province,0
+1101,อำเภอเมืองสมุทรปราการ,Mueang Samut Prakan District,0
+1102,อำเภอบางบ่อ,Bang Bo District,0
+1103,อำเภอบางพลี,Bang Phli District,0
+1104,อำเภอพระประแดง,Phra Pradaeng District,0
+1105,อำเภอพระสมุทรเจดีย์,Phra Samut Chedi District,0
+1106,อำเภอบางเสาธง,Bang Sao Thong District,0
+1182,ท้องถิ่นเทศบาลเมืองบางแก้ว,Bang Kaeo Town Municipality,25660418
+1183,ท้องถิ่นเทศบาลเมืองปากน้ำสมุทรปราการ,Paknam Samut Prakan Town Municipality,0
+1184,ท้องถิ่นเทศบาลตำบลบางเสาธง,Bang Sao Thong Sub-district Municipality,0
+1185,ท้องถิ่นเทศบาลตำบลแหลมฟ้าผ่า,Laem Fapha Sub-district Municipality,0
+1186,ท้องถิ่นเทศบาลตำบลพระสมุทรเจดีย์,Phra Samut Chedi Sub-district Municipality,0
+1187,ท้องถิ่นเทศบาลตำบลบางพลี,Bang Phli Sub-district Municipality,0
+1188,ท้องถิ่นเทศบาลตำบลบางบ่อ,Bang Bo Sub-district Municipality,0
+1189,ท้องถิ่นเทศบาลตำบลคลองสวน,Khlong Suan Sub-district Municipality,0
+1190,ท้องถิ่นเทศบาลตำบลคลองด่าน,Khlong Dan Sub-district Municipality,0
+1191,ท้องถิ่นเทศบาลตำบลบางปู,Bang Pu Sub-district Municipality,0
+1192,ท้องถิ่นเทศบาลตำบลแพรกษา,Phraek Sa Sub-district Municipality,0
+1193,ท้องถิ่นเทศบาลตำบลบางเมือง,Bang Mueang Sub-district Municipality,0
+1194,ท้องถิ่นเทศบาลตำบลด่านสำโรง,Dan Samrong Sub-district Municipality,0
+1195,ท้องถิ่นเทศบาลเมืองปู่เจ้าสมิงพราย,Puchaosamingphrai Town Municipality,0
+1196,ท้องถิ่นเทศบาลตำบลสำโรงเหนือ,Samrong Nuea Sub-district Municipality,0
+1197,ท้องถิ่นเทศบาลเมืองลัดหลวง,Lat Luang Town Municipality,0
+1198,ท้องถิ่นเทศบาลเมืองพระประแดง,Phra Pradaeng Town Municipality,0
+1199,ท้องถิ่นเทศบาลนครสมุทรปราการ,Samut Prakan City Municipality,0
+1200,จังหวัดนนทบุรี,Nonthaburi Province,0
+1201,อำเภอเมืองนนทบุรี,Mueang Nonthaburi District,0
+1202,อำเภอบางกรวย,Bang Kruai District,0
+1203,อำเภอบางใหญ่,Bang Yai District,0
+1204,อำเภอบางบัวทอง,Bang Bua Thong District,0
+1205,อำเภอไทรน้อย,Sai Noi District,0
+1206,อำเภอปากเกร็ด,Pak Kret District,0
+1251,สาขาแขวงท่าทราย อำเภอเมืองนนทบุรี,Tha Sai Branch Mueang Nonthaburi District,25470611
+1284,ท้องถิ่นเทศบาลเมืองบางรักพัฒนา,Bang Rak Phatthana Town Municipality,25660418
+1285,ท้องถิ่นเทศบาลเมืองบางคูรัด,Bang Khu Rat Town Municipality,25660418
+1286,ท้องถิ่นเทศบาลตำบลเสาธงหิน,Sao Thong Hin Sub-district Municipality,0
+1287,ท้องถิ่นเทศบาลตำบลบางพลับ,Bang Phlap Sub-district Municipality,0
+1288,ท้องถิ่นเทศบาลเมืองพิมลราช,Phimon Rat Town Municipality,0
+1289,ท้องถิ่นเทศบาลตำบลศาลากลาง,Sala Klang Sub-district Municipality,0
+1290,ท้องถิ่นเทศบาลเมืองไทรม้า,Sai Ma Town Municipality,0
+1291,ท้องถิ่นเทศบาลตำบลไทรน้อย,Sai Noi Sub-district Municipality,0
+1292,ท้องถิ่นเทศบาลตำบลบางใหญ่,Bang Yai Sub-district Municipality,0
+1293,ท้องถิ่นเทศบาลตำบลบางม่วง,Bang Muang Sub-district Municipality,0
+1294,ท้องถิ่นเทศบาลตำบลปลายบาง,Plai Bang Sub-district Municipality,0
+1295,ท้องถิ่นเทศบาลเมืองบางศรีเมือง,Bang Simueang Town Municipality,0
+1296,ท้องถิ่นเทศบาลเมืองบางกรวย,Bang Kruai Town Municipality,0
+1297,ท้องถิ่นเทศบาลนครปากเกร็ด,Pak Kret City Municipality,0
+1298,ท้องถิ่นเทศบาลเมืองบางบัวทอง,Bang Bua Thong Town Municipality,0
+1299,ท้องถิ่นเทศบาลนครนนทบุรี,Nonthaburi City Municipality,0
+1300,จังหวัดปทุมธานี,Pathum Thani Province,0
+1301,อำเภอเมืองปทุมธานี,Mueang Pathum Thani District,0
+1302,อำเภอคลองหลวง,Khlong Luang District,0
+1303,อำเภอธัญบุรี,Thanyaburi District,0
+1304,อำเภอหนองเสือ,Nong Suea District,0
+1305,อำเภอลาดหลุมแก้ว,Lat Lum Kaeo District,0
+1306,อำเภอลำลูกกา,Lam Luk Ka District,0
+1307,อำเภอสามโคก,Sam Khok District,0
+1351,สาขาตำบลคูคต อำเภอลำลูกกา,Khu Khot Branch Lam Luk Ka District,25470611
+1379,ท้องถิ่นเทศบาลเมืองลาดสวาย,Lat Sawai Town Municipality,0
+1380,ท้องถิ่นเทศบาลตำบลบางพูน,Bang Phun Sub-district Municipality,0
+1381,ท้องถิ่นเทศบาลตำบลบ้านกลาง,Bang Klang Sub-district Municipality,0
+1382,ท้องถิ่นเทศบาลเมืองลำสามแก้ว,Lam Samkaeo Town Municipality,0
+1383,ท้องถิ่นเทศบาลเมืองบางคูวัด,Bang Khu Wat Town Municipality,25660418
+1384,ท้องถิ่นเทศบาลเมืองบึงยี่โถ,Bueng Yitho Town Municipality,0
+1385,ท้องถิ่นเทศบาลตำบลหลักหก,Lak Hok Sub-district Municipality,25550101
+1386,ท้องถิ่นเทศบาลเมืองบางกะดี,Bang Kadi Town Municipality,0
+1387,ท้องถิ่นเทศบาลตำบลบางเตย,Bang Toei Sub-district Municipality,0
+1388,ท้องถิ่นเทศบาลตำบลลำลูกกา,Lam Luk Ka Sub-district Municipality,0
+1389,ท้องถิ่นเทศบาลตำบลลำไทร,Lam Sai Sub-district Municipality,0
+1390,ท้องถิ่นเทศบาลตำบลระแหง,Rahaeng Sub-district Municipality,0
+1391,ท้องถิ่นเทศบาลตำบลหนองเสือ,Nong Suea Sub-district Municipality,0
+1392,ท้องถิ่นเทศบาลเมืองสนั่นรักษ์,Sanan Rak Town Municipality,0
+1393,ท้องถิ่นเทศบาลตำบลธัญบุรี,Thanyaburi Sub-district Municipality,0
+1394,ท้องถิ่นเทศบาลเมืองคลองหลวง,Khlong Luang  Town Municipality,0
+1395,ท้องถิ่นเทศบาลตำบลบางหลวง,Bang Luang Sub-district Municipality,0
+1396,ท้องถิ่นเทศบาลเมืองท่าโขลง,Tha Klong Town Municipality,0
+1397,ท้องถิ่นเทศบาลเมืองคูคต,Khu Khot Town Municipality,0
+1398,ท้องถิ่นเทศบาลนครรังสิต,Rang Sit City Municipality,0
+1399,ท้องถิ่นเทศบาลเมืองปทุมธานี,Pathum Thani Town Municipality,0
+1400,จังหวัดพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,0
+1401,อำเภอพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya District,0
+1402,อำเภอท่าเรือ,Tha Ruea District,0
+1403,อำเภอนครหลวง,Nakhon Luang District,0
+1404,อำเภอบางไทร,Bang Sai District,0
+1405,อำเภอบางบาล,Bang Ban District,0
+1406,อำเภอบางปะอิน,Bang Pa-in District,0
+1407,อำเภอบางปะหัน,Bang Pahan District,0
+1408,อำเภอผักไห่,Phak Hai District,0
+1409,อำเภอภาชี,Phachi District,0
+1410,อำเภอลาดบัวหลวง,Lat Bua Luang District,0
+1411,อำเภอวังน้อย,Wang Noi District,0
+1412,อำเภอเสนา,Sena District,0
+1413,อำเภอบางซ้าย,Bang Saai District,0
+1414,อำเภออุทัย,Uthai District,0
+1415,อำเภอมหาราช,Maha Rat District,0
+1416,อำเภอบ้านแพรก,Ban Phraek District,0
+1465,ท้องถิ่นเทศบาลเมืองบ้านกรด,Bankrod Town Municipality,0
+1466,ท้องถิ่นเทศบาลตำบลสามเมือง,Sam Mueang Sub-district Municipality,0
+1467,ท้องถิ่นเทศบาลตำบลสามกอ,Sam Ko Sub-district Municipality,0
+1468,ท้องถิ่นเทศบาลตำบลบางนมโค,Bang Nom Kho Sub-district Municipality,0
+1469,ท้องถิ่นเทศบาลตำบลบางกระสั้น,Bang Kra San Sub-district Municipality,0
+1470,ท้องถิ่นเทศบาลตำบลเชียงรากน้อย,Chiang Rak Noi Sub-district Municipality,0
+1471,ท้องถิ่นเทศบาลตำบลคลองจิก,Khlong Chik Sub-district Municipality,0
+1472,ท้องถิ่นเทศบาลตำบลปราสาททอง,Prasat Thong Sub-district Municipality,0
+1473,ท้องถิ่นเทศบาลตำบลบ้านแพรก,Ban Phraek Sub-district Municipality,0
+1474,ท้องถิ่นเทศบาลตำบลโรงช้าง,Rong Chang Sub-district Municipality,0
+1475,ท้องถิ่นเทศบาลตำบลมหาราช,Maharat Sub-district Municipality,0
+1476,ท้องถิ่นเทศบาลตำบลอุทัย,Uthai Sub-district Municipality,0
+1477,ท้องถิ่นเทศบาลตำบลบางซ้าย,Bang Sai Sub-district Municipality,0
+1478,ท้องถิ่นเทศบาลตำบลหัวเวียง,Hua Wiang Sub-district Municipality,0
+1479,ท้องถิ่นเทศบาลเมืองลำตาเสา,Lam Ta Sao Town Municipality,0
+1480,ท้องถิ่นเทศบาลตำบลลาดบัวหลวง,Lat Bua Luang Sub-district Municipality,0
+1481,ท้องถิ่นเทศบาลตำบลภาชี,Phachi Sub-district Municipality,0
+1482,ท้องถิ่นเทศบาลตำบลลาดชะโด,Lat Chado Sub-district Municipality,0
+1483,ท้องถิ่นเทศบาลเมืองผักไห่,Phak Hai Town Municipality,0
+1484,ท้องถิ่นเทศบาลตำบลพระอินทราชา,Phra In Tha Racha Sub-district Municipality,0
+1485,ท้องถิ่นเทศบาลตำบลบ้านสร้าง,Ban Sang Sub-district Municipality,0
+1486,ท้องถิ่นเทศบาลตำบลบางปะอิน,Bang Pa-in Sub-district Municipality,0
+1487,ท้องถิ่นเทศบาลตำบลบางปะหัน,Bang Pahan Sub-district Municipality,0
+1488,ท้องถิ่นเทศบาลตำบลมหาพราหมณ์,Maha Phram Sub-district Municipality,0
+1489,ท้องถิ่นเทศบาลตำบลบางบาล,Bang Ban Sub-district Municipality,0
+1490,ท้องถิ่นเทศบาลตำบลราชคราม,Ratchakhram Sub-district Municipality,0
+1491,ท้องถิ่นเทศบาลตำบลบางไทร,Bang Sai Sub-district Municipality,0
+1492,ท้องถิ่นเทศบาลตำบลอรัญญิก,Aranyik Sub-district Municipality,0
+1493,ท้องถิ่นเทศบาลตำบลนครหลวง,Nakhon Luang Sub-district Municipality,0
+1494,ท้องถิ่นเทศบาลตำบลท่าหลวง,Tha Luang Sub-district Municipality,0
+1495,ท้องถิ่นเทศบาลเมืองอโยธยา,Ayotaya Town Municipality,0
+1496,ท้องถิ่นเทศบาลตำบลเจ้าเจ็ด,Chao Chet Sub-district Municipality,0
+1497,ท้องถิ่นเทศบาลตำบลท่าเรือ,Tha Ruea Sub-district Municipality,0
+1498,ท้องถิ่นเทศบาลเมืองเสนา,Sena Town Municipality,0
+1499,ท้องถิ่นเทศบาลนครพระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya City Municipality,0
+1500,จังหวัดอ่างทอง,Ang Thong Province,0
+1501,อำเภอเมืองอ่างทอง,Mueang Ang Thong District,0
+1502,อำเภอไชโย,Chaiyo District,0
+1503,อำเภอป่าโมก,Pa Mok District,0
+1504,อำเภอโพธิ์ทอง,Pho Thong District,0
+1505,อำเภอแสวงหา,Sawaeng Ha District,0
+1506,อำเภอวิเศษชัยชาญ,Wiset Chai Chan District,0
+1507,อำเภอสามโก้,Samko District,0
+1588,ท้องถิ่นเทศบาลตำบลโพสะ,Phosa Sub-district Municipality,25550101
+1589,ท้องถิ่นเทศบาลตำบลศาลาแดง,Sala Daeng Sub-district Municipality,25550101
+1590,ท้องถิ่นเทศบาลตำบลสามโก้,Samko Sub-district Municipality,0
+1591,ท้องถิ่นเทศบาลตำบลวิเศษไชยชาญ,Wiset Chai Chan Sub-district Municipality,0
+1592,ท้องถิ่นเทศบาลตำบลบางจัก,Bang Chak Sub-district Municipality,0
+1593,ท้องถิ่นเทศบาลตำบลแสวงหา,Sawaeng Ha Sub-district Municipality,0
+1594,ท้องถิ่นเทศบาลตำบลรำมะสัก,Ram Ma Sak Sub-district Municipality,0
+1595,ท้องถิ่นเทศบาลตำบลโพธิ์ทอง,Pho Thong Sub-district Municipality,0
+1596,ท้องถิ่นเทศบาลตำบลไชโย,Chaiyo Sub-district Municipality,0
+1597,ท้องถิ่นเทศบาลตำบลเกษไชโย,Ket Chaiyo Sub-district Municipality,0
+1598,ท้องถิ่นเทศบาลตำบลป่าโมก,Pa Mok Sub-district Municipality,0
+1599,ท้องถิ่นเทศบาลเมืองอ่างทอง,Ang Thong Town Municipality,0
+1600,จังหวัดลพบุรี,Lop Buri Province,0
+1601,อำเภอเมืองลพบุรี,Mueang Lop Buri District,0
+1602,อำเภอพัฒนานิคม,Phatthana Nikhom District,0
+1603,อำเภอโคกสำโรง,Khok Samrong District,0
+1604,อำเภอชัยบาดาล,Chai Badan District,0
+1605,อำเภอท่าวุ้ง,Tha Wung District,0
+1606,อำเภอบ้านหมี่,Ban Mi District,0
+1607,อำเภอท่าหลวง,Tha Luang District,0
+1608,อำเภอสระโบสถ์,Sa Bot District,0
+1609,อำเภอโคกเจริญ,Khok Charoen District,0
+1610,อำเภอลำสนธิ,Lam Sonthi District,0
+1611,อำเภอหนองม่วง,Nong Muang District,0
+1681,ท้องถิ่นเทศบาลตำบลกกโก,Kok Ko Sub-district Municipality,0
+1682,ท้องถิ่นเทศบาลตำบลถนนใหญ่,Thanon Yai Sub-district Municipality,0
+1683,ท้องถิ่นเทศบาลเมืองเขาสามยอด,Khao Sam Yot Town Municipality,0
+1684,ท้องถิ่นเทศบาลตำบลท่าศาลา,Tha Sala Sub-district Municipality,0
+1685,ท้องถิ่นเทศบาลตำบลดีลัง,Di Lang Sub-district Municipality,0
+1686,ท้องถิ่นเทศบาลตำบลเขาพระงาม,Khao Phra Ngam Sub-district Municipality,0
+1687,ท้องถิ่นเทศบาลตำบลหนองม่วง,Nong Muang Sub-district Municipality,25550101
+1688,ท้องถิ่นเทศบาลตำบลสระโบสถ์,Sa Bot Sub-district Municipality,0
+1689,ท้องถิ่นเทศบาลตำบลบ้านท่าหลวง,Ban Tha Luang Sub-district Municipality,0
+1690,ท้องถิ่นเทศบาลตำบลท่าวุ้ง,Tha Wung Sub-district Municipality,0
+1691,ท้องถิ่นเทศบาลตำบลท่าโขลง,Tha Khlong Sub-district Municipality,0
+1692,ท้องถิ่นเทศบาลตำบลลำนารายณ์,Lam Narai Sub-district Municipality,0
+1693,ท้องถิ่นเทศบาลตำบลหนองม่วง,Nong Muang Sub-district Municipality,0
+1694,ท้องถิ่นเทศบาลตำบลพัฒนานิคม,Phatthana Nikhom Sub-district Municipality,0
+1695,ท้องถิ่นเทศบาลตำบลแก่งเสือเต้น,Kaeng Suea Ten Sub-district Municipality,0
+1696,ท้องถิ่นเทศบาลตำบลโคกตูม,Khok Tum Sub-district Municipality,0
+1697,ท้องถิ่นเทศบาลตำบลโคกสำโรง,Khok Samrong Sub-district Municipality,0
+1698,ท้องถิ่นเทศบาลเมืองบ้านหมี่,Ban Mi Town Municipality,0
+1699,ท้องถิ่นเทศบาลเมืองลพบุรี,Lop Buri Town Municipality,0
+1700,จังหวัดสิงห์บุรี,Sing Buri Province,0
+1701,อำเภอเมืองสิงห์บุรี,Mueang Sing Buri District,0
+1702,อำเภอบางระจัน,Bang Rachan District,0
+1703,อำเภอค่ายบางระจัน,Khai Bang Rachan District,0
+1704,อำเภอพรหมบุรี,Phrom Buri District,0
+1705,อำเภอท่าช้าง,Tha Chang District,0
+1706,อำเภออินทร์บุรี,In Buri District,0
+1793,ท้องถิ่นเทศบาลตำบลอินทร์บุรี,In Buri Sub-district Municipality,0
+1794,ท้องถิ่นเทศบาลตำบลถอนสมอ,Thonsamo Sub-district Municipality,0
+1795,ท้องถิ่นเทศบาลตำบลพรหมบุรี,Phrom Buri Sub-district Municipality,0
+1796,ท้องถิ่นเทศบาลตำบลบางน้ำเชี่ยว,Bang Nam Chiao Sub-district Municipality,0
+1797,ท้องถิ่นเทศบาลตำบลโพสังโฆ,Pho Sang Kho Sub-district Municipality,0
+1798,ท้องถิ่นเทศบาลเมืองบางระจัน,Bang Rachan Town Municipality,0
+1799,ท้องถิ่นเทศบาลเมืองสิงห์บุรี,Sing Buri Town Municipality,0
+1800,จังหวัดชัยนาท,Chai Nat Province,0
+1801,อำเภอเมืองชัยนาท,Mueang Chai Nat District,0
+1802,อำเภอมโนรมย์,Manorom District,0
+1803,อำเภอวัดสิงห์,Wat Sing District,0
+1804,อำเภอสรรพยา,Sapphaya District,0
+1805,อำเภอสรรคบุรี,Sankhaburi District,0
+1806,อำเภอหันคา,Hankha District,0
+1807,อำเภอหนองมะโมง,Nong Mamong District,0
+1808,อำเภอเนินขาม,Noen Kham District,0
+1809,กิ่งอำเภอศรีหนองแซง,Sri Nong Saeng Minor District,25550101
+1880,ท้องถิ่นเทศบาลตำบลบางหลวง,Bang Luang Sub-district Municipality,0
+1881,ท้องถิ่นเทศบาลตำบลนางลือ,Nang Lue Sub-district Municipality,0
+1882,ท้องถิ่นเทศบาลตำบลเสือโฮก,Suea Hok Sub-district Municipality,0
+1883,ท้องถิ่นเทศบาลตำบลหาดท่าเสา,Hat Tha Sao Sub-district Municipality,0
+1884,ท้องถิ่นเทศบาลตำบลชัยนาท,Chai Nat Sub-district Municipality,0
+1885,ท้องถิ่นเทศบาลตำบลบ้านกล้วย,Ban Kluai Sub-district Municipality,0
+1886,ท้องถิ่นเทศบาลตำบลสรรคบุรี,Sankhaburi Sub-district Municipality,25550101
+1887,ท้องถิ่นเทศบาลตำบลหนองแซง,Nongsaeng Sub-district Municipality,0
+1888,ท้องถิ่นเทศบาลตำบลดงคอน,Dong Khon Sub-district Municipality,25550101
+1889,ท้องถิ่นเทศบาลตำบลวังตะเคียน,Wang Takhian Sub-district Municipality,0
+1890,ท้องถิ่นเทศบาลตำบลเนินขาม,Noen Kham Sub-district Municipality,0
+1891,ท้องถิ่นเทศบาลตำบลหันคา,Hankha Sub-district Municipality,0
+1892,ท้องถิ่นเทศบาลตำบลสามง่ามท่าโบสถ์,Samngam Tha Bot Sub-district Municipality,0
+1893,ท้องถิ่นเทศบาลตำบลแพรกศรีราชา,Phraek Si Racha Sub-district Municipality,0
+1894,ท้องถิ่นเทศบาลตำบลสรรพยา,Sapphaya Sub-district Municipality,0
+1895,ท้องถิ่นเทศบาลตำบลโพธิ์พิทักษ์,Pho Phithak Sub-district Municipality,0
+1896,ท้องถิ่นเทศบาลตำบลหางน้ำสาคร,Hang Nam Sakhon Sub-district Municipality,0
+1897,ท้องถิ่นเทศบาลตำบลคุ้งสำเภา,Khung Samphao Sub-district Municipality,0
+1898,ท้องถิ่นเทศบาลตำบลวัดสิงห์,Wat Sing Sub-district Municipality,0
+1899,ท้องถิ่นเทศบาลเมืองชัยนาท,Chai Nat Town Municipality,0
+1900,จังหวัดสระบุรี,Saraburi Province,0
+1901,อำเภอเมืองสระบุรี,Mueang Saraburi District,0
+1902,อำเภอแก่งคอย,Kaeng Khoi District,0
+1903,อำเภอหนองแค,Nong Khae District,0
+1904,อำเภอวิหารแดง,Wihan Daeng District,0
+1905,อำเภอหนองแซง,Nong Saeng District,0
+1906,อำเภอบ้านหมอ,Ban Mo District,0
+1907,อำเภอดอนพุด,Don Phut District,0
+1908,อำเภอหนองโดน,Nong Don District,0
+1909,อำเภอพระพุทธบาท,Phra Phutthabat District,0
+1910,อำเภอเสาไห้,Sao Hai District,0
+1911,อำเภอมวกเหล็ก,Muak Lek District,0
+1912,อำเภอวังม่วง,Wang Muang District,0
+1913,อำเภอเฉลิมพระเกียรติ,Chaloem Phra Kiat District ,0
+1974,ท้องถิ่นเทศบาลตำบลพุกร่าง,Phuk Rang Sub-district Municipality,0
+1975,ท้องถิ่นเทศบาลตำบลคำพราน,Kham Phran Sub-district Municipality,0
+1976,ท้องถิ่นเทศบาลตำบลไผ่ต่ำ,Phai Tam Sub-district Municipality,0
+1977,ท้องถิ่นเทศบาลตำบลตะกุด,Ta Kut Sub-district Municipality,0
+1978,ท้องถิ่นเทศบาลตำบลกุดนกเปล้า,Kut Nok Plao Sub-district Municipality,0
+1979,ท้องถิ่นเทศบาลตำบลหน้าพระลาน,Na Phra Lan Sub-district Municipality,0
+1980,ท้องถิ่นเทศบาลตำบลวังม่วง,Wang Muang Sub-district Municipality,0
+1981,ท้องถิ่นเทศบาลตำบลมวกเหล็ก,Muak Lek Sub-district Municipality,0
+1982,ท้องถิ่นเทศบาลตำบลเสาไห้,Sao Hai Sub-district Municipality,0
+1983,ท้องถิ่นเทศบาลตำบลสวนดอกไม้,Suan Dokmai Sub-district Municipality,0
+1984,ท้องถิ่นเทศบาลตำบลบ้านยาง,Ban Yang Sub-district Municipality,0
+1985,ท้องถิ่นเทศบาลตำบลหนองโดน,Nong Don Sub-district Municipality,0
+1986,ท้องถิ่นเทศบาลตำบลดอนพุด,Don Phut Sub-district Municipality,0
+1987,ท้องถิ่นเทศบาลตำบลบ้านหมอ,Ban Mo Sub-district Municipality,0
+1988,ท้องถิ่นเทศบาลตำบลท่าลาน,Tha Lan Sub-district Municipality,0
+1989,ท้องถิ่นเทศบาลตำบลหนองแซง,Nongsaeng Sub-district Municipality,0
+1990,ท้องถิ่นเทศบาลตำบลหนองหมู,Nong Mu Sub-district Municipality,0
+1991,ท้องถิ่นเทศบาลตำบลวิหารแดง,Wihan Daeng Sub-district Municipality,0
+1992,ท้องถิ่นเทศบาลตำบลหินกอง,Hin Kong Sub-district Municipality,0
+1993,ท้องถิ่นเทศบาลตำบลคชสิทธิ์,Khotcha Sit Sub-district Municipality,0
+1994,ท้องถิ่นเทศบาลเมืองทับกวาง,Thap Kwang Town Municipality,0
+1995,ท้องถิ่นเทศบาลตำบลป๊อกแป๊ก,Pok Paek Sub-district Municipality,0
+1996,ท้องถิ่นเทศบาลเมืองพระพุทธบาท,Phra Phutthabat Town Municipality,0
+1997,ท้องถิ่นเทศบาลตำบลหนองแค,Nong Khae Sub-district Municipality,0
+1998,ท้องถิ่นเทศบาลเมืองแก่งคอย,Kaeng Khoi Town Municipality,0
+1999,ท้องถิ่นเทศบาลเมืองสระบุรี,Saraburi Town Municipality,0
+2000,จังหวัดชลบุรี,Chon Buri Province,0
+2001,อำเภอเมืองชลบุรี,Mueang Chon Buri District,0
+2002,อำเภอบ้านบึง,Ban Bueng District,0
+2003,อำเภอหนองใหญ่,Nong Yai District,0
+2004,อำเภอบางละมุง,Bang Lamung District,0
+2005,อำเภอพานทอง,Phan Thong District,0
+2006,อำเภอพนัสนิคม,Phanat Nikhom District,0
+2007,อำเภอศรีราชา,Si Racha District,0
+2008,อำเภอเกาะสีชัง,Ko Sichang District,0
+2009,อำเภอสัตหีบ,Sattahip District,0
+2010,อำเภอบ่อทอง,Bo Thong District,0
+2011,อำเภอเกาะจันทร์,Ko Chan District,0
+2051,สาขาตำบลบางเสร่,Bang Sare Branch,25550101
+2059,ท้องถิ่นเทศบาลเมืองปรกฟ้า,Prok Fa Town Municipality,25630326
+2060,ท้องถิ่นเทศบาลตำบลเกล็ดแก้ว,Kret Kaeo Sub-district Municipality,0
+2061,ท้องถิ่นเทศบาลตำบลเขตรอุดมศักดิ์,Khet Udom Sak Sub-district Municipality,0
+2062,ท้องถิ่นเทศบาลตำบลหนองชาก,Nong Chak Sub-district Municipality,25550101
+2063,ท้องถิ่นเทศบาลตำบลหมอนนาง,Mon Nang Sub-district Municipality,0
+2064,ท้องถิ่นเทศบาลตำบลตะเคียนเตี้ย,Takhian Tia Sub-district Municipality,0
+2065,ท้องถิ่นเทศบาลตำบลเสม็ด,Samet Sub-district Municipality,0
+2066,ท้องถิ่นเทศบาลตำบลดอนหัวฬ่อ,Don Hua Lo Sub-district Municipality,0
+2067,ท้องถิ่นเทศบาลตำบลห้วยกะปิ,Huai Kapi Sub-district Municipality,0
+2068,ท้องถิ่นเทศบาลตำบลนาป่า,Na Pa Sub-district Municipality,0
+2069,ท้องถิ่นเทศบาลตำบลหนองไม้แดง,Nong Maidaeng Sub-district Municipality,0
+2070,ท้องถิ่นเทศบาลตำบลธาตุทอง,That Thong Sub-district Municipality,0
+2071,ท้องถิ่นเทศบาลตำบลโป่ง,Pong Sub-district Municipality,0
+2072,ท้องถิ่นเทศบาลเมืองหนองปรือ,Nong Prue Town Municipality,0
+2073,ท้องถิ่นเทศบาลตำบลท่าบุญมี,Tha Bunmi Sub-district Municipality,0
+2074,ท้องถิ่นเทศบาลตำบลเกาะจันทร์,Ko Chan Sub-district Municipality,0
+2075,ท้องถิ่นเทศบาลตำบลบ่อทอง,Bo Thong Sub-district Municipality,0
+2076,ท้องถิ่นเทศบาลเมืองสัตหีบ,Sattahip Town Municipality,0
+2077,ท้องถิ่นเทศบาลตำบลบางเสร่,Bang Sare Sub-district Municipality,0
+2078,ท้องถิ่นเทศบาลตำบลนาจอมเทียน,Na Chom Thian Sub-district Municipality,0
+2079,ท้องถิ่นเทศบาลตำบลเกาะสีชัง,Ko Si  Chang Sub-district Municipality,0
+2080,ท้องถิ่นเทศบาลนครเจ้าพระยาสุรศักดิ์,Chaophraya Surasak City Municipality,0
+2081,ท้องถิ่นเทศบาลตำบลบางพระ,Bang Phra Sub-district Municipality,0
+2082,ท้องถิ่นเทศบาลตำบลหนองตำลึง,Nong Tamlueng Sub-district Municipality,0
+2083,ท้องถิ่นเทศบาลตำบลพานทอง,Phan Thong Sub-district Municipality,0
+2084,ท้องถิ่นเทศบาลตำบลห้วยใหญ่,Huai Yai Sub-district Municipality,0
+2085,ท้องถิ่นเทศบาลตำบลบางละมุง,Bang Lamung Sub-district Municipality,0
+2086,ท้องถิ่นเทศบาลตำบลหนองใหญ่,Nong Yai Sub-district Municipality,0
+2087,ท้องถิ่นเทศบาลตำบลหัวกุญแจ,Huakunchae Sub-district Municipality,0
+2088,ท้องถิ่นเทศบาลตำบลหนองไผ่แก้ว,Nong Phai Kaeo Sub-district Municipality,0
+2089,ท้องถิ่นเทศบาลเมืองอ่างศิลา,Ang Sila Town Municipality,0
+2090,ท้องถิ่นเทศบาลเมืองบ้านสวน,Ban Suan Town Municipality,0
+2091,ท้องถิ่นเทศบาลตำบลบางทราย,Bang Sai Sub-district Municipality,0
+2092,ท้องถิ่นเทศบาลตำบลคลองตำหรุ,Khlong Tam Ru Sub-district Municipality,0
+2093,ท้องถิ่นเทศบาลนครแหลมฉบัง,Laem Chabang City Municipality,0
+2094,ท้องถิ่นเทศบาลเมืองแสนสุข,Saen Suk Town Municipality,0
+2095,ท้องถิ่นเทศบาลเมืองบ้านบึง,Ban Bueng Town Municipality,0
+2096,ท้องถิ่นเมืองพัทยา,Pattaya Town Municipality,0
+2097,ท้องถิ่นเทศบาลเมืองศรีราชา,Si Racha Town Municipality,0
+2098,ท้องถิ่นเทศบาลเมืองพนัสนิคม,Phanat Nikhom Town Municipality,0
+2099,ท้องถิ่นเทศบาลเมืองชลบุรี,Chon Buri Town Municipality,0
+2100,จังหวัดระยอง,Rayong Province,0
+2101,อำเภอเมืองระยอง,Mueang Rayong District,0
+2102,อำเภอบ้านฉาง,Ban Chang District,0
+2103,อำเภอแกลง,Klaeng District,0
+2104,อำเภอวังจันทร์,Wang Chan District,0
+2105,อำเภอบ้านค่าย,Ban Khai District,0
+2106,อำเภอปลวกแดง,Pluak Daeng District,0
+2107,อำเภอเขาชะเมา,Khao Chamao District,0
+2108,อำเภอนิคมพัฒนา,Nikhom Phatthana District,0
+2109,กิ่งอำเภอสุนทรภู่,Sunthorn Phu Minor District,25550101
+2151,สาขาตำบลมาบข่า,Map Kha Branch,25550101
+2177,ท้องถิ่นเทศบาลตำบลพลา,Phala Sub-district Municipality,0
+2178,ท้องถิ่นเทศบาลตำบลเนินฆ้อ,Noen Kho Sub-district Municipality,0
+2179,ท้องถิ่นเทศบาลตำบลทับมา,Thap Ma Sub-district Municipality,0
+2180,ท้องถิ่นเทศบาลตำบลบ้านนา,Ban Na Sub-district Municipality,0
+2181,ท้องถิ่นเทศบาลตำบลมาบข่าพัฒนา,Mab Kha Pattana Sab-District Municipality,0
+2182,ท้องถิ่นเทศบาลตำบลบ้านฉาง,Ban Chang Sub-district Municipality,0
+2183,ท้องถิ่นเทศบาลตำบลมะขามคู่,Makham Khu Sub-district Municipality,0
+2184,ท้องถิ่นเทศบาลตำบลนิคมพัฒนา,Nikhom Phatthana Sub-district Municipality,0
+2185,ท้องถิ่นเทศบาลตำบลบ้านปลวกแดง,Ban Pluak Daeng Sub-district Municipality,0
+2186,ท้องถิ่นเทศบาลตำบลจอมพลเจ้าพระยา,Chomphon Chaophraya Sub-district Municipality,0
+2187,ท้องถิ่นเทศบาลตำบลบ้านค่าย,Ban Khai Sub-district Municipality,0
+2188,ท้องถิ่นเทศบาลตำบลชุมแสง,Chumsaeng Sub-district Municipality,0
+2189,ท้องถิ่นเทศบาลตำบลสุนทรภู่,Sunthon Phu Sub-district Municipality,0
+2190,ท้องถิ่นเทศบาลตำบลปากน้ำประแส,Paknam Pra Sae Sub-district Municipality,0
+2191,ท้องถิ่นเทศบาลตำบลทุ่งควายกิน,Thung Khwai Kin Sub-district Municipality,0
+2192,ท้องถิ่นเทศบาลตำบลกองดิน,Kon Din Sub-district Municipality,0
+2193,ท้องถิ่นเทศบาลตำบลสำนักท้อน,Samnak Thon Sub-district Municipality,0
+2194,ท้องถิ่นเทศบาลเมืองบ้านฉาง,Ban Chang Town Municipality,0
+2195,ท้องถิ่นเทศบาลตำบลบ้านเพ,Ban Phae Sub-district Municipality,0
+2196,ท้องถิ่นเทศบาลตำบลแกลงกะเฉด,Klaeng Kachet Sub-district Municipality,0
+2197,ท้องถิ่นเทศบาลเมืองมาบตาพุด,Map Ta Phut Town Municipality,0
+2198,ท้องถิ่นเทศบาลตำบลเมืองแกลง,Mueang Klaeng Sub-district Municipality,0
+2199,ท้องถิ่นเทศบาลนครระยอง,Rayong City Municipality,0
+2200,จังหวัดจันทบุรี,Chanthaburi Province,0
+2201,อำเภอเมืองจันทบุรี,Mueang Chanthaburi District,0
+2202,อำเภอขลุง,Khlung District,0
+2203,อำเภอท่าใหม่,Tha Mai District,0
+2204,อำเภอโป่งน้ำร้อน,Pong Nam Ron District,0
+2205,อำเภอมะขาม,Makham District,0
+2206,อำเภอแหลมสิงห์,Laem Sing District,0
+2207,อำเภอสอยดาว,Soi Dao District,0
+2208,อำเภอแก่งหางแมว,Kaeng Hang Maeo District,0
+2209,อำเภอนายายอาม,Na Yai Am District,0
+2210,อำเภอเขาคิชฌกูฏ,Khao Khitchakut District,0
+2272,ท้องถิ่นเทศบาลตำบลเขาบายศรี,Khaobaisri Sub-district Municipality,0
+2273,ท้องถิ่นเทศบาลตำบลคลองใหญ่,KLONGYAI Sub-district Municipality,0
+2274,ท้องถิ่นเทศบาลตำบลหนองตาคง,NONGTAKONG Sub-district Municipality,0
+2275,ท้องถิ่นเทศบาลตำบลตกพรม,Tokprom Sub-district Municipality,0
+2276,ท้องถิ่นเทศบาลตำบลเกวียนหัก,Kwianhug Sub-district Municipality,0
+2277,ท้องถิ่นเทศบาลตำบลบ่อ,Bor Sub-district Municipality,0
+2278,ท้องถิ่นเทศบาลตำบลชากไทย,Chakthai Sub-district Municipality,0
+2279,ท้องถิ่นเทศบาลตำบลตะเคียนทอง,Takiantong Sub-district Municipality,0
+2280,ท้องถิ่นเทศบาลตำบลเกาะขวาง,Kohkwang Sub-district Municipality,0
+2281,ท้องถิ่นเทศบาลตำบลบ่อเวฬุ,Borwen Sub-district Municipality,0
+2282,ท้องถิ่นเทศบาลตำบลพลวง,Phluang Sub-district Municipality,0
+2283,ท้องถิ่นเทศบาลตำบลทับช้าง,Thapchang Sub-district Municipality,0
+2284,ท้องถิ่นเทศบาลตำบลนายายอาม,Na Yai Am Sub-district Municipality,0
+2285,ท้องถิ่นเทศบาลตำบลสอยดาว,Soi Dao Sub-district Municipality,0
+2286,ท้องถิ่นเทศบาลตำบลพลิ้ว,Phlio Sub-district Municipality,0
+2287,ท้องถิ่นเทศบาลตำบลปากน้ำแหลมสิงห์,Paknam Laem Sing Sub-district Municipality,0
+2288,ท้องถิ่นเทศบาลตำบลมะขาม,Makham Sub-district Municipality,0
+2289,ท้องถิ่นเทศบาลตำบลโป่งน้ำร้อน,Pong Nam Ron Sub-district Municipality,0
+2290,ท้องถิ่นเทศบาลตำบลหนองคล้า,Nong Khla Sub-district Municipality,0
+2291,ท้องถิ่นเทศบาลตำบลเนินสูง,Noen Sung Sub-district Municipality,0
+2292,ท้องถิ่นเทศบาลตำบลหนองบัว,Nong Bua Sub-district Municipality,0
+2293,ท้องถิ่นเทศบาลตำบลพลับพลานารายณ์,Phlapphla Narai Sub-district Municipality,0
+2294,ท้องถิ่นเทศบาลตำบลบางกะจะ,Bang Ka Cha Sub-district Municipality,0
+2295,ท้องถิ่นเทศบาลเมืองท่าช้าง,Tha Chang Town Municipality,0
+2296,ท้องถิ่นเทศบาลเมืองจันทนิมิต,Chantha Nimit Town Municipality,0
+2297,ท้องถิ่นเทศบาลเมืองขลุง,Khlung Town Municipality,0
+2298,ท้องถิ่นเทศบาลเมืองท่าใหม่,Tha Mai Town Municipality,0
+2299,ท้องถิ่นเทศบาลเมืองจันทบุรี,Chanthaburi Town Municipality,0
+2300,จังหวัดตราด,Trat Province,0
+2301,อำเภอเมืองตราด,Mueang Trat District,0
+2302,อำเภอคลองใหญ่,Khlong Yai District,0
+2303,อำเภอเขาสมิง,Khao Saming District,0
+2304,อำเภอบ่อไร่,Bo Rai District,0
+2305,อำเภอแหลมงอบ,Laem Ngop District,0
+2306,อำเภอเกาะกูด,Ko Kut District,0
+2307,อำเภอเกาะช้าง,Ko Chang District,0
+2308,กิ่งอำเภอราชการุณย์,Rat Karun Minor District,25550101
+2389,ท้องถิ่นเทศบาลตำบลตะกาง,Takang Sub-district Municipality,0
+2390,ท้องถิ่นเทศบาลตำบลหนองบอน,Nong Bon Sub-district Municipality,0
+2391,ท้องถิ่นเทศบาลตำบลแหลมงอบ,Laem Ngop Sub-district Municipality,0
+2392,ท้องถิ่นเทศบาลตำบลน้ำเชี่ยว,Nam Chiao Sub-district Municipality,0
+2393,ท้องถิ่นเทศบาลตำบลบ่อพลอย,Bo Phloi Sub-district Municipality,0
+2394,ท้องถิ่นเทศบาลตำบลแสนตุ้ง,Saeng Tang Sub-district Municipality,0
+2395,ท้องถิ่นเทศบาลตำบลเขาสมิง,Khao Saming Sub-district Municipality,0
+2396,ท้องถิ่นเทศบาลตำบลหาดเล็ก,Hat Lek Sub-district Municipality,0
+2397,ท้องถิ่นเทศบาลตำบลคลองใหญ่,Khlong Yai Sub-district Municipality,0
+2398,ท้องถิ่นเทศบาลตำบลท่าพริกเนินทราย,Tha Phrik Noen Sai Sub-district Municipality,0
+2399,ท้องถิ่นเทศบาลเมืองตราด,Trat Town Municipality,0
+2400,จังหวัดฉะเชิงเทรา,Chachoengsao Province,0
+2401,อำเภอเมืองฉะเชิงเทรา,Mueang Chachoengsao District,0
+2402,อำเภอบางคล้า,Bang Khla District,0
+2403,อำเภอบางน้ำเปรี้ยว,Bang Nam Priao District,0
+2404,อำเภอบางปะกง,Bang Pakong District,0
+2405,อำเภอบ้านโพธิ์,Ban Pho District,0
+2406,อำเภอพนมสารคาม,Phanom Sarakham District,0
+2407,อำเภอราชสาส์น,Ratchasan District,0
+2408,อำเภอสนามชัยเขต,Sanam Chai Khet District,0
+2409,อำเภอแปลงยาว,Plaeng Yao District,0
+2410,อำเภอท่าตะเกียบ,Tha Takiap District,0
+2411,อำเภอคลองเขื่อน,Khlong Khuean District,0
+2412,กิ่งอำเภอบุรีรมย์,Buri Rom Minor District,25550101
+2413,กิ่งอำเภอดอนฉิมพลี,Don Chimphli Minor District,25550101
+2474,ท้องถิ่นเทศบาลตำบลบางวัวคณารักษ์,Bang Wua Khanarak Sub-district Municipality,0
+2475,ท้องถิ่นเทศบาลตำบลพิมพา,Phimpha Sub-district Municipality,0
+2476,ท้องถิ่นเทศบาลตำบลวังเย็น,Wang Yen Sub-district Municipality,0
+2477,ท้องถิ่นเทศบาลตำบลดอนเกาะกา,Don Ko Ka Sub-district Municipality,0
+2478,ท้องถิ่นเทศบาลตำบลหัวสำโรง,Hua Samrong Sub-district Municipality,0
+2479,ท้องถิ่นเทศบาลตำบลแปลงยาว,Plaeng Yao Sub-district Municipality,0
+2480,ท้องถิ่นเทศบาลตำบลทุ่งสะเดา,Thung Sadao Sub-district Municipality,0
+2481,ท้องถิ่นเทศบาลตำบลสนามชัยเขต,Sanam Chai Khet Sub-district Municipality,0
+2482,ท้องถิ่นเทศบาลตำบลพนมสารคาม,Phanom Sarakham Sub-district Municipality,0
+2483,ท้องถิ่นเทศบาลตำบลเขาหินซ้อน,Khao Hin Son Sub-district Municipality,0
+2484,ท้องถิ่นเทศบาลตำบลเกาะขนุน,Ko Khanun Sub-district Municipality,0
+2485,ท้องถิ่นเทศบาลตำบลบ้านโพธิ์,Ban Pho Sub-district Municipality,0
+2486,ท้องถิ่นเทศบาลตำบลเทพราช,Thep Pha Rat Sub-district Municipality,0
+2487,ท้องถิ่นเทศบาลตำบลบางวัว,Bang Wua Sub-district Municipality,0
+2488,ท้องถิ่นเทศบาลตำบลบางปะกง,Bang Pakong Sub-district Municipality,0
+2489,ท้องถิ่นเทศบาลตำบลหอมศีล,Hom Sin Sub-district Municipality,0
+2490,ท้องถิ่นเทศบาลตำบลท่าสะอ้าน,Tha Sa-an Sub-district Municipality,0
+2491,ท้องถิ่นเทศบาลตำบลท่าข้าม,Tha Kham Sub-district Municipality,0
+2492,ท้องถิ่นเทศบาลตำบลศาลาแดง,Sala Daeng Sub-district Municipality,0
+2493,ท้องถิ่นเทศบาลตำบลบางน้ำเปรี้ยว,Bang Nam Priao Sub-district Municipality,0
+2494,ท้องถิ่นเทศบาลตำบลบางขนาก,Bang Khanak Sub-district Municipality,0
+2495,ท้องถิ่นเทศบาลตำบลดอนฉิมพลี,Don Chimphli Sub-district Municipality,0
+2496,ท้องถิ่นเทศบาลตำบลปากน้ำ,Paknam Sub-district Municipality,0
+2497,ท้องถิ่นเทศบาลตำบลนครเนื่องเขต,Nakhon Nueang Khet Sub-district Municipality,0
+2498,ท้องถิ่นเทศบาลตำบลบางคล้า,Bang Khla Sub-district Municipality,0
+2499,ท้องถิ่นเทศบาลเมืองฉะเชิงเทรา,Chachoengsao Town Municipality,0
+2500,จังหวัดปราจีนบุรี,Prachin Buri Province,0
+2501,อำเภอเมืองปราจีนบุรี,Mueang Prachin Buri District,0
+2502,อำเภอกบินทร์บุรี,Kabin Buri District,0
+2503,อำเภอนาดี,Na Di District,0
+2504,อำเภอสระแก้ว,Sa Kaeo District,25550101
+2505,อำเภอวังน้ำเย็น,Wang Nam Yen District,25550101
+2506,อำเภอบ้านสร้าง,Ban Sang District,0
+2507,อำเภอประจันตคาม,Prachantakham District,0
+2508,อำเภอศรีมหาโพธิ,Si Maha Phot District,0
+2509,อำเภอศรีมโหสถ,Si Mahosot District,0
+2510,อำเภออรัญประเทศ,Aranyaprathet District,25550101
+2511,อำเภอตาพระยา,Ta Phraya District,25550101
+2512,อำเภอวัฒนานคร,Watthana Nakhon District,25550101
+2513,อำเภอคลองหาด,Khlong Hat District,25550101
+2514,กิ่งอำเภอวังตะเคียน,Wang Takhian Minor District,25550101
+2515,กิ่งอำเภอทุ่งโพธิ์,Thung Pho Minor District,25550101
+2587,ท้องถิ่นเทศบาลตำบลโคกมะกอก,Khok Makok Sub-district Municipality,0
+2588,ท้องถิ่นเทศบาลตำบลโคกปีบ,Khok Pip Sub-district Municipality,0
+2589,ท้องถิ่นเทศบาลตำบลศรีมหาโพธิ,Si Maha Phot Sub-district Municipality,0
+2590,ท้องถิ่นเทศบาลตำบลกรอกสมบูรณ์,Krok Sombun Sub-district Municipality,0
+2591,ท้องถิ่นเทศบาลตำบลประจันตคาม,Prachantakham Sub-district Municipality,0
+2592,ท้องถิ่นเทศบาลตำบลบ้านสร้าง,Ban Sang Sub-district Municipality,0
+2593,ท้องถิ่นเทศบาลตำบลนาดี,Na Di Sub-district Municipality,0
+2594,ท้องถิ่นเทศบาลตำบลสระบัว,Sa Bua Sub-district Municipality,0
+2595,ท้องถิ่นเทศบาลตำบลเมืองเก่า,Mueang Kao Sub-district Municipality,0
+2596,ท้องถิ่นเทศบาลตำบลบ้านนาปรือ,Ban Na Prue Sub-district Municipality,0
+2597,ท้องถิ่นเทศบาลตำบลอรัญญประเทศ,Aranyaprathet Sub-district Municipality,25550101
+2598,ท้องถิ่นเทศบาลตำบลกบินทร์,Kabin Sub-district Municipality,0
+2599,ท้องถิ่นเทศบาลเมืองปราจีนบุรี,Prachin Buri Town Municipality,0
+2600,จังหวัดนครนายก,Nakhon Nayok Province,0
+2601,อำเภอเมืองนครนายก,Mueang Nakhon Nayok District,0
+2602,อำเภอปากพลี,Pak Phli District,0
+2603,อำเภอบ้านนา,Ban Na District,0
+2604,อำเภอองครักษ์,Ongkharak District,0
+2695,ท้องถิ่นเทศบาลตำบลองครักษ์,Ongkharak Sub-district Municipality,0
+2696,ท้องถิ่นเทศบาลตำบลบ้านนา,Ban Na Sub-district Municipality,0
+2697,ท้องถิ่นเทศบาลตำบลเกาะหวาย,Ko Wai Sub-district Municipality,0
+2698,ท้องถิ่นเทศบาลตำบลท่าช้าง,Tha Chang Sub-district Municipality,0
+2699,ท้องถิ่นเทศบาลเมืองนครนายก,Nakhon Nayok Town Municipality,0
+2700,จังหวัดสระแก้ว,Sa Kaeo Province,0
+2701,อำเภอเมืองสระแก้ว,Mueang Sa Kaeo District,0
+2702,อำเภอคลองหาด,Khlong Hat District,0
+2703,อำเภอตาพระยา,Ta Phraya District,0
+2704,อำเภอวังน้ำเย็น,Wang Nam Yen District,0
+2705,อำเภอวัฒนานคร,Watthana Nakhon District,0
+2706,อำเภออรัญประเทศ,Aranyaprathet District,0
+2707,อำเภอเขาฉกรรจ์,Khao Chakan District,0
+2708,อำเภอโคกสูง,Khok Sung District,0
+2709,อำเภอวังสมบูรณ์,Wang Sombun District,0
+2791,ท้องถิ่นเทศบาลตำบลวังสมบูรณ์,Wang Sombun Sub-district Municipality,0
+2792,ท้องถิ่นเทศบาลตำบลเขาฉกรรจ์,Khao Chakan Sub-district Municipality,0
+2793,ท้องถิ่นเทศบาลตำบลวัฒนานคร,Watthana Nakhon Sub-district Municipality,0
+2794,ท้องถิ่นเทศบาลเมืองวังน้ำเย็น,Wang Nam Yen Town Municipality,0
+2795,ท้องถิ่นเทศบาลตำบลตาพระยา,Ta Phraya Sub-district Municipality,0
+2796,ท้องถิ่นเทศบาลตำบลศาลาลำดวน,Sala Lamduan Sub-district Municipality,0
+2797,ท้องถิ่นเทศบาลตำบลท่าเกษม,Tha Kasem Sub-district Municipality,0
+2798,ท้องถิ่นเทศบาลเมืองอรัญญประเทศ,Aranyaprathet Town Municipality,0
+2799,ท้องถิ่นเทศบาลเมืองสระแก้ว,Sa Kaeo Town Municipality,0
+3000,จังหวัดนครราชสีมา,Nakhon Ratchasima Province,0
+3001,อำเภอเมืองนครราชสีมา,Mueang Nakhon Ratchasima District,0
+3002,อำเภอครบุรี,Khon Buri District,0
+3003,อำเภอเสิงสาง,Soeng Sang District,0
+3004,อำเภอคง,Khong District,0
+3005,อำเภอบ้านเหลื่อม,Ban Lueam District,0
+3006,อำเภอจักราช,Chakkarat District,0
+3007,อำเภอโชคชัย,Chok Chai District,0
+3008,อำเภอด่านขุนทด,Dan Khun Thot District,0
+3009,อำเภอโนนไทย,Non Thai District,0
+3010,อำเภอโนนสูง,Non Sung District,0
+3011,อำเภอขามสะแกแสง,Kham Sakaesaeng District,0
+3012,อำเภอบัวใหญ่,Bua Yai District,0
+3013,อำเภอประทาย,Prathai District,0
+3014,อำเภอปักธงชัย,Pak Thong Chai District,0
+3015,อำเภอพิมาย,Phimai District,0
+3016,อำเภอห้วยแถลง,Huai Thalaeng District,0
+3017,อำเภอชุมพวง,Chum Phuang District,0
+3018,อำเภอสูงเนิน,Sung Noen District,0
+3019,อำเภอขามทะเลสอ,Kham Thale So District,0
+3020,อำเภอสีคิ้ว,Sikhio District,0
+3021,อำเภอปากช่อง,Pak Chong District,0
+3022,อำเภอหนองบุญมาก,Nong Bun Mak District,0
+3023,อำเภอแก้งสนามนาง,Kaeng Sanam Nang District,0
+3024,อำเภอโนนแดง,Non Daeng District,0
+3025,อำเภอวังน้ำเขียว,Wang Nam Khiao District,0
+3026,อำเภอเทพารักษ์,Thepharak District,0
+3027,อำเภอเมืองยาง,Mueang Yang District,0
+3028,อำเภอพระทองคำ,Phra Thong Kham District,0
+3029,อำเภอลำทะเมนชัย,Lam Thamenchai District,0
+3030,อำเภอบัวลาย,Bua Lai District,0
+3031,อำเภอสีดา,Sida District,0
+3032,อำเภอเฉลิมพระเกียรติ,Chaloem Phra Kiat District,0
+3033,กิ่งอำเภอเขาใหญ่,Khao Yai Minor District,25550101
+3034,กิ่งอำเภอนครจันทึก,Nakhon Chan Thuek Minor District,25550101
+3035,กิ่งอำเภอวังเพชร,Wang Phet Minor District,25550101
+3036,กิ่งอำเภอห้วยบง,Huai Bong Minor District,25550101
+3037,ท้องถิ่นเทศบาลตำบลเมืองยาง,Mueang Yang Sub-district Municipality,0
+3038,ท้องถิ่นเทศบาลตำบลหนองน้ำใส,Nong Nam Sai Sub-district Municipality,0
+3039,ท้องถิ่นเทศบาลตำบลด่านคล้า,Dan Khla Sub-district Municipality,0
+3040,ท้องถิ่นเทศบาลตำบลใหม่,Mai Sub-district Municipality,0
+3041,ท้องถิ่นเทศบาลตำบลหนองบัวตะเกียด,Nong Bua Takiat Sub-district Municipality,0
+3042,ท้องถิ่นเทศบาลตำบลบัลลังก์,Banlang Sub-district Municipality,0
+3043,ท้องถิ่นเทศบาลตำบลหนองไข่น้ำ,Nong Khainam Sub-district Municipality,0
+3044,ท้องถิ่นเทศบาลตำบลท่าเยี่ยม,Tayium Sub-district Municipality,0
+3045,ท้องถิ่นเทศบาลตำบลสีมามงคล,Sima Mongkhon Sub-district Municipality,0
+3046,ท้องถิ่นเทศบาลตำบลลำนางแก้ว,Lam Nang Kaeo Sub-district Municipality,0
+3047,ท้องถิ่นเทศบาลตำบลดอนหวาย,Don Wai Sub-district Municipality,0
+3048,ท้องถิ่นเทศบาลตำบลหมูสี,Musi Sub-district Municipality,0
+3049,ท้องถิ่นเทศบาลตำบลโพธิ์กลาง,Pho Klang Sub-district Municipality,0
+3050,ท้องถิ่นเทศบาลตำบลหัวทะเล,Hua Thale Sub-district Municipality,0
+3051,ท้องถิ่นเทศบาลตำบลวังไทร,Wang Sai Sub-district Municipality,0
+3052,ท้องถิ่นเทศบาลตำบลปรุใหญ่,Pru Yai Sub-district Municipality,0
+3053,ท้องถิ่นเทศบาลตำบลหนองไผ่ล้อม,Nong Phai Lom Sub-district Municipality,0
+3054,ท้องถิ่นเทศบาลตำบลท่าช้าง,Tha Chang Sub-district Municipality,0
+3055,ท้องถิ่นเทศบาลตำบลสีดา,Sida Sub-district Municipality,0
+3056,ท้องถิ่นเทศบาลตำบลหนองบัวลาย,Nong Bua Lai Sub-district Municipality,0
+3057,ท้องถิ่นเทศบาลตำบลหนองบัววง,Nong Bua Wong Sub-district Municipality,0
+3058,ท้องถิ่นเทศบาลตำบลพระทองคำ,Phra Thong Kham Sub-district Municipality,0
+3059,ท้องถิ่นเทศบาลตำบลศาลเจ้าพ่อ,San Chaopho Sub-district Municipality,0
+3060,ท้องถิ่นเทศบาลตำบลโนนแดง,Non Daeng Sub-Sistrict Municipality,0
+3061,ท้องถิ่นเทศบาลตำบลกลางดง,Klang Dong Sub-district Municipality,0
+3062,ท้องถิ่นเทศบาลเมืองสีคิ้ว,Sikhio Town Municipality,0
+3063,ท้องถิ่นเทศบาลตำบลลาดบัวขาว,Lat Bua Khao Sub-district Municipality,0
+3064,ท้องถิ่นเทศบาลตำบลคลองไผ่,Khlong Phai Sub-district Municipality,0
+3065,ท้องถิ่นเทศบาลตำบลขามทะเลสอ,Kham Thale So Sub-district Municipality,0
+3066,ท้องถิ่นเทศบาลตำบลสูงเนิน,Sung Noen Sub-district Municipality,0
+3067,ท้องถิ่นเทศบาลตำบลกุดจิก,Kut Chik Sub-district Municipality,0
+3068,ท้องถิ่นเทศบาลตำบลชุมพวง,Chum Phuang Sub-district Municipality,0
+3069,ท้องถิ่นเทศบาลตำบลหินดาด,Hin Dat Sub-district Municipality,0
+3070,ท้องถิ่นเทศบาลตำบลห้วยแถลง,Huai Thalaeng Sub-district Municipality,0
+3071,ท้องถิ่นเทศบาลตำบลพิมาย,Phimai Sub-district Municipality,0
+3072,ท้องถิ่นเทศบาลเมืองเมืองปัก,Mueang Pak Town Municipality,0
+3073,ท้องถิ่นเทศบาลตำบลตะขบ,Takhop Sub-district Municipality,0
+3074,ท้องถิ่นเทศบาลตำบลประทาย,Prathai Sub-district Municipality,0
+3075,ท้องถิ่นเทศบาลตำบลหนองหัวฟาน,Nong Hua Fan Sub-district Municipality,0
+3076,ท้องถิ่นเทศบาลตำบลขามสะแกแสง,Kham Sakaesaeng Sub-district Municipality,0
+3077,ท้องถิ่นเทศบาลตำบลมะค่า,Makha Sub-district Municipality,0
+3078,ท้องถิ่นเทศบาลตำบลตลาดแค,Talat Khae Sub-district Municipality,0
+3079,ท้องถิ่นเทศบาลตำบลโนนไทย,Non Thai Sub-district Municipality,0
+3080,ท้องถิ่นเทศบาลตำบลโคกสวาย,Khok Sawai Sub-district Municipality,0
+3081,ท้องถิ่นเทศบาลตำบลหนองกราด,Nong Krat Sub-district Municipality,0
+3082,ท้องถิ่นเทศบาลตำบลด่านขุนทด,Dan Khun Thot Sub-district Municipality,0
+3083,ท้องถิ่นเทศบาลตำบลด่านเกวียน,Dan Kwian Sub-district Municipality,0
+3084,ท้องถิ่นเทศบาลตำบลโชคชัย,Chok Chai Sub-district Municipality,0
+3085,ท้องถิ่นเทศบาลตำบลจักราช,Chakkarat Sub-district Municipality,0
+3086,ท้องถิ่นเทศบาลตำบลบ้านเหลื่อม,Ban Lueam Sub-district Municipality,0
+3087,ท้องถิ่นเทศบาลตำบลเมืองคง,Muang Khong Sub-district Municipality,0
+3088,ท้องถิ่นเทศบาลตำบลเทพาลัย,Thepha Lai Sub-district Municipality,0
+3089,ท้องถิ่นเทศบาลตำบลเสิงสาง,Soeng Sang Sub-district Municipality,0
+3090,ท้องถิ่นเทศบาลตำบลโนนสมบูรณ์,Non Sombun Sub-district Municipality,0
+3091,ท้องถิ่นเทศบาลตำบลไทรโยง-ไชยวาล,Saiyong - Chaiwan Sub-district Municipality,0
+3092,ท้องถิ่นเทศบาลตำบลแชะ,Chae Sub-district Municipality,0
+3093,ท้องถิ่นเทศบาลตำบลจระเข้หิน,Chorakhe Hin Sub-district Municipality,0
+3094,ท้องถิ่นเทศบาลตำบลจอหอ,Cho Ho Sub-district Municipality,0
+3095,ท้องถิ่นเทศบาลตำบลโคกกรวด,Khok Kruat Sub-district Municipality,0
+3096,ท้องถิ่นเทศบาลตำบลโนนสูง,Non Sung Sub-district Municipality,0
+3097,ท้องถิ่นเทศบาลเมืองบัวใหญ่,Bua Yai Town Municipality,0
+3098,ท้องถิ่นเทศบาลเมืองปากช่อง,Pak Chong Town Municipality,0
+3099,ท้องถิ่นเทศบาลนครนครราชสีมา,Nakhon Ratchasima City Municipality,0
+3100,จังหวัดบุรีรัมย์,Buri Ram Province,0
+3101,อำเภอเมืองบุรีรัมย์,Mueang Buri Ram District,0
+3102,อำเภอคูเมือง,Khu Mueang District,0
+3103,อำเภอกระสัง,Krasang District,0
+3104,อำเภอนางรอง,Nang Rong District,0
+3105,อำเภอหนองกี่,Nong Ki District,0
+3106,อำเภอละหานทราย,Lahan Sai District,0
+3107,อำเภอประโคนชัย,Prakhon Chai District,0
+3108,อำเภอบ้านกรวด,Ban Kruat District,0
+3109,อำเภอพุทไธสง,Phutthaisong District,0
+3110,อำเภอลำปลายมาศ,Lam Plai Mat District,0
+3111,อำเภอสตึก,Satuek District,0
+3112,อำเภอปะคำ,Pakham District,0
+3113,อำเภอนาโพธิ์,Na Pho District,0
+3114,อำเภอหนองหงส์,Nong Hong District,0
+3115,อำเภอพลับพลาชัย,Phlapphla Chai District,0
+3116,อำเภอห้วยราช,Huai Rat District,0
+3117,อำเภอโนนสุวรรณ,Non Suwan District,0
+3118,อำเภอชำนิ,Chamni District,0
+3119,อำเภอบ้านใหม่ไชยพจน์,Ban Mai Chaiyaphot District,0
+3120,อำเภอโนนดินแดง,Non Din Daeng District,0
+3121,อำเภอบ้านด่าน,Ban Dan District,0
+3122,อำเภอแคนดง,Khaen Dong District,0
+3123,อำเภอเฉลิมพระเกียรติ,Chaloem Phra Kiat District,0
+3124,กิ่งอำเภอปราสาทเมืองต่ำ,Prasat Mueang Tam Minor District,25550101
+3162,ท้องถิ่นเทศบาลตำบลจันดุม,Chan Dum Sub-district Municipality,0
+3163,ท้องถิ่นเทศบาลตำบลห้วยหิน,Huai Hin Sub-district Municipality,0
+3164,ท้องถิ่นเทศบาลตำบลสำโรงใหม่,Samrong Mai Sub-district Municipality,0
+3165,ท้องถิ่นเทศบาลตำบลจันทบเพชร,Chan Thop Phet Sub-district Municipality,0
+3166,ท้องถิ่นเทศบาลตำบลหนองแวง,Nong Waeng Sub-district Municipality,0
+3167,ท้องถิ่นเทศบาลตำบลหนองไม้งาม,Nong Mai Ngam Sub-district Municipality,0
+3168,ท้องถิ่นเทศบาลตำบลบ้านกรวดปัญญาวัฒน์,Ban Kruat Panyawat Sub-district Municipality,0
+3169,ท้องถิ่นเทศบาลตำบลบ้านด่าน,Ban Dan Sub-district Municipality,0
+3170,ท้องถิ่นเทศบาลตำบลถาวร,Thawon Sub-district Municipality,0
+3171,ท้องถิ่นเทศบาลตำบลยายแย้มวัฒนา,Yai Yaem Watthana Sub-district Municipality,0
+3172,ท้องถิ่นเทศบาลตำบลอิสาณ,I San Sub-district Municipality,0
+3173,ท้องถิ่นเทศบาลตำบลโกรกแก้ว,Krok Kaeo Sub-district Municipality,25550101
+3174,ท้องถิ่นเทศบาลตำบลศาลเจ้าพ่อขุนศรี,San Chaopho Khunsi Sub-district Municipality,0
+3175,ท้องถิ่นเทศบาลตำบลตาจง,Ta Chong Sub-district Municipality,0
+3176,ท้องถิ่นเทศบาลตำบลพนมรุ้ง,Phanom Rung Sub-district Municipality,0
+3177,ท้องถิ่นเทศบาลตำบลแคนดง,Khaen Dong Sub-district Municipality,0
+3178,ท้องถิ่นเทศบาลตำบลโนนดินแดง,Non Din Daeng Sub-district Municipality,0
+3179,ท้องถิ่นเทศบาลตำบลบ้านใหม่ไชยพจน์,Ban Mai Chaiyaphot Sub-district Municipality,0
+3180,ท้องถิ่นเทศบาลตำบลโนนสุวรรณ,Non Suwan Sub-district Municipality,0
+3181,ท้องถิ่นเทศบาลตำบลห้วยราช,Huai Rat Sub-district Municipality,0
+3182,ท้องถิ่นเทศบาลตำบลพลับพลาชัย,Phlapphla Chai  Sub-district Municipality,0
+3183,ท้องถิ่นเทศบาลตำบลหนองหงส์,Nong Hong Sub-district Municipality,0
+3184,ท้องถิ่นเทศบาลตำบลนาโพธิ์,Na Pho Sub-district Municipality,0
+3185,ท้องถิ่นเทศบาลตำบลปะคำ,Pakham Sub-district Municipality,0
+3186,ท้องถิ่นเทศบาลตำบลสตึก,Satuek Sub-district Municipality,0
+3187,ท้องถิ่นเทศบาลตำบลลำปลายมาศ,Lam Plai Mat Sub-district Municipality,0
+3188,ท้องถิ่นเทศบาลตำบลทะเมนชัย,Thamenchai Sub-district Municipality,0
+3189,ท้องถิ่นเทศบาลตำบลพุทไธสง,Phutthaisong Sub-district Municipality,0
+3190,ท้องถิ่นเทศบาลตำบลบ้านกรวด,Ban Kruat Sub-district Municipality,0
+3191,ท้องถิ่นเทศบาลตำบลตลาดนิคมปราสาท,Talat Nikhom Prasat Sub-district Municipality,0
+3192,ท้องถิ่นเทศบาลตำบลประโคนชัย,Prakhon Chai Sub-district Municipality,0
+3193,ท้องถิ่นเทศบาลตำบลละหานทราย,Lahan Sai Sub-district Municipality,0
+3194,ท้องถิ่นเทศบาลตำบลหนองกี่,Nong Ki Sub-district Municipality,0
+3195,ท้องถิ่นเทศบาลตำบลกระสัง,Krasang Sub-district Municipality,0
+3196,ท้องถิ่นเทศบาลตำบลหินเหล็กไฟ,Hin Lek Fai Sub-district Municipality,0
+3197,ท้องถิ่นเทศบาลตำบลคูเมือง,Khu Mueang Sub-district Municipality,0
+3198,ท้องถิ่นเทศบาลเมืองนางรอง,Nang Rong Town Municipality,0
+3199,ท้องถิ่นเทศบาลเมืองบุรีรัมย์,Buri Ram Town Municipality,0
+3200,จังหวัดสุรินทร์,Surin Province,0
+3201,อำเภอเมืองสุรินทร์,Mueang Surin District,0
+3202,อำเภอชุมพลบุรี,Chumphon Buri District,0
+3203,อำเภอท่าตูม,Tha Tum District,0
+3204,อำเภอจอมพระ,Chom Phra District,0
+3205,อำเภอปราสาท,Prasat District,0
+3206,อำเภอกาบเชิง,Kap Choeng District,0
+3207,อำเภอรัตนบุรี,Rattanaburi District,0
+3208,อำเภอสนม,Sanom District,0
+3209,อำเภอศีขรภูมิ,Sikhoraphum District,0
+3210,อำเภอสังขะ,Sangkha District,0
+3211,อำเภอลำดวน,Lamduan District,0
+3212,อำเภอสำโรงทาบ,Samrong Thap District,0
+3213,อำเภอบัวเชด,Buachet District,0
+3214,อำเภอพนมดงรัก,Phanom Dong Rak District,0
+3215,อำเภอศรีณรงค์,Si Narong District,0
+3216,อำเภอเขวาสินรินทร์,Khwao Sinarin District,0
+3217,อำเภอโนนนารายณ์,Non Narai District,0
+3286,ท้องถิ่นเทศบาลตำบลบัวเชด,Buachet Sub-district Municipality,0
+3287,ท้องถิ่นเทศบาลตำบลสำโรงทาบ,Samrong Thap Sub-district Municipality,0
+3288,ท้องถิ่นเทศบาลตำบลลำดวนสุรพินท์,Lamduan Suraphin Sub-district Municipality,0
+3289,ท้องถิ่นเทศบาลตำบลสังขะ,Sangkha Sub-district Municipality,0
+3290,ท้องถิ่นเทศบาลตำบลศีขรภูมิ,Sikhoraphum Sub-district Municipality,0
+3291,ท้องถิ่นเทศบาลตำบลสนม,Sanom Sub-district Municipality,0
+3292,ท้องถิ่นเทศบาลตำบลรัตนบุรี,Rattanaburi Sub-district Municipality,0
+3293,ท้องถิ่นเทศบาลตำบลนิคมปราสาท,Nikhom Prasat Sub-district Municipality,0
+3294,ท้องถิ่นเทศบาลตำบลกังแอน,Kang Aen Sub-district Municipality,0
+3295,ท้องถิ่นเทศบาลตำบลจอมพระ,Chom Phra Sub-district Municipality,0
+3296,ท้องถิ่นเทศบาลตำบลท่าตูม,Tha Tum Sub-district Municipality,0
+3297,ท้องถิ่นเทศบาลตำบลชุมพลบุรี,Chumphon Buri Sub-district Municipality,0
+3298,ท้องถิ่นเทศบาลตำบลเมืองที,Mueang Thi Sub-district Municipality,0
+3299,ท้องถิ่นเทศบาลเมืองสุรินทร์,Surin Town Municipality,0
+3300,จังหวัดศรีสะเกษ,Si Sa Ket Province,0
+3301,อำเภอเมืองศรีสะเกษ,Mueang Si Sa Ket District,0
+3302,อำเภอยางชุมน้อย,Yang Chum Noi District,0
+3303,อำเภอกันทรารมย์,Kanthararom District,0
+3304,อำเภอกันทรลักษ์,Kantharalak District,0
+3305,อำเภอขุขันธ์,Khukhan District,0
+3306,อำเภอไพรบึง,Phrai Bueng District,0
+3307,อำเภอปรางค์กู่,Prang Ku District,0
+3308,อำเภอขุนหาญ,Khun Han District,0
+3309,อำเภอราษีไศล,Rasi Salai District,0
+3310,อำเภออุทุมพรพิสัย,Uthumphon Phisai District,0
+3311,อำเภอบึงบูรพ์,Bueng Bun District,0
+3312,อำเภอห้วยทับทัน,Huai Thap Than District,0
+3313,อำเภอโนนคูณ,Non Khun District,0
+3314,อำเภอศรีรัตนะ,Si Rattana District,0
+3315,อำเภอน้ำเกลี้ยง,Nam Kliang District,0
+3316,อำเภอวังหิน,Wang Hin District,0
+3317,อำเภอภูสิงห์,Phu Sing District,0
+3318,อำเภอเมืองจันทร์,Mueang Chan District,0
+3319,อำเภอเบญจลักษ์,Benchalak District,0
+3320,อำเภอพยุห์,Phayu District,0
+3321,อำเภอโพธิ์ศรีสุวรรณ,Pho Si Suwan District,0
+3322,อำเภอศิลาลาด,Sila Lat District,0
+3323,กิ่งอำเภอทับทิมสยาม,Thapthim Sayam Minor District,25550101
+3324,กิ่งอำเภอศรีเมืองทอง,Sri Mueang Thong Minor District,25550101
+3325,กิ่งอำเภอเขาพระวิหาร,Khao Phrawihan Minor District,25550101
+3381,ท้องถิ่นเทศบาลตำบลบุสูง,Bu Sung Sub-district Municipality,0
+3382,ท้องถิ่นเทศบาลตำบลกันทรอม,Kanthrom Sub-district Municipality,0
+3383,ท้องถิ่นเทศบาลตำบลกระหวัน,Kra Wan Sub-district Municipality,0
+3384,ท้องถิ่นเทศบาลตำบลน้ำคำ,Namkham Sub-district Municipality,0
+3385,ท้องถิ่นเทศบาลตำบลโพธิ์กระสังข์,Pho Kra Sang Sub-district Municipality,0
+3386,ท้องถิ่นเทศบาลตำบลพยุห์,Phayu Sub-district Municipality,0
+3387,ท้องถิ่นเทศบาลตำบลศรีรัตนะ,Si Rattana Sub-district Municipality,0
+3388,ท้องถิ่นเทศบาลตำบลห้วยทับทัน,Huai Thap Than Sub-district Municipality,0
+3389,ท้องถิ่นเทศบาลตำบลบึงบูรพ์,Bueng Bun Sub-district Municipality,0
+3390,ท้องถิ่นเทศบาลตำบลกำแพง,Kamphaeng Sub-district Municipality,0
+3391,ท้องถิ่นเทศบาลตำบลเมืองคง,Mueang Khong Sub-district Municipality,0
+3392,ท้องถิ่นเทศบาลตำบลขุนหาญ,Khun Han Sub-district Municipality,0
+3393,ท้องถิ่นเทศบาลตำบลปรางค์กู่,Prang Ku Sub-district Municipality,0
+3394,ท้องถิ่นเทศบาลตำบลไพรบึง,Phrai Bueng Sub-district Municipality,0
+3395,ท้องถิ่นเทศบาลตำบลเมืองขุขันธ์,Mueang Khukhan Sub-district Municipality,0
+3396,ท้องถิ่นเทศบาลเมืองกันทรลักษ์,Kantharalak Town Municipality,0
+3397,ท้องถิ่นเทศบาลตำบลกันทรารมย์,Kanthararom Sub-district Municipality,0
+3398,ท้องถิ่นเทศบาลตำบลยางชุมน้อย,Yang Chum Noi Sub-district Municipality,0
+3399,ท้องถิ่นเทศบาลเมืองศรีสะเกษ,Si Sa Ket Town Municipality,0
+3400,จังหวัดอุบลราชธานี,Ubon Ratchathani Province,0
+3401,อำเภอเมืองอุบลราชธานี,Mueang Ubon Ratchathani District,0
+3402,อำเภอศรีเมืองใหม่,Si Mueang Mai District,0
+3403,อำเภอโขงเจียม,Khong Chiam District,0
+3404,อำเภอเขื่องใน,Khueang Nai District,0
+3405,อำเภอเขมราฐ,Khemarat District,0
+3406,อำเภอชานุมาน,Chanuman District,25550101
+3407,อำเภอเดชอุดม,Det Udom District,0
+3408,อำเภอนาจะหลวย,Na Chaluai District,0
+3409,อำเภอน้ำยืน,Nam Yuen District,0
+3410,อำเภอบุณฑริก,Buntharik District,0
+3411,อำเภอตระการพืชผล,Trakan Phuet Phon District,0
+3412,อำเภอกุดข้าวปุ้น,Kut Khaopun District,0
+3413,อำเภอพนา,Phana District,25550101
+3414,อำเภอม่วงสามสิบ,Muang Sam Sip District,0
+3415,อำเภอวารินชำราบ,Warin Chamrap District,0
+3416,อำเภออำนาจเจริญ,Amnat Charoen District,25550101
+3417,อำเภอเสนางคนิคม,Senangkhanikhom District,25550101
+3418,อำเภอหัวตะพาน,Hua Taphan District,25550101
+3419,อำเภอพิบูลมังสาหาร,Phibun Mangsahan District,0
+3420,อำเภอตาลสุม,Tan Sum District,0
+3421,อำเภอโพธิ์ไทร,Pho Sai District,0
+3422,อำเภอสำโรง,Samrong District,0
+3423,กิ่งอำเภอลืออำนาจ,Lue Amnat Minor District,25550101
+3424,อำเภอดอนมดแดง,Don Mot Daeng District,0
+3425,อำเภอสิรินธร,Sirindhorn District,0
+3426,อำเภอทุ่งศรีอุดม,Thung Si Udom District,0
+3427,อำเภอปทุมราชวงศา,Pathum Ratchawongsa District,25550101
+3429,อำเภอนาเยีย,Na Yia District,0
+3430,อำเภอนาตาล,Na Tan District,0
+3431,อำเภอเหล่าเสือโก้ก,Lao Suea Kok District,0
+3432,อำเภอสว่างวีระวงศ์,Sawang Wirawong District,0
+3433,อำเภอน้ำขุ่น,Nam Khun District,0
+3463,ท้องถิ่นเทศบาลตำบลกุดชมภู,Kut Chomphu Sub-district Municipality,0
+3464,ท้องถิ่นเทศบาลตำบลคำน้ำแซบ,Kham Nam Saep Sub-district Municipality,0
+3465,ท้องถิ่นเทศบาลตำบลหัวนา,Hua Na Sub-district Municipality,0
+3466,ท้องถิ่นเทศบาลตำบลโพนงาม,Phon Ngam Sub-district Municipality,0
+3467,ท้องถิ่นเทศบาลตำบลเมืองศรีไค,Mueang Si Khai Sub-district Municipality,0
+3468,ท้องถิ่นเทศบาลตำบลหนองผือ,Nong Phue Sub-district Municipality,0
+3469,ท้องถิ่นเทศบาลตำบลขามป้อม,Kham Pom Sub-district Municipality,0
+3470,ท้องถิ่นเทศบาลตำบลเทพวงศา,Thep Wongsa Sub-district Municipality,0
+3471,ท้องถิ่นเทศบาลตำบลปทุม,Pathum Sub-district Municipality,0
+3472,ท้องถิ่นเทศบาลตำบลคอแลน,Kholaen Sub-district Municipality,0
+3473,ท้องถิ่น ทต.นิคมสร้างตนเองลำโดมน้อย,Nikhomsangton-eng Lam Dom Noi Sub-district Municipality,0
+3474,ท้องถิ่นเทศบาลตำบลกุดประทาย,Kut Prathai Sub-district Municipality,0
+3475,ท้องถิ่นเทศบาลตำบลขามใหญ่,Kham Yai Sub-district Municipality,0
+3476,ท้องถิ่นเทศบาลตำบลแสนสุข,Saen Suk Sub-district Municipality,0
+3477,ท้องถิ่นเทศบาลตำบลนาเยีย,Na Yia Sub-district Municipality,0
+3478,ท้องถิ่นเทศบาลตำบลช่องเม็ก,Chong Mek Sub-district Municipality,0
+3479,ท้องถิ่นเทศบาลตำบลโพธิ์ไทร,Pho Sai Sub-district Municipality,0
+3480,ท้องถิ่นเทศบาลตำบลตาลสุม,Tan Sum Sub-district Municipality,0
+3481,ท้องถิ่นเทศบาลตำบลอ่างศิลา,Ang Sila Sub-district Municipality,0
+3482,ท้องถิ่นเทศบาลตำบลห้วยขะยุง,Huai Kha Yung Sub-district Municipality,0
+3483,ท้องถิ่นเทศบาลตำบลม่วงสามสิบ,Muang Sam Sip Sub-district Municipality,0
+3484,ท้องถิ่นเทศบาลตำบลกุดข้าวปุ้น,Kut Khaopun Sub-district Municipality,0
+3485,ท้องถิ่นเทศบาลตำบลตระการพืชผล,Trakan Phuet Phon Sub-district Municipality,0
+3486,ท้องถิ่นเทศบาลตำบลบุณฑริก,Buntharik Sub-district Municipality,0
+3487,ท้องถิ่นเทศบาลตำบลน้ำยืน,Nam Yuen Sub-district Municipality,0
+3488,ท้องถิ่นเทศบาลตำบลนาจะหลวย,Na Chaluai Sub-district Municipality,0
+3489,ท้องถิ่นเทศบาลเมืองเดชอุดม,Det Udom Town Municipality,0
+3490,ท้องถิ่นเทศบาลตำบลบัวงาม,Bua Ngam Sub-district Municipality,0
+3491,ท้องถิ่นเทศบาลตำบลนาส่วง,Na Suang Sub-district Municipality,0
+3492,ท้องถิ่นเทศบาลตำบลเขมราฐ,Khemarat Sub-district Municipality,0
+3493,ท้องถิ่นเทศบาลตำบลเขื่องใน,Khueang Nai Sub-district Municipality,0
+3494,ท้องถิ่นเทศบาลตำบลบ้านด่านโขงเจียม,Ban Dan Khong Chiam Sub-district Municipality,0
+3495,ท้องถิ่นเทศบาลตำบลศรีเมืองใหม่,Si Mueang Mai Sub-district Municipality,0
+3496,ท้องถิ่นเทศบาลตำบลอุบล,Ubon Sub-district Municipality,0
+3497,ท้องถิ่นเทศบาลเมืองพิบูลมังสาหาร,Phibun Mangsahan Town Municipality,0
+3498,ท้องถิ่นเทศบาลเมืองวารินชำราบ,Warin Chamrap Town Municipality,0
+3499,ท้องถิ่นเทศบาลนครอุบลราชธานี,Ubon Ratchathani City Municipality,0
+3500,จังหวัดยโสธร,Yasothon Province,0
+3501,อำเภอเมืองยโสธร,Mueang Yasothon District,0
+3502,อำเภอทรายมูล,Sai Mun District,0
+3503,อำเภอกุดชุม,Kut Chum District,0
+3504,อำเภอคำเขื่อนแก้ว,Kham Khuean Kaeo District,0
+3505,อำเภอป่าติ้ว,Pa Tio District,0
+3506,อำเภอมหาชนะชัย,Maha Chana Chai District,0
+3507,อำเภอค้อวัง,Kho Wang District,0
+3508,อำเภอเลิงนกทา,Loeng Nok Tha District,0
+3509,อำเภอไทยเจริญ,Thai Charoen District,0
+3510,กิ่งอำเภอบดินทรเดชา,Bodindecha Minor District,25550101
+3591,ท้องถิ่นเทศบาลตำบลสามแยก,Sam Yaek Sub-district Municipality,0
+3592,ท้องถิ่นเทศบาลตำบลเลิงนกทา,Loeng Nok Tha Sub-district Municipality,0
+3593,ท้องถิ่นเทศบาลตำบลค้อวัง,Kho Wang Sub-district Municipality,0
+3594,ท้องถิ่นเทศบาลตำบลฟ้าหยาด,Fa Yat Sub-district Municipality,0
+3595,ท้องถิ่นเทศบาลตำบลป่าติ้ว,Pa Tio Sub-district Municipality,0
+3596,ท้องถิ่นเทศบาลตำบลคำเขื่อนแก้ว,Kham Khuean Kaeo Sub-district Municipality,0
+3597,ท้องถิ่นเทศบาลตำบลกุดชุมพัฒนา,Kut Chum Phatthana Sub-district Municipality,0
+3598,ท้องถิ่นเทศบาลตำบลทรายมูล,Sai Mun Sub-district Municipality,0
+3599,ท้องถิ่นเทศบาลเมืองยโสธร,Yasothon Town Municipality,0
+3600,จังหวัดชัยภูมิ,Chaiyaphum Province,0
+3601,อำเภอเมืองชัยภูมิ,Mueang Chaiyaphum District,0
+3602,อำเภอบ้านเขว้า,Ban Khwao District,0
+3603,อำเภอคอนสวรรค์,Khon Sawan District,0
+3604,อำเภอเกษตรสมบูรณ์,Kaset Sombun District,0
+3605,อำเภอหนองบัวแดง,Nong Bua Daeng District,0
+3606,อำเภอจัตุรัส,Chatturat District,0
+3607,อำเภอบำเหน็จณรงค์,Bamnet Narong District,0
+3608,อำเภอหนองบัวระเหว,Nong Bua Rawe District,0
+3609,อำเภอเทพสถิต,Thep Sathit District,0
+3610,อำเภอภูเขียว,Phu Khiao District,0
+3611,อำเภอบ้านแท่น,Ban Thaen District,0
+3612,อำเภอแก้งคร้อ,Kaeng Khro District,0
+3613,อำเภอคอนสาร,Khon San District,0
+3614,อำเภอภักดีชุมพล,Phakdi Chumphon District,0
+3615,อำเภอเนินสง่า,Noen Sa-nga District,0
+3616,อำเภอซับใหญ่,Sap Yai District,0
+3617,กิ่งอำเภอภูผาทอง,Phupha Thong Minor District,25550101
+3618,กิ่งอำเภอบ้านเดื่อ,Ban Duea Minor District,25550101
+3651,สาขาตำบลโนนสำราญ,Non Samran Branch,25550101
+3652,สาขาตำบลบ้านหว่าเฒ่า,Ban Wa Thao Branch,25550101
+3653,สาขาตำบลวังชมภู หนองบัวแดง,Wang Chomphu Branch Nong Bua Daeng,25550101
+3654,สาขาตำบลซับใหญ่ อำเภอจัตุรัส,Sap Yai Branch Chatturat District,25550101
+3655,สาขาตำบลโคกเพชร อำเภอบำเหน็จณรงค์,Khok Phet Branch Bamnet Narong District,25550101
+3656,สาขาตำบลนายางกลัก อำเภอเทพสถิต,Yang Klak Branch Thep Sathit District,25550101
+3657,สาขาตำบลบ้านเต่า อำเภอบ้านแท่น,Ban Tao Branch Ban Thaen District,25550101
+3658,สาขาตำบลท่ามะไฟหวาน อำเภอแก้งคร้อ,Tha Mafai Wan Branch Kaeng Khro District,25550101
+3659,สาขาตำบลโนนคูณ อำเภอคอนสาร ,Non Khun Branch Khon San District,25550101
+3676,ท้องถิ่นเทศบาลตำบลห้วยยาง,Huai Yang Sub-district Municipality,0
+3677,ท้องถิ่นเทศบาลตำบลบ้านเดื่อ,Ban Duea Sub-district Municipality,0
+3678,ท้องถิ่นเทศบาลตำบลโคกสะอาด,Khok Sa-at Sub-district Municipality,25550101
+3679,ท้องถิ่นเทศบาลตำบลห้วยแย้,Huai Yae Sub-district Municipality,25540216
+3680,ท้องถิ่นเทศบาลตำบลคอนสาร,Khon San Sub-district Municipality,0
+3681,ท้องถิ่นเทศบาลตำบลแก้งคร้อ,Kaeng Khro Sub-district Municipality,0
+3682,ท้องถิ่นเทศบาลตำบลนาหนองทุ่ม,Na Nong Thum Sub-district Municipality,0
+3683,ท้องถิ่นเทศบาลตำบลบ้านแท่น,Ban Thaen Sub-district Municipality,0
+3684,ท้องถิ่นเทศบาลตำบลภูเขียว,Phu Khiao Sub-district Municipality,0
+3685,ท้องถิ่นเทศบาลตำบลบ้านเพชรภูเขียว,Ban Phet Phu Khiao Sub-district Municipality,0
+3686,ท้องถิ่นเทศบาลตำบลเทพสถิต,Thep Sathit Sub-district Municipality,0
+3687,ท้องถิ่นเทศบาลตำบลหนองบัวระเหว,Nong Bua Rawe Sub-district Municipality,0
+3688,ท้องถิ่นเทศบาลตำบลบำเหน็จณรงค์,Bamnet Narong Sub-district Municipality,0
+3689,ท้องถิ่นเทศบาลตำบลบ้านเพชร,Ban Phet Sub-district Municipality,0
+3690,ท้องถิ่นเทศบาลตำบลหนองบัวโคก,Nong Bua Khok Sub-district Municipality,0
+3691,ท้องถิ่นเทศบาลตำบลจัตุรัส,Chatturat Sub-district Municipality,0
+3692,ท้องถิ่นเทศบาลตำบลหนองบัวแดง,Nong Bua Daeng Sub-district Municipality,0
+3693,ท้องถิ่นเทศบาลตำบลบ้านเป้า,Ban Pao Sub-district Municipality,0
+3694,ท้องถิ่นเทศบาลตำบลเกษตรสมบูรณ์,Kaset Sombun Sub-district Municipality,0
+3695,ท้องถิ่นเทศบาลตำบลคอนสวรรค์,Khon Sawan Sub-district Municipality,0
+3696,ท้องถิ่นเทศบาลตำบลบ้านเขว้า,Ban Khwao Sub-district Municipality,0
+3697,ท้องถิ่นเทศบาลตำบลลาดใหญ่,Lat Yai Sub-district Municipality,0
+3698,ท้องถิ่นเทศบาลตำบลบ้านค่ายหมื่นแผ้ว,Ban Khai Muen Phaeo Sub-district Municipality,0
+3699,ท้องถิ่นเทศบาลเมืองชัยภูมิ,Chaiyaphum Town Municipality,0
+3700,จังหวัดอำนาจเจริญ,Amnat Charoen Province,0
+3701,อำเภอเมืองอำนาจเจริญ,Mueang Amnat Charoen District,0
+3702,อำเภอชานุมาน,Chanuman District,0
+3703,อำเภอปทุมราชวงศา,Pathum Ratchawongsa District,0
+3704,อำเภอพนา,Phana District,0
+3705,อำเภอเสนางคนิคม,Senangkhanikhom District,0
+3706,อำเภอหัวตะพาน,Hua Taphan District,0
+3707,อำเภอลืออำนาจ,Lue Amnat District,0
+3790,ท้องถิ่นเทศบาลตำบลนายม,Na Yom Sub-district Municipality,0
+3791,ท้องถิ่นเทศบาลตำบลพระเหลา,Phra Lao Sub-district Municipality,0
+3792,ท้องถิ่นเทศบาลตำบลอำนาจ,Amnat Sub-district Municipality,0
+3793,ท้องถิ่นเทศบาลตำบลหัวตะพาน,Hua Taphan Sub-district Municipality,0
+3794,ท้องถิ่นเทศบาลตำบลเสนางคนิคม,Senangkhanikhom Sub-district Municipality,0
+3795,ท้องถิ่นเทศบาลตำบลพนา,Phana Sub-district Municipality,0
+3796,ท้องถิ่นเทศบาลตำบลปทุมราชวงศา,Pathum Ratchawongsa Sub-district Municipality,0
+3797,ท้องถิ่นเทศบาลตำบลชานุมาน,Chanuman Sub-district Municipality,0
+3798,ท้องถิ่นเทศบาลตำบลน้ำปลีก,Nam Plik Sub-district Municipality,0
+3799,ท้องถิ่นเทศบาลเมืองอำนาจเจริญ,Amnat Charoen Town Municipality,0
+3800,จังหวัดบึงกาฬ,Bueng Kan Province,0
+3801,อำเภอเมืองบึงกาฬ,Mueang Bueng Kan District,0
+3802,อำเภอพรเจริญ,Phon Charoen District,0
+3803,อำเภอโซ่พิสัย,So Phisai District,0
+3804,อำเภอเซกา,Seka District,0
+3805,อำเภอปากคาด,Pak Khat District,0
+3806,อำเภอบึงโขงหลง,Bueng Khong Long District,0
+3807,อำเภอศรีวิไล,Si Wilai District,0
+3808,อำเภอบุ่งคล้า,Bung Khla District,0
+3887,ท้องถิ่นเทศบาลตำบลหอคำ,Hokham Sub-district Municipality,0
+3888,ท้องถิ่นเทศบาลตำบลโนนสว่าง,Non Sawang Sub-district Municipality,0
+3889,ท้องถิ่นเทศบาลตำบลวิศิษฐ์,Wisit Sub-district Municipality,25631001
+3890,ท้องถิ่นเทศบาลตำบลศรีวิไล,Si Wilai Sub-district Municipality,0
+3891,ท้องถิ่นเทศบาลตำบลบึงโขงหลง,Bueng Khong Long Sub-district Municipality,0
+3892,ท้องถิ่นเทศบาลตำบลปากคาด,Pak Khat Sub-district Municipality,0
+3893,ท้องถิ่นเทศบาลตำบลศรีพนา,Si Phana Sub-district Municipality,0
+3894,ท้องถิ่นเทศบาลตำบลท่าสะอาด,Tha Sa-at Sub-district Municipality,0
+3895,ท้องถิ่นเทศบาลตำบลโซ่พิสัย,So Phisa Sub-district Municipality,0
+3896,ท้องถิ่นเทศบาลตำบลพรเจริญ,Phon Charoen Sub-district Municipality,0
+3897,ท้องถิ่นเทศบาลตำบลดอนหญ้านาง,Don Ya Nang Sub-district Municipality,0
+3898,ท้องถิ่นเทศบาลเมืองบึงกาฬ,Bueng Kan Town Municipality,0
+3900,จังหวัดหนองบัวลำภู,Nong Bua Lam Phu Province,0
+3901,อำเภอเมืองหนองบัวลำภู,Mueang Nong Bua Lam Phu District,0
+3902,อำเภอนากลาง,Na Klang District,0
+3903,อำเภอโนนสัง,Non Sang District,0
+3904,อำเภอศรีบุญเรือง,Si Bun Rueang District,0
+3905,อำเภอสุวรรณคูหา,Suwannakhuha District,0
+3906,อำเภอนาวัง,Na Wang District,0
+3907,กิ่งอำเภอกุดดินจี่,Kut Din Chi Minor District,25550101
+3908,กิ่งอำเภอยางหล่อ,Yang Lo Minor District,25550101
+3909,กิ่งอำเภอหัวนา,Hua Na Minor District,25550101
+3986,ท้องถิ่นเทศบาลตำบลยางหล่อ,Yanglon Sub-district Municipality,0
+3987,ท้องถิ่นเทศบาลตำบลนาเหล่า,Na Lao Sub-district Municipality,0
+3988,ท้องถิ่นเทศบาลตำบลสุวรรณคูหา,Suwannakhuha Sub-district Municipality,0
+3989,ท้องถิ่นเทศบาลตำบลบ้านโคก,Ban Khok Sub-district Municipality,0
+3990,ท้องถิ่นเทศบาลตำบลโนนสูงเปลือย,Non Sung Plueai Sub-district Municipality,0
+3991,ท้องถิ่นเทศบาลตำบลจอมทอง,Chomthong Sub-district Municipality,0
+3992,ท้องถิ่นเทศบาลตำบลโนนสัง,Non Sang Sub-district Municipality,0
+3993,ท้องถิ่นเทศบาลตำบลกุดดู่,Kut Du Sub-district Municipality,0
+3994,ท้องถิ่นเทศบาลตำบลนากลาง,Na Klang Sub-district Municipality,0
+3995,ท้องถิ่นเทศบาลตำบลกุดดินจี่,Kut Din Chai Sub-district Municipality,0
+3996,ท้องถิ่นเทศบาลตำบลหัวนา,Hua Na Sub-district Municipality,0
+3997,ท้องถิ่นเทศบาลตำบลนามะเฟือง,Na Mafueang Sub-district Municipality,0
+3998,ท้องถิ่นเทศบาลตำบลนาคำไฮ,Na Kham Hai Sub-district Municipality,0
+3999,ท้องถิ่นเทศบาลเมืองหนองบัวลำภู,Nong Bua Lam Phu Town Municipality,0
+4000,จังหวัดขอนแก่น,Khon Kaen Province,0
+4001,อำเภอเมืองขอนแก่น,Mueang Khon Kaen District,0
+4002,อำเภอบ้านฝาง,Ban Fang District,0
+4003,อำเภอพระยืน,Phra Yuen District,0
+4004,อำเภอหนองเรือ,Nong Ruea District,0
+4005,อำเภอชุมแพ,Chum Phae District,0
+4006,อำเภอสีชมพู,Si Chomphu District,0
+4007,อำเภอน้ำพอง,Nam Phong District,0
+4008,อำเภออุบลรัตน์,Ubolratana District,0
+4009,อำเภอกระนวน,Kranuan District,0
+4010,อำเภอบ้านไผ่,Ban Phai District,0
+4011,อำเภอเปือยน้อย,Pueai Noi District,0
+4012,อำเภอพล,Phon District,0
+4013,อำเภอแวงใหญ่,Waeng Yai District,0
+4014,อำเภอแวงน้อย,Waeng Noi District,0
+4015,อำเภอหนองสองห้อง,Nong Song Hong District,0
+4016,อำเภอภูเวียง,Phu Wiang District,0
+4017,อำเภอมัญจาคีรี,Mancha Khiri District,0
+4018,อำเภอชนบท,Chonnabot District,0
+4019,อำเภอเขาสวนกวาง,Khao Suan Kwang District,0
+4020,อำเภอภูผาม่าน,Phu Pha Man District,0
+4021,อำเภอซำสูง,Sam Sung District,0
+4022,อำเภอโคกโพธิ์ไชย,Khok Pho Chai District,0
+4023,อำเภอหนองนาคำ,Nong Na Kham District,0
+4024,อำเภอบ้านแฮด,Ban Haet District,0
+4025,อำเภอโนนศิลา,Non Sila District,0
+4026,กิ่งอำเภอภูคำน้อย,Phu Kham Noi Minor District,25550101
+4027,กิ่งอำเภอหนองแก,Nong Kae Minor District,25550101
+4028,กิ่งอำเภอโนนหัน,Non Han Minor District,25550101
+4029,อำเภอเวียงเก่า,Wiang Kao District,0
+4054,ท้องถิ่นเทศบาลเมืองศิลา,Sila Town Municipality,0
+4055,ท้องถิ่นเทศบาลตำบลโคกสูง,Khok Sung Sub-district Municipality,0
+4056,ท้องถิ่นเทศบาลตำบลสะอาด,Sa-at Sub-district Municipality,0
+4057,ท้องถิ่นเทศบาลเมืองบ้านทุ่ม,Ban Thum Town Municipality,0
+4058,ท้องถิ่นเทศบาลตำบลโนนสมบูรณ์,Non Sombun Sub-district Municipality,0
+4059,ท้องถิ่นเทศบาลตำบลนาข่า,Na Kha Sub-district Municipality,25570129
+4060,ท้องถิ่นเทศบาลตำบลม่วงหวาน,Muang Wan Sub-district Municipality,0
+4061,ท้องถิ่นเทศบาลตำบลหนองตูม,Nong Tum Sub-district Municipality,0
+4062,ท้องถิ่นเทศบาลตำบลเมืองเก่า,Meuang Kao Sub-district Municipality,0
+4063,ท้องถิ่นเทศบาลตำบลโนนท่อน,Non Thon Sub-district Municipality,0
+4064,ท้องถิ่นเทศบาลตำบลบ้านค้อ,Ban Kho Sub-district Municipality,0
+4065,ท้องถิ่นเทศบาลตำบลกุดน้ำใส,Kut Nam Sai Sub-district Municipality,0
+4066,ท้องถิ่นเทศบาลตำบลลำน้ำพอง,Lamnam Phong Sub-district Municipality,25550101
+4067,ท้องถิ่นเทศบาลตำบลสาวะถี,Sa Wa Thi Sub-district Municipality,0
+4068,ท้องถิ่นเทศบาลตำบลบ้านเป็ด,Ban Pet Sub-district Municipality,0
+4069,ท้องถิ่นเทศบาลตำบลโนนศิลา,Non SiLa Sub-district Municipality,0
+4070,ท้องถิ่นเทศบาลตำบลบ้านแฮด,Ban Haet Sub-district Municipality,0
+4071,ท้องถิ่นเทศบาลตำบลบ้านโคก,Ban Khok Sub-district Municipality,0
+4072,ท้องถิ่นเทศบาลตำบลซำสูง,Sam Sung Sub-district Municipality,0
+4073,ท้องถิ่นเทศบาลตำบลภูผาม่าน,Phu Pha Man Sub-district Municipality,0
+4074,ท้องถิ่นเทศบาลตำบลเขาสวนกวาง,Khao Suan Kwang Sub-district Municipality,0
+4075,ท้องถิ่นเทศบาลตำบลชนบท,Chonnabot Sub-district Municipality,0
+4076,ท้องถิ่นเทศบาลตำบลมัญจาคีรี,Mancha Khiri Sub-district Municipality,0
+4077,ท้องถิ่นเทศบาลตำบลภูเวียง,Phu Wiang Sub-district Municipality,0
+4078,ท้องถิ่นเทศบาลตำบลหนองสองห้อง,Nong Song Hong Sub-district Municipality,0
+4079,ท้องถิ่นเทศบาลตำบลแวงน้อย,Waeng Noi Sub-district Municipality,0
+4080,ท้องถิ่นเทศบาลตำบลแวงใหญ่,Waeng Yai Sub-district Municipality,0
+4081,ท้องถิ่นเทศบาลตำบลเปือยน้อย,Pueai Noi Sub-district Municipality,0
+4082,ท้องถิ่นเทศบาลเมืองกระนวน,Kranuan Town Municipality,0
+4083,ท้องถิ่นเทศบาลตำบลเขื่อนอุบลรัตน์,Khuean Ubolratana Sub-district Municipality,0
+4084,ท้องถิ่นเทศบาลตำบลวังชัย,Wang Chai Sub-district Municipality,0
+4085,ท้องถิ่นเทศบาลตำบลน้ำพอง,Nam Phong Sub-district Municipality,0
+4086,ท้องถิ่นเทศบาลตำบลสีชมพู,Si Chomphu Sub-district Municipality,0
+4087,ท้องถิ่นเทศบาลตำบลโนนหัน,Non Han Sub-district Municipality,0
+4088,ท้องถิ่นเทศบาลตำบลโคกสูงสัมพันธ์,Khok Sung Sumphan Sub-district Municipality,0
+4089,ท้องถิ่นเทศบาลตำบลหนองเรือ,Nong Ruea Sub-district Municipality,0
+4090,ท้องถิ่นเทศบาลตำบลหนองแก,Nong Kae Sub-district Municipality,0
+4091,ท้องถิ่นเทศบาลตำบลดอนโมง,Don Mong Sub-district Municipality,0
+4092,ท้องถิ่นเทศบาลตำบลพระยืน,Phra Yuen Sub-district Municipality,0
+4093,ท้องถิ่นเทศบาลตำบลบ้านโต้น,Ban Ton Sub-district Municipality,0
+4094,ท้องถิ่นเทศบาลตำบลบ้านฝาง,Ban Fang Sub-district Municipality,0
+4095,ท้องถิ่นเทศบาลตำบลท่าพระ,Tha Phra Sub-district Municipality,0
+4096,ท้องถิ่นเทศบาลเมืองชุมแพ,Chum Phae Town Municipality,0
+4097,ท้องถิ่นเทศบาลเมืองบ้านไผ่,Ban Phai Town Municipality,0
+4098,ท้องถิ่นเทศบาลเมืองเมืองพล,Mueang Phon Town Municipality,0
+4099,ท้องถิ่นเทศบาลนครขอนแก่น,Khon Kaen City Municipality,0
+4100,จังหวัดอุดรธานี,Udon Thani Province,0
+4101,อำเภอเมืองอุดรธานี,Mueang Udon Thani District,0
+4102,อำเภอกุดจับ,Kut Chap District,0
+4103,อำเภอหนองวัวซอ,Nong Wua So District,0
+4104,อำเภอกุมภวาปี,Kumphawapi District,0
+4105,อำเภอโนนสะอาด,Non Sa-at District,0
+4106,อำเภอหนองหาน,Nong Han District,0
+4107,อำเภอทุ่งฝน,Thung Fon District,0
+4108,อำเภอไชยวาน,Chai Wan District,0
+4109,อำเภอศรีธาตุ,Si That District,0
+4110,อำเภอวังสามหมอ,Wang Sam Mo District,0
+4111,อำเภอบ้านดุง,Ban Dung District,0
+4112,อำเภอหนองบัวลำภู,Nong Bua Lam Phu District,25550101
+4113,อำเภอศรีบุญเรือง,Si Bun Rueang District,25550101
+4114,อำเภอนากลาง,Na Klang District,25550101
+4115,อำเภอสุวรรณคูหา,Suwannakhuha District,25550101
+4116,อำเภอโนนสัง,Non Sang District,25550101
+4117,อำเภอบ้านผือ,Ban Phue District,0
+4118,อำเภอน้ำโสม,Nam Som District,0
+4119,อำเภอเพ็ญ,Phen District,0
+4120,อำเภอสร้างคอม,Sang Khom District,0
+4121,อำเภอหนองแสง,Nong Saeng District,0
+4122,อำเภอนายูง,Na Yung District,0
+4123,อำเภอพิบูลย์รักษ์,Phibun Rak District,0
+4124,อำเภอกู่แก้ว,Ku Kaeo District,0
+4125,อำเภอประจักษ์ศิลปาคม,Prachaksinlapakhom District,0
+4126,กิ่งอำเภอภูพระบาท,Phu Phrabat Minor District,25550101
+4127,กิ่งอำเภอวังสายไหม,Wang Sai Mai Minor District,25550101
+4157,ท้องถิ่นเทศบาลตำบลนาดี,Nadee Sub-district Municipality,25640120
+4158,ท้องถิ่นเทศบาลตำบลหนองหว้า,Nongwa Sub-district Municipality,0
+4159,ท้องถิ่นเทศบาลตำบลหัวนาคำ,Hua Na Kham Sub-district Municipality,0
+4160,ท้องถิ่นเทศบาลตำบลผาสุก,Phasuk Sub-district Municipality,0
+4161,ท้องถิ่นเทศบาลตำบลโพนสูง,Phon Sung Sub-district Municipality,0
+4162,ท้องถิ่นเทศบาลตำบลจำปี,Champi Sub-district Municipality,0
+4163,ท้องถิ่นเทศบาลตำบลสร้างคอม,Sang Khom Sub-district Municipality,0
+4164,ท้องถิ่นเทศบาลตำบลบ้านธาตุ,Ban That Sub-district Municipality,0
+4165,ท้องถิ่นเทศบาลตำบลเวียงคำ,Wiang Kham Sub-district Municipality,0
+4166,ท้องถิ่นเทศบาลตำบลลำพันชาด,Lam Phan Chat Sub-district Municipality,0
+4167,ท้องถิ่นเทศบาลตำบลหนองไผ่,Nong Phai Sub-district Municipality,0
+4168,ท้องถิ่นเทศบาลตำบลหนองไผ่,Nong Phai Sub-district Municipality,0
+4169,ท้องถิ่นเทศบาลตำบลปะโค,Pa Kho Sub-district Municipality,0
+4170,ท้องถิ่นเทศบาลตำบลแสงสว่าง,Saengsawang Sub-district Municipality,0
+4171,ท้องถิ่นเทศบาลตำบลเพ็ญ,Phen Sub-district Municipality,0
+4172,ท้องถิ่นเทศบาลตำบลน้ำโสม,Nam Som Sub-district Municipality,0
+4173,ท้องถิ่นเทศบาลตำบลนางัว,Na ngua Sub-district Municipality,0
+4174,ท้องถิ่นเทศบาลตำบลบ้านผือ,Ban Phue Sub-district Municipality,0
+4175,ท้องถิ่นเทศบาลเมืองบ้านดุง,Ban Dung Town Municipality,0
+4176,ท้องถิ่นเทศบาลตำบลวังสามหมอ,Wang Sam Mo Sub-district Municipality,0
+4177,ท้องถิ่นเทศบาลตำบลศรีธาตุ,Si That Sub-district Municipality,0
+4178,ท้องถิ่นเทศบาลตำบลไชยวาน,Chai Wan Sub-district Municipality,0
+4179,ท้องถิ่นเทศบาลตำบลทุ่งฝน,Thung Fon Sub-district Municipality,0
+4180,ท้องถิ่นเทศบาลตำบลหนองหาน,Nong Han Sub-district Municipality,0
+4181,ท้องถิ่นเทศบาลตำบลหนองเม็ก,Nong Mek Sub-district Municipality,0
+4182,ท้องถิ่นเทศบาลตำบลบ้านเชียง,Ban Chiang Sub-district Municipality,0
+4183,ท้องถิ่นเทศบาลตำบลโนนสะอาด,Non Sa-at Sub-district Municipality,0
+4184,ท้องถิ่นเทศบาลตำบลห้วยเกิ้ง,Huai Koeng Sub-district Municipality,0
+4185,ท้องถิ่นเทศบาลตำบลพันดอน,Phan Don Sub-district Municipality,0
+4186,ท้องถิ่นเทศบาลตำบลกุมภวาปี,Kumphawapi Sub-district Municipality,0
+4187,ท้องถิ่นเทศบาลตำบลภูผาแดง,Phu Pha Daeng Sub-district Municipality,0
+4188,ท้องถิ่นเทศบาลตำบลหนองวัวซอ,Nong Wua So Sub-district Municipality,0
+4189,ท้องถิ่นเทศบาลตำบลสร้างก่อ,Sang Ko Sub-district Municipality,0
+4190,ท้องถิ่นเทศบาลตำบลตาลเลียน,Tan Lian Sub-district Municipality,0
+4191,ท้องถิ่นเทศบาลตำบลเชียงเพ็ง,Chiang Pheng Sub-district Municipality,0
+4192,ท้องถิ่นเทศบาลตำบลกุดจับ,Kut Chap Sub-district Municipality,0
+4193,ท้องถิ่นเทศบาลตำบลหนองบัว,Nong Bua Sub-district Municipality,0
+4194,ท้องถิ่นเทศบาลเมืองหนองสำโรง,Nong Samrong Town Municipality,0
+4195,ท้องถิ่นเทศบาลตำบลบ้านจั่น,Ban Chan Sub-district Municipality,0
+4196,ท้องถิ่นเทศบาลเมืองโนนสูง-น้ำคำ,Non Sung - Nam Kham Town Municipality,0
+4197,ท้องถิ่นเทศบาลตำบลนิคมสงเคราะห์,Nikhom Songkhro Sub-district Municipality,0
+4198,ท้องถิ่นเทศบาลตำบลนาข่า,Na Kha Sub-district Municipality,0
+4199,ท้องถิ่นเทศบาลนครอุดรธานี,Udon Thani City Municipality,0
+4200,จังหวัดเลย,Loei Province,0
+4201,อำเภอเมืองเลย,Mueang Loei District,0
+4202,อำเภอนาด้วง,Na Duang District,0
+4203,อำเภอเชียงคาน,Chiang Khan District,0
+4204,อำเภอปากชม,Pak Chom District,0
+4205,อำเภอด่านซ้าย,Dan Sai District,0
+4206,อำเภอนาแห้ว,Na Haeo District,0
+4207,อำเภอภูเรือ,Phu Ruea District,0
+4208,อำเภอท่าลี่,Tha Li District,0
+4209,อำเภอวังสะพุง,Wang Saphung District,0
+4210,อำเภอภูกระดึง,Phu Kradueng District,0
+4211,อำเภอภูหลวง,Phu Luang District,0
+4212,อำเภอผาขาว,Pha Khao District,0
+4213,อำเภอเอราวัณ,Erawan District,0
+4214,อำเภอหนองหิน,Nong Hin District,0
+4279,ท้องถิ่นเทศบาลตำบลโนนปอแดง,Non Po Daeng Sub-district Municipality,0
+4280,ท้องถิ่นเทศบาลตำบลนาดอกคำ,Na Dok Kham Sub-district Municipality,0
+4281,ท้องถิ่นเทศบาลตำบลธาตุ,That Sub-district Municipality,0
+4282,ท้องถิ่นเทศบาลตำบลนาดินดำ,Na Dindam Sub-district Municipality,0
+4283,ท้องถิ่นเทศบาลตำบลนาโป่ง,Na Pong Sub-district Municipality,0
+4284,ท้องถิ่นเทศบาลตำบลนาอาน,Na An Sub-district Municipality,0
+4285,ท้องถิ่นเทศบาลตำบลเขาแก้ว,Khao Kaeo Sub-district Municipality,0
+4286,ท้องถิ่นเทศบาลตำบลหนองหิน,Nong Hin Sub-district Municipality,0
+4287,ท้องถิ่นเทศบาลตำบลภูกระดึง,Phu Kradueng Sub-district Municipality,0
+4288,ท้องถิ่นเทศบาลเมืองวังสะพุง,Wang Saphung Town Municipality,0
+4289,ท้องถิ่นเทศบาลตำบลท่าลี่,Tha Li Sub-district Municipality,0
+4290,ท้องถิ่นเทศบาลตำบลภูเรือ,Phu Ruea Sub-district Municipality,0
+4291,ท้องถิ่นเทศบาลตำบลนาแห้ว,Na Haeo Sub-district Municipality,0
+4292,ท้องถิ่นเทศบาลตำบลด่านซ้าย,Dan Sai Sub-district Municipality,0
+4293,ท้องถิ่นเทศบาลตำบลปากชม,Pak Chom Sub-district Municipality,0
+4294,ท้องถิ่นเทศบาลตำบลเชียงกลม,Chiang Klom Sub-district Municipality,0
+4295,ท้องถิ่นเทศบาลตำบลเชียงคาน,Chiang Khan Sub-district Municipality,0
+4296,ท้องถิ่นเทศบาลตำบลนาด้วง,Na Duang Sub-district Municipality,0
+4297,ท้องถิ่นเทศบาลตำบลน้ำสวย,Num Suai Sub-district Municipality,0
+4298,ท้องถิ่นเทศบาลตำบลนาอ้อ,Na O Sub-district Municipality,0
+4299,ท้องถิ่นเทศบาลเมืองเลย,Loei Town Municipality,0
+4300,จังหวัดหนองคาย,Nong Khai Province,0
+4301,อำเภอเมืองหนองคาย,Mueang Nong Khai District,0
+4302,อำเภอท่าบ่อ,Tha Bo District,0
+4303,อำเภอบึงกาฬ,Bueng Kan District,25540331
+4304,อำเภอพรเจริญ,Phon Charoen District,25540331
+4305,อำเภอโพนพิสัย,Phon Phisai District,0
+4306,อำเภอโซ่พิสัย,So Phisai District,25540331
+4307,อำเภอศรีเชียงใหม่,Si Chiang Mai District,0
+4308,อำเภอสังคม,Sangkhom District,0
+4309,อำเภอเซกา,Seka District,25540331
+4310,อำเภอปากคาด,Pak Khat District,25540331
+4311,อำเภอบึงโขงหลง,Bueng Khong Long District,25540331
+4312,อำเภอศรีวิไล,Si Wilai District,25540331
+4313,อำเภอบุ่งคล้า,Bung Khla District,25540331
+4314,อำเภอสระใคร,Sakhrai District,0
+4315,อำเภอเฝ้าไร่,Fao Rai District,0
+4316,อำเภอรัตนวาปี,Rattanawapi District,0
+4317,อำเภอโพธิ์ตาก,Pho Tak District,0
+4318,กิ่งอำเภอเชิม,Choem Minor District,25550101
+4319,กิ่งอำเภอเจ็ดสี,Chet Si Minor District,25550101
+4320,กิ่งอำเภอสามแยกสีชมภู,Sam Yaek Si Chomphu Minor District,25550101
+4321,กิ่งอำเภอหอคำ,Ho Kham Minor District,25550101
+4377,ท้องถิ่นเทศบาลตำบลหอคำ,Ho Kham Sub-district Municipality,25540331
+4378,ท้องถิ่นเทศบาลตำบลเฝ้าไร่,Fao Rai Sub-district Municipality,0
+4379,ท้องถิ่นเทศบาลตำบลหนองเข็ง,Nong Kheng Sub-district Municipality,25540331
+4380,ท้องถิ่นเทศบาลตำบลวิศิษฐ์,Wisit Sub-district Municipality,25540331
+4381,ท้องถิ่นเทศบาลตำบลโพธิ์ชัย,Pho Chai Sub-district Municipality,0
+4382,ท้องถิ่นเทศบาลตำบลหาดคำ,Hat Kham Sub-Dstrict Municipality,0
+4383,ท้องถิ่นเทศบาลตำบลศรีวิไล,Si Wilai Sub-district Municipality,25540331
+4384,ท้องถิ่นเทศบาลตำบลบึงโขงหลง,Bueng Khong Long Sub-district Municipality,25540331
+4385,ท้องถิ่นเทศบาลตำบลปากคาด,Pak Khat Sub-district Municipality,25540331
+4386,ท้องถิ่นเทศบาลตำบลศรีพนา,Sri Phana Sub-district Municipality,25540331
+4387,ท้องถิ่นเทศบาลตำบลท่าสะอาด,Tha Sa-at Sub-district Municipality,25540331
+4388,ท้องถิ่นเทศบาลตำบลสังคม,Sangkhom Sub-district Municipality,0
+4389,ท้องถิ่นเทศบาลตำบลศรีเชียงใหม่,Si Chiang Mai Sub-district Municipality,0
+4390,ท้องถิ่นเทศบาลตำบลโซ่พิสัย,So Phisai Sub-district Municipality,25540331
+4391,ท้องถิ่นเทศบาลตำบลโพนพิสัย,Phon Phisai Sub-district Municipality,0
+4392,ท้องถิ่นเทศบาลตำบลพรเจริญ,Phon Charoen Sub-district Municipality,25540331
+4393,ท้องถิ่นเทศบาลตำบลดอนหญ้านาง,Don Ya Nang Sub-district Municipality,25540331
+4394,ท้องถิ่นเทศบาลตำบลบึงกาฬ,Bueng Kan Sub-district Municipality,25540331
+4395,ท้องถิ่นเทศบาลตำบลโพนสา,Phon sa Sub-district Municipality,0
+4396,ท้องถิ่นเทศบาลเมืองท่าบ่อ,Tha BoTown Municipality,0
+4397,ท้องถิ่นเทศบาลตำบลหนองสองห้อง,Nong Song Hong Sub-Distrct Municipality,0
+4398,ท้องถิ่นเทศบาลตำบลเวียงคุก,Wiang Khuk Sub-district Municipality,0
+4399,ท้องถิ่นเทศบาลเมืองหนองคาย,Nong Khai Town Municipality,0
+4400,จังหวัดมหาสารคาม,Maha Sarakham Province,0
+4401,อำเภอเมืองมหาสารคาม,Mueang Maha Sarakham District,0
+4402,อำเภอแกดำ,Kae Dam District,0
+4403,อำเภอโกสุมพิสัย,Kosum Phisai District,0
+4404,อำเภอกันทรวิชัย,Kantharawichai District,0
+4405,อำเภอเชียงยืน,Chiang Yuen District,0
+4406,อำเภอบรบือ,Borabue District,0
+4407,อำเภอนาเชือก,Na Chueak District,0
+4408,อำเภอพยัคฆภูมิพิสัย,Phayakkhaphum Phisai District,0
+4409,อำเภอวาปีปทุม,Wapi Pathum District,0
+4410,อำเภอนาดูน,Na Dun District,0
+4411,อำเภอยางสีสุราช,Yang Si Surat District,0
+4412,อำเภอกุดรัง,Kut Rang District,0
+4413,อำเภอชื่นชม,Chuen Chom District,0
+4487,ท้องถิ่นเทศบาลตำบลขามเรียง,Kham Riang Sub-district Municipality,0
+4488,ท้องถิ่นเทศบาลตำบลท่าขอนยาง,Tha Khon Yang Sub-district Municipality,0
+4489,ท้องถิ่นเทศบาลตำบลนาดูน,Na Dun Sub-district Municipality,0
+4490,ท้องถิ่นเทศบาลตำบลวาปีปทุม,Wapi Pathum Sub-district Municipality,0
+4491,ท้องถิ่นเทศบาลตำบลพยัคฆภูมิพิสัย,Phayakkhaphum Phisai Sub-district Municipality,0
+4492,ท้องถิ่นเทศบาลตำบลนาเชือก,Na Chueak Sub-district Municipality,0
+4493,ท้องถิ่นเทศบาลตำบลบรบือ,Borabue Sub-district Municipality,0
+4494,ท้องถิ่นเทศบาลตำบลเชียงยืน,Chiang Yuen Sub-district Municipality,0
+4495,ท้องถิ่นเทศบาลตำบลโคกพระ,Khok Phra Sub-district Municipality,0
+4496,ท้องถิ่นเทศบาลตำบลโกสุมพิสัย,Kosum Phisai Sub-district Municipality,0
+4497,ท้องถิ่นเทศบาลตำบลแกดำ,Kae Dam Sub-district Municipality,0
+4498,ท้องถิ่นเทศบาลตำบลแวงน่าง,Waeng Nang Sub-district Municipality,0
+4499,ท้องถิ่นเทศบาลเมืองมหาสารคาม,Maha Sarakham Town Municipality,0
+4500,จังหวัดร้อยเอ็ด,Roi Et Province,0
+4501,อำเภอเมืองร้อยเอ็ด,Mueang Roi Et District,0
+4502,อำเภอเกษตรวิสัย,Kaset Wisai District,0
+4503,อำเภอปทุมรัตต์,Pathum Rat District,0
+4504,อำเภอจตุรพักตรพิมาน,Chaturaphak Phiman District,0
+4505,อำเภอธวัชบุรี,Thawat Buri District,0
+4506,อำเภอพนมไพร,Phanom Phrai District,0
+4507,อำเภอโพนทอง,Phon Thong District,0
+4508,อำเภอโพธิ์ชัย,Pho Chai District,0
+4509,อำเภอหนองพอก,Nong Phok District,0
+4510,อำเภอเสลภูมิ,Selaphum District,0
+4511,อำเภอสุวรรณภูมิ,Suwannaphum District,0
+4512,อำเภอเมืองสรวง,Mueang Suang District,0
+4513,อำเภอโพนทราย,Phon Sai District,0
+4514,อำเภออาจสามารถ,At Samat District,0
+4515,อำเภอเมยวดี,Moei Wadi District,0
+4516,อำเภอศรีสมเด็จ,Si Somdet District,0
+4517,อำเภอจังหาร,Changhan District,0
+4518,อำเภอเชียงขวัญ,Chiang Khwan District,0
+4519,อำเภอหนองฮี,Nong Hi District,0
+4520,อำเภอทุ่งเขาหลวง,Thung Khao Luang District,0
+4521,กิ่งอำเภอหนองบัวบูรพา,Nong Bua Burapha Minor District,25550101
+4565,ท้องถิ่นเทศบาลตำบลนิเวศน์,Niwet Sub-district Municipality,0
+4566,ท้องถิ่นเทศบาลตำบลมะอึ,Ma Ue Sub-district Municipality,0
+4567,ท้องถิ่นเทศบาลตำบลดงแดง,Dong Daeng Sub-district Municipality,25550101
+4568,ท้องถิ่นเทศบาลตำบลโคกล่าม,Khok Lam Sub-district Municipality,25550101
+4569,ท้องถิ่นเทศบาลตำบลโพธิ์ชัย,Pho Chai Sub-district Municipality,0
+4570,ท้องถิ่นเทศบาลตำบลดินดำ,Dindam Sub-district Municipality,0
+4571,ท้องถิ่นเทศบาลตำบลเมืองไพร,Mueang Phrai Sub-district Municipality,0
+4572,ท้องถิ่นเทศบาลตำบลขวาว,Khwao Sub-district Municipality,0
+4573,ท้องถิ่นเทศบาลตำบลดงแดง,Dong Daeng Sub-district Municipality,0
+4574,ท้องถิ่นเทศบาลตำบลโคกล่าม,Khok Lam Sub-district Municipality,0
+4575,ท้องถิ่นเทศบาลตำบลหัวช้าง,Hua Chang Sub-district Municipality,0
+4576,ท้องถิ่นเทศบาลตำบลอุ่มเม้า,Um Mao Sub-district Municipality,0
+4577,ท้องถิ่นเทศบาลตำบลปอภาร,Po Phan Sub-district Municipality,0
+4578,ท้องถิ่นเทศบาลตำบลเมืองบัว,Mueang Bua Sub-district Municipality,0
+4579,ท้องถิ่นเทศบาลตำบลคำพอุง,Kham Pha Ung Sub-district Municipality,0
+4580,ท้องถิ่นเทศบาลตำบลอัคคะคำ,Akkha Kham Sub-district Municipality,0
+4581,ท้องถิ่นเทศบาลตำบลโนนตาล,Non Tan Sub-district Municipality,0
+4582,ท้องถิ่นเทศบาลตำบลอาจสามารถ,At Samat Sub-district Municipality,25550101
+4583,ท้องถิ่นเทศบาลตำบลอาจสามารถ,At Samat Sub-district Municipality,0
+4584,ท้องถิ่นเทศบาลตำบลโพนทราย,Phon Sai Sub-district Municipality,0
+4585,ท้องถิ่นเทศบาลตำบลเมืองสรวง,Mueang Suang Sub-district Municipality,0
+4586,ท้องถิ่นเทศบาลตำบลสุวรรณภูมิ,Suwannaphum Sub-district Municipality,0
+4587,ท้องถิ่นเทศบาลตำบลเสลภูมิ,Selaphum Sub-district Municipality,0
+4588,ท้องถิ่นเทศบาลตำบลหนองพอก,Nong Phok Sub-district Municipality,0
+4589,ท้องถิ่นเทศบาลตำบลเชียงใหม่,Chiangmai Sub-district Municipality,0
+4590,ท้องถิ่นเทศบาลตำบลชัยวารี,Chai Wari Sub-district Municipality,0
+4591,ท้องถิ่นเทศบาลตำบลโพนทอง,Phon Thong Sub-district Municipality,0
+4592,ท้องถิ่นเทศบาลตำบลพนมไพร,Phanom Phrai Sub-district Municipality,0
+4593,ท้องถิ่นเทศบาลตำบลบ้านนิเวศน์,Ban Niwet Sub-district Municipality,0
+4594,ท้องถิ่นเทศบาลตำบลธงธานี,Thong Thani Sub-district Municipality,0
+4595,ท้องถิ่นเทศบาลตำบลจตุรพักตรพิมาน,Chaturaphak Phiman Sub-district Municipality,0
+4596,ท้องถิ่นเทศบาลตำบลปทุมรัตต์,Pathum Rat Sub-district Municipality,0
+4597,ท้องถิ่นเทศบาลตำบลเกษตรวิสัย,Kaset Wisai Sub-district Municipality,0
+4598,ท้องถิ่นเทศบาลตำบลกู่กาสิงห์,Ku Ka Sing Sub-district Municipality,0
+4599,ท้องถิ่นเทศบาลเมืองร้อยเอ็ด,Roi Et Town Municipality,0
+4600,จังหวัดกาฬสินธุ์,Kalasin Province,0
+4601,อำเภอเมืองกาฬสินธุ์,Mueang Kalasin District,0
+4602,อำเภอนามน,Na Mon District,0
+4603,อำเภอกมลาไสย,Kamalasai District,0
+4604,อำเภอร่องคำ,Rong Kham District,0
+4605,อำเภอกุฉินารายณ์,Kuchinarai District,0
+4606,อำเภอเขาวง,Khao Wong District,0
+4607,อำเภอยางตลาด,Yang Talat District,0
+4608,อำเภอห้วยเม็ก,Huai Mek District,0
+4609,อำเภอสหัสขันธ์,Sahatsakhan District,0
+4610,อำเภอคำม่วง,Kham Muang District,0
+4611,อำเภอท่าคันโท,Tha Khantho District,0
+4612,อำเภอหนองกุงศรี,Nong Kung Si District,0
+4613,อำเภอสมเด็จ,Somdet District,0
+4614,อำเภอห้วยผึ้ง,Huai Phueng District,0
+4615,อำเภอสามชัย,Sam Chai District,0
+4616,อำเภอนาคู,Na Khu District,0
+4617,อำเภอดอนจาน,Don Chan District,0
+4618,อำเภอฆ้องชัย,Khong Chai District,0
+4619,กิ่งอำเภอลำปาว,Lam Pao Minor District,25550101
+4620,กิ่งอำเภอดงมูล,Dong Mun Minor District,25550101
+4621,กิ่งอำเภอนาขาม,Na Kham Minor District,25550101
+4622,กิ่งอำเภอเขาพระนอน,Khao Phra Non Minor District,25550101
+4623,กิ่งอำเภอลำน้ำดอกไม้,Lamnam Dokmai Minor District,25550101
+4624,กิ่งอำเภอคำใหญ่,Kham Yai Minor District,25550101
+4651,สาขาตำบลคำใหญ่ อำเภอห้วยเม็ก,Kham Yai Branch Huai Mek District,25550101
+4665,ท้องถิ่นเทศบาลตำบลจุมจัง,Chum Chang Sub-district Municipality,0
+4666,ท้องถิ่นเทศบาลตำบลนาทัน,Na Than Sub-district Municipality,0
+4667,ท้องถิ่นเทศบาลตำบลอิตื้อ,I Tue Sub-district Municipality,0
+4668,ท้องถิ่นเทศบาลตำบลภูสิงห์,Phu Sing Sub-district Municipality,25660418
+4669,ท้องถิ่นเทศบาลตำบลหัวนาคำ,Hua Na Kham Sub-district Municipality,0
+4670,ท้องถิ่นเทศบาลตำบลบัวบาน,Bua Ban Sub-district Municipality,0
+4671,ท้องถิ่นเทศบาลตำบลนาขาม,Na Kham Sub-district Municipality,0
+4672,ท้องถิ่นเทศบาลตำบลลำคลอง,Lamklong Sub-district Municipality,0
+4673,ท้องถิ่นเทศบาลตำบลคำบง,Kham Bong Sub-district Municipality,0
+4674,ท้องถิ่นเทศบาลตำบลสระพังทอง,Sa Phang Thong Sub-district Municipality,0
+4675,ท้องถิ่นเทศบาลตำบลห้วยโพธิ์,Huai Pho Sub-district Municipality,0
+4676,ท้องถิ่นเทศบาลตำบลนาคู,Na Khu Sub-district Municipality,0
+4677,ท้องถิ่นเทศบาลตำบลห้วยผึ้ง,Huai Phueng Sub-district Municipality,0
+4678,ท้องถิ่นเทศบาลตำบลสมเด็จ,Somdet Sub-district Municipality,0
+4679,ท้องถิ่นเทศบาลตำบลหนองหิน,Nong Hin Sub-district Municipality,0
+4680,ท้องถิ่นเทศบาลตำบลหนองกุงศรี,Nong Kung Si Sub-district Municipality,0
+4681,ท้องถิ่นเทศบาลตำบลท่าคันโท,Tha Khantho Sub-district Municipality,0
+4682,ท้องถิ่นเทศบาลตำบลโพน,Phon Sub-district Municipality,0
+4683,ท้องถิ่นเทศบาลตำบลคำม่วง,Kham Muang Sub-district Municipality,0
+4684,ท้องถิ่นเทศบาลตำบลโนนบุรี,Non Buri Sub-district Municipality,0
+4685,ท้องถิ่นเทศบาลตำบลห้วยเม็ก,Huai Mek Sub-district Municipality,0
+4686,ท้องถิ่นเทศบาลตำบลคำใหญ่,Kham Yai Sub-district Municipality,0
+4687,ท้องถิ่นเทศบาลตำบลยางตลาด,Yang Talat Sub-district Municipality,0
+4688,ท้องถิ่นเทศบาลตำบลโคกศรี,Khok Si Sub-district Municipality,0
+4689,ท้องถิ่นเทศบาลตำบลกุดสิม,Kut Sim Sub-district Municipality,0
+4690,ท้องถิ่นเทศบาลเมืองกุฉินารายณ์,Kuchinarai Town Municipality,0
+4691,ท้องถิ่นเทศบาลตำบลกุดหว้า,Kud Wa Sub-district Municipality,0
+4692,ท้องถิ่นเทศบาลตำบลร่องคำ,Rong Kham Sub-district Municipality,0
+4693,ท้องถิ่นเทศบาลตำบลหนองแปน,Nong Paen Sub-district Municipality,0
+4694,ท้องถิ่นเทศบาลตำบลธัญญา,Than Ya Sub-district Municipality,0
+4695,ท้องถิ่นเทศบาลตำบลกมลาไสย,Kamalasai Sub-district Municipality,0
+4696,ท้องถิ่นเทศบาลตำบลนามน,Na Mon Sub-district Municipality,0
+4697,ท้องถิ่นเทศบาลตำบลหนองสอ,Nong So Sub-district Municipality,0
+4698,ท้องถิ่นเทศบาลตำบลนาจารย์,Na Chan Sub-district Municipality,0
+4699,ท้องถิ่นเทศบาลเมืองกาฬสินธุ์,Kalasin Town Municipality,0
+4700,จังหวัดสกลนคร,Sakon Nakhon Province,0
+4701,อำเภอเมืองสกลนคร,Mueang Sakon Nakhon District,0
+4702,อำเภอกุสุมาลย์,Kusuman District,0
+4703,อำเภอกุดบาก,Kut Bak District,0
+4704,อำเภอพรรณานิคม,Phanna Nikhom District,0
+4705,อำเภอพังโคน,Phang Khon District,0
+4706,อำเภอวาริชภูมิ,Waritchaphum District,0
+4707,อำเภอนิคมน้ำอูน,Nikhom Nam Un District,0
+4708,อำเภอวานรนิวาส,Wanon Niwat District,0
+4709,อำเภอคำตากล้า,Kham Ta Kla District,0
+4710,อำเภอบ้านม่วง,Ban Muang District,0
+4711,อำเภออากาศอำนวย,Akat Amnuai District,0
+4712,อำเภอสว่างแดนดิน,Sawang Daen Din District ,0
+4713,อำเภอส่องดาว,Song Dao District,0
+4714,อำเภอเต่างอย,Tao Ngoi District,0
+4715,อำเภอโคกศรีสุพรรณ,Khok Si Suphan District,0
+4716,อำเภอเจริญศิลป์,Charoen Sin District,0
+4717,อำเภอโพนนาแก้ว,Phon Na Kaeo District,0
+4718,อำเภอภูพาน,Phu Phan District,0
+4719,กิ่งอำเภอห้วยไร่,Huai Rai Minor District,25550101
+4751,สาขาตำบลกุดเรือคำ อำเภอวานรนิวาส,Kut Ruea Kham Branch Wanon Niwat District,25550101
+4779,ท้องถิ่นเทศบาลตำบลคำบ่อ,Kham Bo Sub-district Municipality,0
+4780,ท้องถิ่นเทศบาลตำบลตองโขบ,Tong Khop Sub-district Municipality,0
+4781,ท้องถิ่นเทศบาลตำบลบงใต้,Bong Tai Sub-district Municipality,0
+4782,ท้องถิ่นเทศบาลตำบลสามัคคีพัฒนา,Samakkhi Phatthana Sub-district Municipality,0
+4783,ท้องถิ่นเทศบาลตำบลเชียงเครือ,Chiang Khruea Sub-district Municipality,0
+4784,ท้องถิ่นเทศบาลตำบลเจริญศิลป์,Charoen Sin Sub-district Municipality,0
+4785,ท้องถิ่นเทศบาลตำบลส่องดาว,Song Dao Sub-district Municipality,0
+4786,ท้องถิ่นเทศบาลตำบลสว่างแดนดิน,Sawang Daen Din Sub-district Municipality,0
+4787,ท้องถิ่นเทศบาลตำบลดอนเขือง,Don Khueang Sub-district Municipality,0
+4788,ท้องถิ่นเทศบาลตำบลอากาศอำนวย,Akat Amnuai Sub-district Municipality,0
+4789,ท้องถิ่นเทศบาลตำบลบ้านม่วง,Ban Muang Sub-district Municipality,0
+4790,ท้องถิ่นเทศบาลตำบลคำตากล้า,Kham Ta Kla Sub-district Municipality,0
+4791,ท้องถิ่นเทศบาลตำบลวานรนิวาส,Wanon Niwat Sub-district Municipality,0
+4792,ท้องถิ่นเทศบาลตำบลวาริชภูมิ,Waritchaphum Sub-district Municipality,0
+4793,ท้องถิ่นเทศบาลตำบลพังโคน,Phang Khon Sub-district Municipality,0
+4794,ท้องถิ่นเทศบาลตำบลพรรณานิคม,Phanna Nikhom Sub-district Municipality,0
+4795,ท้องถิ่นเทศบาลตำบลกุดบาก,Kut Bak Sub-district Municipality,0
+4796,ท้องถิ่นเทศบาลตำบลกุสุมาลย์,Kusuman Sub-district Municipality,0
+4797,ท้องถิ่นเทศบาลตำบลท่าแร่,Tha Rae Sub-district Municipality,0
+4798,ท้องถิ่นเทศบาลตำบลดงมะไฟ,Dong Mafai Sub-district Municipality,0
+4799,ท้องถิ่นเทศบาลนครสกลนคร,Sakon Nakhon City Municipality,0
+4800,จังหวัดนครพนม,Nakhon Phanom Province,0
+4801,อำเภอเมืองนครพนม,Mueang Nakhon Phanom District,0
+4802,อำเภอปลาปาก,Pla Pak District,0
+4803,อำเภอท่าอุเทน,Tha Uthen District,0
+4804,อำเภอบ้านแพง,Ban Phaeng District,0
+4805,อำเภอธาตุพนม,That Phanom District,0
+4806,อำเภอเรณูนคร,Renu Nakhon District,0
+4807,อำเภอนาแก,Na Kae District,0
+4808,อำเภอศรีสงคราม,Si Songkhram District,0
+4809,อำเภอนาหว้า,Na Wa District,0
+4810,อำเภอโพนสวรรค์,Phon Sawan District,0
+4811,อำเภอนาทม,Na Thom District,0
+4812,อำเภอวังยาง,Wang Yang District,0
+4890,ท้องถิ่นเทศบาลตำบลปลาปาก,Pla Pak Sub-district Municipality,0
+4891,ท้องถิ่นเทศบาลตำบลโพนสวรรค์,Phon Sawan Sub-district Municipality,0
+4892,ท้องถิ่นเทศบาลตำบลนาหว้า,Na Wa Sub-district Municipality,0
+4893,ท้องถิ่นเทศบาลตำบลศรีสงคราม,Si Songkhram Sub-district Municipality,0
+4894,ท้องถิ่นเทศบาลตำบลนาแก,Na Kae Sub-district Municipality,0
+4895,ท้องถิ่นเทศบาลตำบลเรณูนคร,Renu Nakhon Sub-district Municipality,0
+4896,ท้องถิ่นเทศบาลตำบลธาตุพนม,That Phanom Sub-district Municipality,0
+4897,ท้องถิ่นเทศบาลตำบลบ้านแพง,Ban Phaeng Sub-district Municipality,0
+4898,ท้องถิ่นเทศบาลตำบลท่าอุเทน,Tha Uthen Sub-district Municipality,0
+4899,ท้องถิ่นเทศบาลเมืองนครพนม,Nakhon Phanom Town Municipality,0
+4900,จังหวัดมุกดาหาร,Mukdahan Province,0
+4901,อำเภอเมืองมุกดาหาร,Mueang Mukdahan District,0
+4902,อำเภอนิคมคำสร้อย,Nikhom Kham Soi District,0
+4903,อำเภอดอนตาล,Don Tan District,0
+4904,อำเภอดงหลวง,Dong Luang District,0
+4905,อำเภอคำชะอี,Khamcha-I District,0
+4906,อำเภอหว้านใหญ่,Wan Yai District,0
+4907,อำเภอหนองสูง,Nong Sung District,0
+4989,ท้องถิ่นเทศบาลตำบลร่มเกล้า,Romklao Sub-district Municipality,0
+4990,ท้องถิ่นเทศบาลตำบลภูวง,Phu Wong Sub-district Municipality,25550101
+4991,ท้องถิ่นเทศบาลตำบลบ้านเป้า,Ban Pao Sub-district Municipality,25550101
+4992,ท้องถิ่นเทศบาลตำบลหนองสูงเหนือ,Nong Sung Nuea Sub-district Municipality,25550101
+4993,ท้องถิ่นเทศบาลตำบลบ้านแก้ง,Ban Kaeng Sub-district Municipality,0
+4994,ท้องถิ่นเทศบาลตำบลคำอาฮวน,Kham A Huan Sub-district Municipality,0
+4995,ท้องถิ่นเทศบาลตำบลดงเย็น,Dong Yen Sub-district Municipality,0
+4996,ท้องถิ่นเทศบาลตำบลคำชะอี,Khamcha-I Sub-district Municipality,0
+4997,ท้องถิ่นเทศบาลตำบลดอนตาล,Don Tan Sub-district Municipality,0
+4998,ท้องถิ่นเทศบาลตำบลนิคมคำสร้อย,Nikhom Kham Soi Sub-district Municipality,0
+4999,ท้องถิ่นเทศบาลเมืองมุกดาหาร,Mukdahan Town Municipality,0
+5000,จังหวัดเชียงใหม่,Chiang Mai Province,0
+5001,อำเภอเมืองเชียงใหม่,Mueang Chiang Mai District,0
+5002,อำเภอจอมทอง,Chom Thong District,0
+5003,อำเภอแม่แจ่ม,Mae Chaem District,0
+5004,อำเภอเชียงดาว,Chiang Dao District,0
+5005,อำเภอดอยสะเก็ด,Doi Saket District,0
+5006,อำเภอแม่แตง,Mae Taeng District,0
+5007,อำเภอแม่ริม,Mae Rim District,0
+5008,อำเภอสะเมิง,Samoeng District,0
+5009,อำเภอฝาง,Fang District,0
+5010,อำเภอแม่อาย,Mae Ai District,0
+5011,อำเภอพร้าว,Phrao District,0
+5012,อำเภอสันป่าตอง,San Pa Tong District,0
+5013,อำเภอสันกำแพง,San Kamphaeng District,0
+5014,อำเภอสันทราย,San Sai District,0
+5015,อำเภอหางดง,Hang Dong District,0
+5016,อำเภอฮอด,Hot District,0
+5017,อำเภอดอยเต่า,Doi Tao District,0
+5018,อำเภออมก๋อย,Omkoi District,0
+5019,อำเภอสารภี,Saraphi District,0
+5020,อำเภอเวียงแหง,Wiang Haeng District,0
+5021,อำเภอไชยปราการ,Chai Prakan District,0
+5022,อำเภอแม่วาง,Mae Wang District,0
+5023,อำเภอแม่ออน,Mae On District,0
+5024,อำเภอดอยหล่อ,Doi Lo District,0
+5025,อำเภอกัลยาณิวัฒนา,Galyani Vadhana District,0
+5026,กิ่งอำเภอวัดจันทร์,Wat Chan Minor District,25550101
+5027,กิ่งอำเภอหมอกฟ้า,Mok Fa Minor District,25550101
+5028,กิ่งอำเภอบ่อหลวง,Bo Luang Minor District,25550101
+5040,ท้องถิ่นเทศบาลตำบลบวกค้าง,Buak Khang Sub-Distric6 Municipality,0
+5041,ท้องถิ่นเทศบาลตำบลบ่อหลวง,Bo Luang Sub-district Municipality,0
+5042,ท้องถิ่นเทศบาลตำบลป่าไผ่,Pa Phai Sub-district Municipality,0
+5043,ท้องถิ่นเทศบาลตำบลสันนาเม็ง,San Na Meng Sub-district Municipality,0
+5044,ท้องถิ่นเทศบาลตำบลสันพระเนตร,San Phranet Sub-district Municipality,0
+5045,ท้องถิ่นเทศบาลตำบลแม่ปูคา,Mae Pu Kha Sub-district Municipality,25550101
+5046,ท้องถิ่นเทศบาลตำบลสันปูเลย,San Pu Loei Sub-district Municipality,0
+5047,ท้องถิ่นเทศบาลตำบลลวงเหนือ,Luang Nuea Sub-district Municipality,25550101
+5048,ท้องถิ่นเทศบาลตำบลแม่โป่ง,Mae Pong Sub-district Municipality,25550101
+5049,ท้องถิ่นเทศบาลตำบลเชิงดอย,Choeng Doi Sub-district Municipality,0
+5050,ท้องถิ่นเทศบาลตำบลเมืองนะ,Mueang Na Sub-district Municipality,0
+5051,สาขาแขวงกาลวิละ,Kan Wi La Branch,25480520
+5052,สาขาแขวงศรีวิชัย,Si Wichi Branch,25550101
+5053,สาขาแขวงเม็งราย,Mengrai Branch,25480520
+5054,ท้องถิ่นเทศบาลตำบลทุ่งข้าวพวง,Thung Khao Phuang Sub-district Municipality,0
+5055,ท้องถิ่นเทศบาลตำบลปิงโค้ง,Ping Khong Sub-district Municipality,0
+5056,ท้องถิ่นเทศบาลตำบลพระธาตุปู่ก่ำ,Phra That Pu Kam Sub-district Municipality,0
+5057,ท้องถิ่นเทศบาลเมืองแม่เหียะ,Mae Hia Town Municipality,0
+5058,ท้องถิ่นเทศบาลตำบลสารภี,Saraphi Sub-district Municipality,0
+5059,ท้องถิ่นเทศบาลตำบลฟ้าฮ่าม,Fa Ham Sub-district Municipality,0
+5060,ท้องถิ่นเทศบาลตำบลหนองจ๊อม,Nong Chom Sub-district Municipality,0
+5061,ท้องถิ่นเทศบาลตำบลหนองหอย,Nong Hoi Sub-district Municipality,0
+5062,ท้องถิ่นเทศบาลตำบลแม่แฝก,Mae Faek Sub-district Municipality,0
+5063,ท้องถิ่นเทศบาลตำบลท่าศาลา,Tha Sala Sub-district Municipality,0
+5064,ท้องถิ่นเทศบาลตำบลหนองผึ้ง,Nong Phueng Sub-district Municipality,0
+5065,ท้องถิ่นเทศบาลตำบลเจดีย์แม่ครัว,Chedi Mae Khrua Sub-district Municipality,0
+5066,ท้องถิ่นเทศบาลตำบลแม่ปั๋ง,Mae Pang Sub-district Municipality,0
+5067,ท้องถิ่นเทศบาลตำบลชมภู,Chomphu Sub-district Municipality,0
+5068,ท้องถิ่นเทศบาลตำบลป่าแดด,Pa Daet Sub-district Municipality,0
+5069,ท้องถิ่นเทศบาลตำบลสุเทพ,Su Thep Sub-district Municipality,0
+5070,ท้องถิ่นเทศบาลตำบลหนองป่าครั่ง,Nong Pa Khrang Sub-district Municipality,0
+5071,ท้องถิ่นเทศบาลตำบลแม่วาง,Mae Wang Sub-district Municipality,0
+5072,ท้องถิ่นเทศบาลตำบลไชยปราการ,Chai Prakan Sub-district Municipality,0
+5073,ท้องถิ่นเทศบาลตำบลยางเนิ้ง,Yang Noeng Sub-district Municipality,0
+5074,ท้องถิ่นเทศบาลตำบลอมก๋อย,Omkoi Sub-district Municipality,0
+5075,ท้องถิ่นเทศบาลตำบลท่าเดื่อ-มืดกา,Tha Duea - Muet Ka Sub-district Municipality,0
+5076,ท้องถิ่นเทศบาลตำบลท่าข้าม,Tha Kham Sub-district Municipality,0
+5077,ท้องถิ่นเทศบาลตำบลหางดง,Hang Dong Sub-district Municipality,0
+5078,ท้องถิ่นเทศบาลตำบลหนองตองพัฒนา,Nong Tong Phatthana Sub-district Municipality,0
+5079,ท้องถิ่นเทศบาลตำบลสันทรายหลวง,San Sai Luang Sub-district Municipality,0
+5080,ท้องถิ่นเทศบาลเมืองแม่โจ้,Mae Cho Town Municipality,0
+5081,ท้องถิ่นเทศบาลตำบลสันกำแพง,San Kamphaeng Sub-district Municipality,0
+5082,ท้องถิ่นเทศบาลเมืองต้นเปา,Ton Pao Town Municipality,0
+5083,ท้องถิ่นเทศบาลตำบลสันป่าตอง,San Pa Tong Sub-district Municipality,0
+5084,ท้องถิ่นเทศบาลตำบลบ้านกลาง,Banklang Sub-district Municipality,0
+5085,ท้องถิ่นเทศบาลตำบลเวียงพร้าว,Wiang Phrao Sub-district Municipality,0
+5086,ท้องถิ่นเทศบาลตำบลแม่อาย,Mae Ai Sub-district Municipality,0
+5087,ท้องถิ่นเทศบาลตำบลเวียงฝาง,Wiang Fang Sub-district Municipality,0
+5088,ท้องถิ่นเทศบาลตำบลบ้านแม่ข่า,Ban Mae Kha Sub-district Municipality,0
+5089,ท้องถิ่นเทศบาลตำบลสะเมิงใต้,Samoeng Tai Sub-district Municipality,0
+5090,ท้องถิ่นเทศบาลตำบลแม่ริม,Mae Rim Sub-district Municipality,0
+5091,ท้องถิ่นเทศบาลตำบลสันมหาพน,San Mahaphon Sub-district Municipality,0
+5092,ท้องถิ่นเทศบาลเมืองเมืองแกนพัฒนา,Mueang Kaen Phatthana Town Municipality,0
+5093,ท้องถิ่นเทศบาลตำบลดอยสะเก็ด,Doi Saket Sub-district Municipality,0
+5094,ท้องถิ่นเทศบาลตำบลเมืองงาย,Mueang Ngai Sub-district Municipality,0
+5095,ท้องถิ่นเทศบาลตำบลเชียงดาว,Chiang Dao Sub-district Municipality,0
+5096,ท้องถิ่นเทศบาลตำบลแม่แจ่ม,Mae Chaem Sub-district Municipality,0
+5097,ท้องถิ่นเทศบาลตำบลจอมทอง,Chom Thong Sub-district Municipality,0
+5098,ท้องถิ่นเทศบาลตำบลช้างเผือก,Changphueak Sub-district Municipality,0
+5099,ท้องถิ่นเทศบาลนครเชียงใหม่,Chiang Mai City Municipality,0
+5100,จังหวัดลำพูน,Lamphun Province,0
+5101,อำเภอเมืองลำพูน,Mueang Lamphun District,0
+5102,อำเภอแม่ทา,Mae Tha District,0
+5103,อำเภอบ้านโฮ่ง,Ban Hong District,0
+5104,อำเภอลี้,Li District,0
+5105,อำเภอทุ่งหัวช้าง,Thung Hua Chang District,0
+5106,อำเภอป่าซาง,Pa Sang District,0
+5107,อำเภอบ้านธิ,Ban Thi District,0
+5108,อำเภอเวียงหนองล่อง,Wiang Nong Long District,0
+5109,กิ่งอำเภอทาขุมเงิน,Tha Khum Ngoen Minor District,25550101
+5176,ท้องถิ่นเทศบาลตำบลศรีเตี้ย,Si Tia Sub-district Municipality,0
+5177,ท้องถิ่นเทศบาลตำบลทาสบชัย,Tha Sop Chai Sub-district Municipality,0
+5178,ท้องถิ่นเทศบาลตำบลหนองล่อง,Nong Long Sub-district Municipality,0
+5179,ท้องถิ่นเทศบาลตำบลหนองยวง,Nong Yuang Sub-district Municipality,0
+5180,ท้องถิ่นเทศบาลตำบลมะกอก,Makok Sub-district Municipality,0
+5181,ท้องถิ่นเทศบาลตำบลมะเขือแจ้,Makhuea Chae Sub-district Municipality,0
+5182,ท้องถิ่นเทศบาลตำบลเวียงยอง,Wiang Yong Sub-district Municipality,0
+5183,ท้องถิ่นเทศบาลตำบลบ้านกลาง,Banklang Sub-district Municipality,0
+5184,ท้องถิ่นเทศบาลตำบลเหมืองง่า,Mueang Nga Sub-district Municipality,0
+5185,ท้องถิ่นเทศบาลตำบลแม่แรง,Maeraeng Sub-district Municipality,0
+5186,ท้องถิ่นเทศบาลตำบลบ้านธิ,Ban Thi Sub-district Municipality,0
+5187,ท้องถิ่นเทศบาลตำบลวังผาง,Wang Phang Sub-district Municipality,0
+5188,ท้องถิ่นเทศบาลตำบลม่วงน้อย,Muang Noi Sub-district Municipality,0
+5189,ท้องถิ่นเทศบาลตำบลป่าซาง,Pa Sang Sub-district Municipality,0
+5190,ท้องถิ่นเทศบาลตำบลทุ่งหัวช้าง,Thung Hua Chang Sub-district Municipality,0
+5191,ท้องถิ่นเทศบาลตำบลวังดิน,Wang Din Sub-district Municipality,0
+5192,ท้องถิ่นเทศบาลตำบลแม่ตืน,Mae Tuen Sub-district Municipality,0
+5193,ท้องถิ่นเทศบาลตำบลบ้านโฮ่ง,Ban Hong Sub-district Municipality,0
+5194,ท้องถิ่นเทศบาลตำบลทาสบเส้า,Tha Sop Sao Sub-district Municipality,0
+5195,ท้องถิ่นเทศบาลตำบลทากาศ,Tha Kat Sub-district Municipality,0
+5196,ท้องถิ่นเทศบาลตำบลอุโมงค์,Umong Sub-district Municipality,0
+5197,ท้องถิ่นเทศบาลตำบลริมปิง,Rim Ping Sub-district Municipality,0
+5198,ท้องถิ่นเทศบาลตำบลบ้านแป้น,Ban Paen Sub-district Municipality,0
+5199,ท้องถิ่นเทศบาลเมืองลำพูน,Lamphun Town Municipality,0
+5200,จังหวัดลำปาง,Lampang Province,0
+5201,อำเภอเมืองลำปาง,Mueang Lampang District,0
+5202,อำเภอแม่เมาะ,Mae Mo District,0
+5203,อำเภอเกาะคา,Ko Kha District,0
+5204,อำเภอเสริมงาม,Soem Ngam District,0
+5205,อำเภองาว,Ngao District,0
+5206,อำเภอแจ้ห่ม,Chae Hom District,0
+5207,อำเภอวังเหนือ,Wang Nuea District,0
+5208,อำเภอเถิน,Thoen District,0
+5209,อำเภอแม่พริก,Mae Phrik District,0
+5210,อำเภอแม่ทะ,Mae Tha District,0
+5211,อำเภอสบปราบ,Sop Prap District,0
+5212,อำเภอห้างฉัตร,Hang Chat District,0
+5213,อำเภอเมืองปาน,Mueang Pan District,0
+5214,กิ่งอำเภอพระธาตุเสด็จ,Phra That Sadet Minor District,25550101
+5215,กิ่งอำเภอวังเงิน,Wang Ngoen Minor District,25550101
+5275,ท้องถิ่นเทศบาลตำบลน้ำโจ้,Nam Cho Sub-district Municipality,0
+5276,ท้องถิ่นเทศบาลตำบลแม่ทะ,Mae Tha Sub-district Municipality,0
+5277,ท้องถิ่นเทศบาลตำบลบ้านสา,Ban Sa Sub-district Municipality,25550101
+5278,ท้องถิ่นเทศบาลตำบลศาลา,Sala Sub-district Municipality,25550101
+5279,ท้องถิ่นเทศบาลตำบลนาแก้ว,Na Kaeo Sub-district Municipality,0
+5280,ท้องถิ่นเทศบาลตำบลลำปางหลวง,Lampang Luang Sub-district Municipality,0
+5281,ท้องถิ่นเทศบาลตำบลสิริราช,Siri Rat Sub-district Municipality,0
+5282,ท้องถิ่นเทศบาลตำบลแม่เมาะ,Mae Mo Sub-district Municipality,0
+5283,ท้องถิ่นเทศบาลตำบลเวียงมอก,Wiang Mok Sub-district Municipality,0
+5284,ท้องถิ่นเทศบาลตำบลห้างฉัตร,Hang Chat Sub-district Municipality,0
+5285,ท้องถิ่นเทศบาลตำบลสบปราบ,Sop Prap Sub-district Municipality,0
+5286,ท้องถิ่นเทศบาลตำบลป่าตันนาครัว,Pa Tan Na Khrua Sub-district Municipality,0
+5287,ท้องถิ่นเทศบาลตำบลแม่พริก,Mae Phrik Sub-district Municipality,0
+5288,ท้องถิ่นเทศบาลตำบลแม่ปุ,Mae Pu Sub-district Municipality,0
+5289,ท้องถิ่นเทศบาลเมืองล้อมแรด,Lom Raet Town Municipality,0
+5290,ท้องถิ่นเทศบาลตำบลวังเหนือ,Wang Nuea Sub-district Municipality,0
+5291,ท้องถิ่นเทศบาลตำบลบ้านใหม่,Ban Mai Sub-district Municipality,0
+5292,ท้องถิ่นเทศบาลตำบลแจ้ห่ม,Chae Hom Sub-district Municipality,0
+5293,ท้องถิ่นเทศบาลตำบลเสริมงาม,Soem Ngam Sub-district Municipality,0
+5294,ท้องถิ่นเทศบาลตำบลหลวงเหนือ,Luang Nuea Sub-district Municipality,0
+5295,ท้องถิ่นเทศบาลตำบลเกาะคา,Ko Kha Sub-district Municipality,0
+5296,ท้องถิ่นเทศบาลเมืองพิชัย,Phichai Town Municipality,0
+5297,ท้องถิ่นเทศบาลตำบลบ่อแฮ้ว,Bo Haeo Sub-district Municipality,0
+5298,ท้องถิ่นเทศบาลเมืองเขลางค์นคร,Khe Lang Nakhon Town Municipality,0
+5299,ท้องถิ่นเทศบาลนครลำปาง,Lampang City Municipality,0
+5300,จังหวัดอุตรดิตถ์,Uttaradit Province,0
+5301,อำเภอเมืองอุตรดิตถ์,Mueang Uttaradit District,0
+5302,อำเภอตรอน,Tron District,0
+5303,อำเภอท่าปลา,Tha Pla District,0
+5304,อำเภอน้ำปาด,Nam Pat District,0
+5305,อำเภอฟากท่า,Fak Tha District,0
+5306,อำเภอบ้านโคก,Ban Khok District,0
+5307,อำเภอพิชัย,Phichai District,0
+5308,อำเภอลับแล,Laplae District,0
+5309,อำเภอทองแสนขัน,Thong Saen Khan District,0
+5377,ท้องถิ่นเทศบาลตำบลท่าเสา,Tha Sao Sub-district Municipality,0
+5378,ท้องถิ่นเทศบาลตำบลน้ำริด,Nam Rit Sub-district Municipality,0
+5379,ท้องถิ่นเทศบาลตำบลหาดกรวด,Hat Kruat Sub-district Municipality,0
+5380,ท้องถิ่นเทศบาลตำบลจริม,Charim Sub-district Municipality,0
+5381,ท้องถิ่นเทศบาลตำบลคุ้งตะเภา,Khung Taphao Sub-district Municipality,0
+5382,ท้องถิ่นเทศบาลตำบลผาจุก,Pha Chuk Sub-district Municipality,0
+5383,ท้องถิ่นเทศบาลตำบลบ้านเกาะ,Ban Ko Sub-district Municipality,0
+5384,ท้องถิ่นเทศบาลตำบลทองแสนขัน,Thong Saen Khan Sub-district Municipality,0
+5385,ท้องถิ่นเทศบาลตำบลหัวดง,Hua Dong Sub-district Municipality,0
+5386,ท้องถิ่นเทศบาลตำบลทุ่งยั้ง,Thung Yang Sub-district Municipality,0
+5387,ท้องถิ่นเทศบาลตำบลในเมือง,Nai Mueang Sub-district Municipality,0
+5388,ท้องถิ่นเทศบาลตำบลท่าสัก,Tha Sak Sub-district Municipality,0
+5389,ท้องถิ่นเทศบาลตำบลบ้านโคก,Ban Khok Sub-district Municipality,0
+5390,ท้องถิ่นเทศบาลตำบลฟากท่า,Fak Tha Sub-district Municipality,0
+5391,ท้องถิ่นเทศบาลตำบลน้ำปาด,Nam Pat Sub-district Municipality,0
+5392,ท้องถิ่นเทศบาลตำบลร่วมจิต,Ruam Chit Sub-district Municipality,0
+5393,ท้องถิ่นเทศบาลตำบลท่าปลา,Tha Pla Sub-district Municipality,0
+5394,ท้องถิ่นเทศบาลตำบลบ้านแก่ง,Ban Kaeng Sub-district Municipality,0
+5395,ท้องถิ่นเทศบาลตำบลตรอน,Tron Sub-district Municipality,0
+5396,ท้องถิ่นเทศบาลตำบลวังกะพี้,Wang Ka Phi Sub-district Municipality,0
+5397,ท้องถิ่นเทศบาลตำบลบ้านด่านนาขาม,Ban Dan Na Kham Sub-district Municipality,0
+5398,ท้องถิ่นเทศบาลตำบลศรีพนมมาศ,Si Phanom Mat Sub-district Municipality,0
+5399,ท้องถิ่นเทศบาลเมืองอุตรดิตถ์,Uttaradit Town Municipality,0
+5400,จังหวัดแพร่,Phrae Province,0
+5401,อำเภอเมืองแพร่,Mueang Phrae District,0
+5402,อำเภอร้องกวาง,Rong Kwang District,0
+5403,อำเภอลอง,Long District,0
+5404,อำเภอสูงเม่น,Sung Men District,0
+5405,อำเภอเด่นชัย,Den Chai District,0
+5406,อำเภอสอง,Song District,0
+5407,อำเภอวังชิ้น,Wang Chin District,0
+5408,อำเภอหนองม่วงไข่,Nong Muang Khai District,0
+5409,กิ่งอำเภอแดนชุมพล,Chumphon Minor District,25550101
+5482,ท้องถิ่นเทศบาลตำบลแม่ลานนา,Mae Lanna Sub-district Municipality,0
+5483,ท้องถิ่นเทศบาลตำบลแม่ปาน,Mae Pan Sub-district Municipality,0
+5484,ท้องถิ่นเทศบาลตำบลเวียงต้า,Wiang Ta Sub-district Municipality,0
+5485,ท้องถิ่นเทศบาลตำบลป่าแมต,Pa Maet Sub-district Municipality,0
+5486,ท้องถิ่นเทศบาลตำบลแม่คำมี,Mae Khammi Sub-district Municipality,0
+5487,ท้องถิ่นเทศบาลตำบลหนองม่วงไข่,Nong Muang Khai Sub-district Municipality,0
+5488,ท้องถิ่นเทศบาลตำบลวังชิ้น,Wang Chin Sub-district Municipality,0
+5489,ท้องถิ่นเทศบาลตำบลสอง,Song Sub-district Municipality,0
+5490,ท้องถิ่นเทศบาลตำบลแม่จั๊วะ,Mae Chua Sub-district Municipality,0
+5491,ท้องถิ่นเทศบาลตำบลเด่นชัย,Den Chai Sub-district Municipality,0
+5492,ท้องถิ่นเทศบาลตำบลสูงเม่น,Sung Men Sub-district Municipality,0
+5493,ท้องถิ่นเทศบาลตำบลห้วยอ้อ,Huai O Sub-district Municipality,0
+5494,ท้องถิ่นเทศบาลตำบลบ้านปิน,Ban Pin Sub-district Municipality,0
+5495,ท้องถิ่นเทศบาลตำบลร้องกวาง,Rong Kwang Sub-district Municipality,0
+5496,ท้องถิ่นเทศบาลตำบลแม่หล่าย,Mae Lai Sub-district Municipality,0
+5497,ท้องถิ่นเทศบาลตำบลทุ่งโฮ้ง,Thung Hong Sub-district Municipality,0
+5498,ท้องถิ่นเทศบาลตำบลช่อแฮ,Cho Hae Sub-district Municipality,0
+5499,ท้องถิ่นเทศบาลเมืองแพร่,Phrae Town Municipality,0
+5500,จังหวัดน่าน,Nan Province,0
+5501,อำเภอเมืองน่าน,Mueang Nan District,0
+5502,อำเภอแม่จริม,Mae Charim District,0
+5503,อำเภอบ้านหลวง,Ban Luang District,0
+5504,อำเภอนาน้อย,Na Noi District,0
+5505,อำเภอปัว,Pua District,0
+5506,อำเภอท่าวังผา,Tha Wang Pha District,0
+5507,อำเภอเวียงสา,Wiang Sa District,0
+5508,อำเภอทุ่งช้าง,Thung Chang District,0
+5509,อำเภอเชียงกลาง,Chiang Klang District,0
+5510,อำเภอนาหมื่น,Na Muen District,0
+5511,อำเภอสันติสุข,Santi Suk District,0
+5512,อำเภอบ่อเกลือ,Bo Kluea District,0
+5513,อำเภอสองแคว,Song Khwae District,0
+5514,อำเภอภูเพียง,Phu Phiang District,0
+5515,อำเภอเฉลิมพระเกียรติ,Chaloem Phra Kiat District,0
+5591,ท้องถิ่นเทศบาลตำบลยอด,Yot Sub-district Municipality,25550101
+5592,ท้องถิ่นเทศบาลตำบลเชียงกลาง,Chiang Klang Sub-district Municipality,0
+5593,ท้องถิ่นเทศบาลตำบลทุ่งช้าง,Thung Chang Sub-district Municipality,0
+5594,ท้องถิ่นเทศบาลตำบลเวียงสา,Wiang Sa Sub-district Municipality,0
+5595,ท้องถิ่นเทศบาลตำบลท่าวังผา,Tha Wang Pha Sub-district Municipality,0
+5596,ท้องถิ่นเทศบาลตำบลปัว,Pua Sub-district Municipality,0
+5597,ท้องถิ่นเทศบาลตำบลนาน้อย,Na Noi Sub-district Municipality,0
+5598,ท้องถิ่นเทศบาลตำบลหนองแดง,Nong Daeng Sub-district Municipality,25620130
+5599,ท้องถิ่นเทศบาลเมืองน่าน,Nan Town Municipality,0
+5600,จังหวัดพะเยา,Phayao Province,0
+5601,อำเภอเมืองพะเยา,Mueang Phayao District,0
+5602,อำเภอจุน,Chun District,0
+5603,อำเภอเชียงคำ,Chiang Kham District,0
+5604,อำเภอเชียงม่วน,Chiang Muan District,0
+5605,อำเภอดอกคำใต้,Dok Khamtai District,0
+5606,อำเภอปง,Pong District,0
+5607,อำเภอแม่ใจ,Mae Chai District,0
+5608,อำเภอภูซาง,Phu Sang District,0
+5609,อำเภอภูกามยาว,Phu Kamyao District,0
+5610,กิ่งอำเภอฟากกว๊าน,Fak Kwan Minor District,25550101
+5677,ท้องถิ่นเทศบาลตำบลบ้านต๋อม,Ban Tom Sub-district Municipality,0
+5678,ท้องถิ่นเทศบาลตำบลห้วยลาน,Huai Lan Sub-district Municipality,0
+5679,ท้องถิ่นเทศบาลตำบลฝายกวาง,Fai Kwang Sub-district Municipality,0
+5680,ท้องถิ่นเทศบาลตำบลเวียงลอ,Wiang Lo Sub-district Municipality,0
+5681,ท้องถิ่นเทศบาลตำบลหงส์หิน,Hong Hin Sub-district Municipality,0
+5682,ท้องถิ่นเทศบาลตำบลจุน,Chun Sub-district Municipality,0
+5683,ท้องถิ่นเทศบาลตำบลบ้านเหล่า,Ban Lao Sub-district Municipality,0
+5684,ท้องถิ่นเทศบาลตำบลแม่กา,Mae Ka Sub-district Municipality,0
+5685,ท้องถิ่นเทศบาลตำบลแม่ปืม,Mae Puem Sub-district Municipality,0
+5686,ท้องถิ่นเทศบาลตำบลบ้านต๊ำ,Ban Tam Sub-district Municipality,0
+5687,ท้องถิ่นเทศบาลตำบลท่าวังทอง,Tha Wang Thong Sub-district Municipality,0
+5688,ท้องถิ่นเทศบาลตำบลดงเจน,Dong ChenSub-district Municipality,0
+5689,ท้องถิ่นเทศบาลตำบลสบบง,Sop Bong Sub-district Municipality,0
+5690,ท้องถิ่นเทศบาลตำบลแม่ใจ,Mae Chai Sub-district Municipality,0
+5691,ท้องถิ่นเทศบาลตำบลปง,Pong Sub-district Municipality,0
+5692,ท้องถิ่นเทศบาลตำบลงิม,Ngim Sub-district Municipality,0
+5693,ท้องถิ่นเทศบาลเมืองดอกคำใต้,Dok Khamtai Town Municipality,0
+5694,ท้องถิ่นเทศบาลตำบลบ้านถ้ำ,Ban Tham Sub-district Municipality,0
+5695,ท้องถิ่นเทศบาลตำบลเชียงม่วน,Chiang Muan Sub-district Municipality,0
+5696,ท้องถิ่นเทศบาลตำบลเวียง,Wiang Sub-district Municipality,0
+5697,ท้องถิ่นเทศบาลตำบลเชียงคำ,Chiang Kham Sub-district Municipality,0
+5698,ท้องถิ่นเทศบาลตำบลห้วยข้าวก่ำ,Huai Khao Kam Sub-district Municipality,0
+5699,ท้องถิ่นเทศบาลเมืองพะเยา,Phayao Town Municipality,0
+5700,จังหวัดเชียงราย,Chiang Rai Province,0
+5701,อำเภอเมืองเชียงราย,Mueang Chiang Rai District,0
+5702,อำเภอเวียงชัย,Wiang Chai District,0
+5703,อำเภอเชียงของ,Chiang Khong District,0
+5704,อำเภอเทิง,Thoeng District,0
+5705,อำเภอพาน,Phan District,0
+5706,อำเภอป่าแดด,Pa Daet District,0
+5707,อำเภอแม่จัน,Mae Chan District,0
+5708,อำเภอเชียงแสน,Chiang Saen District,0
+5709,อำเภอแม่สาย,Mae Sai District,0
+5710,อำเภอแม่สรวย,Mae Suai District,0
+5711,อำเภอเวียงป่าเป้า,Wiang Pa Pao District,0
+5712,อำเภอพญาเม็งราย,Phaya Mengrai District,0
+5713,อำเภอเวียงแก่น,Wiang Kaen District,0
+5714,อำเภอขุนตาล,Khun Tan District,0
+5715,อำเภอแม่ฟ้าหลวง,Mae Fa Luang District,0
+5716,อำเภอแม่ลาว,Mae Lao District,0
+5717,อำเภอเวียงเชียงรุ้ง,Wiang Chiang Rung District,0
+5718,อำเภอดอยหลวง,Doi Luang District,0
+5719,กิ่งอำเภอปล้อง,Plong Minor District,25550101
+5720,กิ่งอำเภอนาแล,Na Lae Minor District,25550101
+5721,กิ่งอำเภอดอยสัก,Doi Sak Minor District,25550101
+5722,กิ่งอำเภอแม่อ้อ,Mae O Minor District,25550101
+5723,กิ่งอำเภอวาวี,Wawi Minor District,25550101
+5724,กิ่งอำเภอแม่ขะจาน,Mae Kha Chan Minor District,25550101
+5764,ท้องถิ่นเทศบาลตำบลแม่ยาว,Mae Yao Sub-district Municipality,0
+5765,ท้องถิ่นเทศบาลตำบลห้วยซ้อ,Huai So Sub-district Municipality,0
+5766,ท้องถิ่นเทศบาลตำบลไม้ยา,Mai Ya Sub-district Municipality,0
+5767,ท้องถิ่นเทศบาลตำบลครึ่ง,Khrueng Sub-district Municipality,0
+5768,ท้องถิ่นเทศบาลตำบลป่าอ้อดอนชัย,Pa O Donchai Sub-district Municipality,0
+5769,ท้องถิ่นเทศบาลตำบลยางฮอม,Yang Hom Sub-district Municipality,0
+5770,ท้องถิ่นเทศบาลตำบลเวียง,Wiang Sub-district Municipality,0
+5771,ท้องถิ่นเทศบาลตำบลนางแล,Nang Lae Sub-district Municipality,0
+5772,ท้องถิ่นเทศบาลตำบลป่าซาง,Pa Sang Sub-district Municipality,0
+5773,ท้องถิ่นเทศบาลตำบลเวียงพางคำ,Wiang Phang Kham Sub-district Municipality,0
+5774,ท้องถิ่นเทศบาลตำบลบ้านดู่,Ban Du Sub-district Municipality,0
+5775,ท้องถิ่นเทศบาลตำบลบ้านเหล่า,Ban Lao Sub-district Municipality,0
+5776,ท้องถิ่นเทศบาลตำบลแม่ลาว,Mae Lao Sub-district Municipality,0
+5777,ท้องถิ่นเทศบาลตำบลป่าก่อดำ,Pa Ko Dam Sub-district Municipality,0
+5778,ท้องถิ่นเทศบาลตำบลบ้านต้า,Ban Ta Sub-district Municipality,0
+5779,ท้องถิ่นเทศบาลตำบลพญาเม็งราย,Phaya Mengrai Sub-district Municipality,0
+5780,ท้องถิ่นเทศบาลตำบลเวียงป่าเป้า,Wiang Pa Pao Sub-district Municipality,0
+5781,ท้องถิ่นเทศบาลตำบลแม่ขะจาน,Mae Kha Chan Sub-district Municipality,0
+5782,ท้องถิ่นเทศบาลตำบลเจดีย์หลวง,Chedi Luang Sub-district Municipality,0
+5783,ท้องถิ่นเทศบาลตำบลแม่สรวย,Mae Suai Sub-district Municipality,0
+5784,ท้องถิ่นเทศบาลตำบลห้วยไคร้,Huai Khrai Sub-district Municipality,0
+5785,ท้องถิ่นเทศบาลตำบลแม่สาย,Mae Sai Sub-district Municipality,0
+5786,ท้องถิ่นเทศบาลตำบลเวียงเชียงแสน,Wiang Chiang Saen Sub-district Municipality,0
+5787,ท้องถิ่นเทศบาลตำบลสันทราย,San Sai Sub-district Municipality,0
+5788,ท้องถิ่นเทศบาลตำบลแม่จัน,Mae Chan Sub-district Municipality,0
+5789,ท้องถิ่นเทศบาลตำบลแม่คำ,Mae Kham Sub-district Municipality,0
+5790,ท้องถิ่นเทศบาลตำบลจันจว้า,Chan Chawa Sub-district Municipality,0
+5791,ท้องถิ่นเทศบาลตำบลป่าแดด,Pa Daet Sub-district Municipality,0
+5792,ท้องถิ่นเทศบาลตำบลป่าแงะ,Pa Ngae Sub-district Municipality,0
+5793,ท้องถิ่นเทศบาลตำบลเมืองพาน,Mueang Phan Sub-district Municipality,0
+5794,ท้องถิ่นเทศบาลตำบลเวียงเทิง,Wiang Thoeng Sub-district Municipality,0
+5795,ท้องถิ่นเทศบาลตำบลบ้านปล้อง,Ban Plong Sub-district Municipality,0
+5796,ท้องถิ่นเทศบาลตำบลเวียงเชียงของ,Wiang Chiang Khong Sub-district Municipality,0
+5797,ท้องถิ่นเทศบาลตำบลบุญเรือง,Bunrueang Sub-district Municipality,0
+5798,ท้องถิ่นเทศบาลตำบลเวียงชัย,Wiang Chai Sub-district Municipality,0
+5799,ท้องถิ่นเทศบาลนครเชียงราย,Chiang Rai City Municipality,0
+5800,จังหวัดแม่ฮ่องสอน,Mae Hong Son Province,0
+5801,อำเภอเมืองแม่ฮ่องสอน,Mueang Mae Hong Son District,0
+5802,อำเภอขุนยวม,Khun Yuam District,0
+5803,อำเภอปาย,Pai District,0
+5804,อำเภอแม่สะเรียง,Mae Sariang District,0
+5805,อำเภอแม่ลาน้อย,Mae La Noi District,0
+5806,อำเภอสบเมย,Sop Moei District,0
+5807,อำเภอปางมะผ้า,Pang Mapha District,0
+5808,กิ่งอำเภอห้วยโป่ง,Huai Pong Minor District,25550101
+5895,ท้องถิ่นเทศบาลตำบลแม่ลาน้อย,Mae La Noi Sub-Disrict Municipality,0
+5896,ท้องถิ่นเทศบาลตำบลแม่สะเรียง,Mae Sariang Sub-district Municipality,0
+5897,ท้องถิ่นเทศบาลตำบลปาย,Pai Sub-district Municipality,0
+5898,ท้องถิ่นเทศบาลตำบลขุนยวม,Khun Yuam Sub-district Municipality,0
+5899,ท้องถิ่นเทศบาลเมืองแม่ฮ่องสอน,Mae Hong Son Town Municipality,0
+6000,จังหวัดนครสวรรค์,Nakhon Sawan Province,0
+6001,อำเภอเมืองนครสวรรค์,Mueang Nakhon Sawan District,0
+6002,อำเภอโกรกพระ,Krok Phra District,0
+6003,อำเภอชุมแสง,Chum Saeng District,0
+6004,อำเภอหนองบัว,Nong Bua District,0
+6005,อำเภอบรรพตพิสัย,Banphot Phisai District,0
+6006,อำเภอเก้าเลี้ยว,Kao Liao District,0
+6007,อำเภอตาคลี,Takhli District,0
+6008,อำเภอท่าตะโก,Tha Tako District,0
+6009,อำเภอไพศาลี,Phaisali District,0
+6010,อำเภอพยุหะคีรี,Phayuha Khiri District,0
+6011,อำเภอลาดยาว,Lat Yao District,0
+6012,อำเภอตากฟ้า,Tak Fa District,0
+6013,อำเภอแม่วงก์,Mae Wong District,0
+6014,อำเภอแม่เปิน,Mae Poen District,0
+6015,อำเภอชุมตาบง,Chum Ta Bong District,0
+6016,กิ่งอำเภอช่องแค,Chong Khae Minor District,25550101
+6051,สาขาตำบลห้วยน้ำหอม,Huai Nam Hom Branch,25550101
+6052,สาขาตำบลชุมตาบง,Chum Ta Bong Branch,25480520
+6053,สาขาตำบลแม่เล่ย์ อำเภอแม่วงก์,Mae Le Branch Mae Wong District,25550101
+6065,ท้องถิ่นเทศบาลตำบลขามทะเลสอ,Kham Thale So Sub-district Municipality,25480928
+6082,ท้องถิ่นเทศบาลตำบลตากฟ้า,Tak Fa Sub-district Municipality,0
+6083,ท้องถิ่นเทศบาลตำบลลาดยาว,Lat Yao Sub-district Municipality,0
+6084,ท้องถิ่นเทศบาลตำบลศาลเจ้าไก่ต่อ,San Chao Kai To Sub-district Municipality,0
+6085,ท้องถิ่นเทศบาลตำบลพยุหะ,Phayuha Sub-district Municipality,0
+6086,ท้องถิ่นเทศบาลตำบลท่าน้ำอ้อยม่วงหัก,Tha Nam-oi Muang Hak Sub-district Municipality,0
+6087,ท้องถิ่นเทศบาลตำบลไพศาลี,Phaisali Sub-district Municipality,0
+6088,ท้องถิ่นเทศบาลตำบลท่าตะโก,Tha Tako Sub-district Municipality,0
+6089,ท้องถิ่นเทศบาลตำบลช่องแค,Chong Khae Sub-district Municipality,0
+6090,ท้องถิ่นเทศบาลตำบลเก้าเลี้ยว,Kao Liao Sub-district Municipality,0
+6091,ท้องถิ่นเทศบาลตำบลบรรพตพิสัย,Banphot Phisai Sub-district Municipality,0
+6092,ท้องถิ่นเทศบาลตำบลหนองบัว,Nong Bua Sub-district Municipality,0
+6093,ท้องถิ่นเทศบาลตำบลทับกฤช,Thap Krit Sub-district Municipality,0
+6094,ท้องถิ่นเทศบาลตำบลบางประมุง,Bang Pra Mung Sub-district Municipality,0
+6095,ท้องถิ่นเทศบาลตำบลโกรกพระ,Krok Phra Sub-district Municipality,0
+6096,ท้องถิ่นเทศบาลตำบลหนองเบน,Nong Ben Sub-district Municipality,0
+6097,ท้องถิ่นเทศบาลเมืองตาคลี,Takhli Town Municipality,0
+6098,ท้องถิ่นเทศบาลเมืองชุมแสง,Chum Saeng Town Municipality,0
+6099,ท้องถิ่นเทศบาลนครนครสวรรค์,Nakhon Sawan City Municipality,0
+6100,จังหวัดอุทัยธานี,Uthai Thani Province,0
+6101,อำเภอเมืองอุทัยธานี,Mueang Uthai Thani District,0
+6102,อำเภอทัพทัน,Thap Than District,0
+6103,อำเภอสว่างอารมณ์,Sawang Arom District,0
+6104,อำเภอหนองฉาง,Nong Chang District,0
+6105,อำเภอหนองขาหย่าง,Nong Khayang District,0
+6106,อำเภอบ้านไร่,Ban Rai District,0
+6107,อำเภอลานสัก,Lan Sak District,0
+6108,อำเภอห้วยคต,Huai Khot District,0
+6189,ท้องถิ่นเทศบาลตำบลหนองสระ,Nong Sa Sub-district Municipality,0
+6190,ท้องถิ่นเทศบาลตำบลลานสัก,Lan Sak Sub-district Municipality,0
+6191,ท้องถิ่นเทศบาลตำบลเมืองการุ้ง,Mueang Ka Rung Sub-district Municipality,0
+6192,ท้องถิ่นเทศบาลตำบลบ้านไร่,Ban Rai Sub-district Municipality,0
+6193,ท้องถิ่นเทศบาลตำบลหนองขาหย่าง,Nong Khayang Sub-district Municipality,0
+6194,ท้องถิ่นเทศบาลตำบลหนองฉาง,Nong Chang Sub-district Municipality,0
+6195,ท้องถิ่นเทศบาลตำบลเขาบางแกรก,Khao Bang Kraek Sub-district Municipality,0
+6196,ท้องถิ่นเทศบาลตำบลสว่างอารมณ์,Sawang Arom Sub-district Municipality,0
+6197,ท้องถิ่นเทศบาลตำบลทัพทัน,Thap Than Sub-district Municipality,0
+6198,ท้องถิ่นเทศบาลตำบลตลุกดู่,Taluk Du Sub-district Municipality,0
+6199,ท้องถิ่นเทศบาลเมืองอุทัยธานี,Uthai Thani Town Municipality,0
+6200,จังหวัดกำแพงเพชร,Kamphaeng Phet Province,0
+6201,อำเภอเมืองกำแพงเพชร,Mueang Kamphaeng Phet District,0
+6202,อำเภอไทรงาม,Sai Ngam District,0
+6203,อำเภอคลองลาน,Khlong Lan District,0
+6204,อำเภอขาณุวรลักษบุรี,Khanu Woralaksaburi District,0
+6205,อำเภอคลองขลุง,Khlong Khlung District,0
+6206,อำเภอพรานกระต่าย,Phran Kratai District,0
+6207,อำเภอลานกระบือ,Lan Krabue District,0
+6208,อำเภอทรายทองวัฒนา,Sai Thong Watthana District,0
+6209,อำเภอปางศิลาทอง,Pang Sila Thong District,0
+6210,อำเภอบึงสามัคคี,Bueng Samakkhi District,0
+6211,อำเภอโกสัมพีนคร,Kosamphi Nakhon District,0
+6212,กิ่งอำเภอนครไตรตรึงษ์,Nakhon Traitrueng Minor District,25550101
+6213,กิ่งอำเภอปางมะคา,Pang Makha Minor District,25550101
+6278,ท้องถิ่นเทศบาลเมืองปางมะค่า,Pang Makha Town Municipality,0
+6279,ท้องถิ่นเทศบาลตำบลบ้านพราน,Ban Phran Sub-district Municipality,0
+6280,ท้องถิ่นเทศบาลตำบลระหาน,Rahan Sub-district Municipality,0
+6281,ท้องถิ่นเทศบาลตำบลคลองพิไกร,Khlong Phi Krai Sub-district Municipality,0
+6282,ท้องถิ่นเทศบาลตำบลนิคมทุ่งโพธิ์ทะเล,Nikhom Thung Pho Thale Sub-district Municipality,0
+6283,ท้องถิ่นเทศบาลตำบลวังยาง,Wang Yang Sub-district Municipality,0
+6284,ท้องถิ่นเทศบาลตำบลทุ่งทราย,Thung Sai Sub-district Municipality,0
+6285,ท้องถิ่นเทศบาลตำบลเทพนคร,Thep Nakhon Sub-district Municipality,0
+6286,ท้องถิ่นเทศบาลตำบลคลองลานพัฒนา,Khlong Lan Phatthana Sub-district Municipality,0
+6287,ท้องถิ่นเทศบาลตำบลช่องลม,Chong Lom Sub-district Municipality,0
+6288,ท้องถิ่นเทศบาลตำบลลานกระบือ,Lan Krabue Sub-district Municipality,0
+6289,ท้องถิ่นเทศบาลตำบลพรานกระต่าย,Phran Kratai Sub-district Municipality,0
+6290,ท้องถิ่นเทศบาลตำบลท่ามะเขือ,Tha Makhuea Sub-district Municipality,0
+6291,ท้องถิ่นเทศบาลตำบลท่าพุทรา,Tha Phutsa Sub-district Municipality,0
+6292,ท้องถิ่นเทศบาลตำบลคลองขลุง,Khlong Khlung Sub-district Municipality,0
+6293,ท้องถิ่นเทศบาลตำบลสลกบาตร,Salok Bat Sub-district Municipality,0
+6294,ท้องถิ่นเทศบาลตำบลขาณุวรลักษบุรี,Khanu Woralaksaburi Sub-district Municipality,0
+6295,ท้องถิ่นเทศบาลตำบลไทรงาม,Sai Ngam Sub-district Municipality,0
+6296,ท้องถิ่นเทศบาลตำบลปากดง,Pak Dong Sub-district Municipality,0
+6297,ท้องถิ่นเทศบาลตำบลนครชุม,Nakhon Chum Sub-district Municipality,0
+6298,ท้องถิ่นเทศบาลตำบลคลองแม่ลาย,Khlong Maelai Sub-district Municipality,0
+6299,ท้องถิ่นเทศบาลเมืองกำแพงเพชร,Kamphaeng Phet Town Municipality,0
+6300,จังหวัดตาก,Tak Province,0
+6301,อำเภอเมืองตาก,Mueang Tak District,0
+6302,อำเภอบ้านตาก,Ban Tak District,0
+6303,อำเภอสามเงา,Sam Ngao District,0
+6304,อำเภอแม่ระมาด,Mae Ramat District,0
+6305,อำเภอท่าสองยาง,Tha Song Yang District,0
+6306,อำเภอแม่สอด,Mae Sot District,0
+6307,อำเภอพบพระ,Phop Phra District,0
+6308,อำเภออุ้มผาง,Umphang District,0
+6309,อำเภอวังเจ้า,Wang Chao District,0
+6310,กิ่งอำเภอวังประจบ,Wang Prachop Minor District,25550101
+6311,กิ่งอำเภอด่านแม่ละเมา,Dan Mae Lamao Minor District,25550101
+6386,ท้องถิ่นเทศบาลตำบลไม้งาม,Mai Ngam Sub-district Municipality,0
+6387,ท้องถิ่นเทศบาลตำบลวังเจ้า,Wang Chao Sub-district Municipality,0
+6388,ท้องถิ่นเทศบาลตำบลอุ้มผาง,Umphang Sub-district Municipality,0
+6389,ท้องถิ่นเทศบาลตำบลพบพระ,Phop Phra Sub-district Municipality,0
+6390,ท้องถิ่นเทศบาลตำบลแม่กุ,Mae Ku Sub-district Municipality,0
+6391,ท้องถิ่นเทศบาลตำบลท่าสายลวด,Tha Sai Luat Sub-district Municipality,0
+6392,ท้องถิ่นเทศบาลตำบลแม่ต้าน,Mae Tan Sub-district Municipality,0
+6393,ท้องถิ่นเทศบาลตำบลแม่ระมาด,Mae Ramat Sub-district Municipality,0
+6394,ท้องถิ่นเทศบาลตำบลแม่จะเรา,Mae Cha Rao Sub-district Municipality,0
+6395,ท้องถิ่นเทศบาลตำบลสามเงา,Sam Ngao Sub-district Municipality,0
+6396,ท้องถิ่นเทศบาลตำบลบ้านตาก,Ban Tak Sub-district Municipality,0
+6397,ท้องถิ่นเทศบาลตำบลทุ่งกระเชาะ,Thung Kra Cho Sub-district Municipality,0
+6398,ท้องถิ่นเทศบาลนครแม่สอด,Mae Sot City Municipality,0
+6399,ท้องถิ่นเทศบาลเมืองตาก,Tak Town Municipality,0
+6400,จังหวัดสุโขทัย,Sukhothai Province,0
+6401,อำเภอเมืองสุโขทัย,Mueang Sukhothai District,0
+6402,อำเภอบ้านด่านลานหอย,Ban Dan Lan Hoi District,0
+6403,อำเภอคีรีมาศ,Khiri Mat District,0
+6404,อำเภอกงไกรลาศ,Kong Krailat District,0
+6405,อำเภอศรีสัชนาลัย,Si Satchanalai District,0
+6406,อำเภอศรีสำโรง,Si Samrong District,0
+6407,อำเภอสวรรคโลก,Sawankhalok District,0
+6408,อำเภอศรีนคร,Si Nakhon District,0
+6409,อำเภอทุ่งเสลี่ยม,Thung Saliam District,0
+6410,กิ่งอำเภอเชียงชื่น,Chiang Chuen Minor District,25550101
+6484,ท้องถิ่นเทศบาลตำบลในเมือง,Nai Mueang Sub-district Municipality,0
+6485,ท้องถิ่นเทศบาลตำบลป่ากุมเกาะ,Pa Kum Ko Sub-district Municipality,0
+6486,ท้องถิ่นเทศบาลตำบลบ้านกล้วย,Ban Kluai Sub-district Municipality,0
+6487,ท้องถิ่นเทศบาลตำบลทุ่งเสลี่ยม,Thung Saliam Sub-district Municipality,0
+6488,ท้องถิ่นเทศบาลตำบลศรีนคร,Si Nakhon Sub-district Municipality,0
+6489,ท้องถิ่นเทศบาลตำบลศรีสำโรง,Si Samrong Sub-district Municipality,0
+6490,ท้องถิ่นเทศบาลตำบลหาดเสี้ยว,Hat Siao Sub-district Municipality,0
+6491,ท้องถิ่นเทศบาลเมืองศรีสัชนาลัย,Si Satchanalai Town Municipality,0
+6492,ท้องถิ่นเทศบาลตำบลกงไกรลาศ,Kong Krailat Sub-district Municipality,0
+6493,ท้องถิ่นเทศบาลตำบลบ้านโตนด,Ban Tanot Sub-district Municipality,0
+6494,ท้องถิ่นเทศบาลตำบลทุ่งหลวง,Thung Luang Sub-district Municipality,0
+6495,ท้องถิ่นเทศบาลตำบลลานหอย,Lan Hoi Sub-district Municipality,0
+6496,ท้องถิ่นเทศบาลตำบลเมืองเก่า,Mueang Kao Sub-district Municipality,0
+6497,ท้องถิ่นเทศบาลตำบลบ้านสวน,Ban Suan Sub-district Municipality,0
+6498,ท้องถิ่นเทศบาลเมืองสวรรคโลก,Sawankhalok Town Municipality,0
+6499,ท้องถิ่นเทศบาลเมืองสุโขทัยธานี,Sukhothai Thani Town Municipality,0
+6500,จังหวัดพิษณุโลก,Phitsanulok Province,0
+6501,อำเภอเมืองพิษณุโลก,Mueang Phitsanulok District,0
+6502,อำเภอนครไทย,Nakhon Thai District,0
+6503,อำเภอชาติตระการ,Chat Trakan District,0
+6504,อำเภอบางระกำ,Bang Rakam District,0
+6505,อำเภอบางกระทุ่ม,Bang Krathum District,0
+6506,อำเภอพรหมพิราม,Phrom Phiram District,0
+6507,อำเภอวัดโบสถ์,Wat Bot District,0
+6508,อำเภอวังทอง,Wang Thong District,0
+6509,อำเภอเนินมะปราง,Noen Maprang District,0
+6510,กิ่งอำเภอทรัพย์ไพรวัลย์,Sap Phraiwan Minor District,25550101
+6511,กิ่งอำเภอวงฆ้อง,Wong Khong Minor District,25550101
+6512,กิ่งอำเภอนิคมหนองกุลา,Nikhom Nong Kula Minor District,25550101
+6513,กิ่งอำเภอวังน้ำคู้,Wang Nam Khu Minor District,25550101
+6514,กิ่งอำเภอนครบางยาง,Nakhon Bang Yang Minor District,25550101
+6580,ท้องถิ่นเทศบาลเมืองอรัญญิก,Aranyik Town Municipality,0
+6581,ท้องถิ่นเทศบาลตำบลบ้านมุง,Ban Mung Sub-district Municipality,0
+6582,ท้องถิ่นเทศบาลตำบลบึงระมาณ,Bueng Ra Man Sub-district Municipality,0
+6583,ท้องถิ่นเทศบาลตำบลพลายชุมพล,Phlai Chumphon Sub-district Municipality,0
+6584,ท้องถิ่นเทศบาลตำบลพันเสา,Phan Sao Sub-district Municipality,0
+6585,ท้องถิ่นเทศบาลตำบลไทรย้อย,Sai Yoi Sub-district Municipality,0
+6586,ท้องถิ่นเทศบาลตำบลบ้านแยง,Ban Yaeng Sub-district Municipality,0
+6587,ท้องถิ่นเทศบาลตำบลเนินมะปราง,Noen Maprang Sub-district Municipality,0
+6588,ท้องถิ่นเทศบาลตำบลวังทอง,Wang Thong Sub-Dtrict Municipality,0
+6589,ท้องถิ่นเทศบาลตำบลวัดโบสถ์,Wat Bot Sub-district Municipality,0
+6590,ท้องถิ่นเทศบาลตำบลวงฆ้อง,Wong Khong Sub-district Municipality,0
+6591,ท้องถิ่นเทศบาลตำบลพรหมพิราม,Phrom Phiram Sub-district Municipality,0
+6592,ท้องถิ่นเทศบาลตำบลบางกระทุ่ม,Bang Krathum Sub-district Municipality,0
+6593,ท้องถิ่นเทศบาลตำบลเนินกุ่ม,Noen Kum Sub-district Municipality,0
+6594,ท้องถิ่นเทศบาลตำบลปลักแรด,Plak Raet Sub-district Municipality,0
+6595,ท้องถิ่นเทศบาลตำบลบางระกำ,Bang Rakam Sub-district Municipality,0
+6596,ท้องถิ่นเทศบาลตำบลป่าแดง,Padaeng Sub-district Municipality,0
+6597,ท้องถิ่นเทศบาลตำบลนครไทย,Nakhon Thai Sub-district Municipality,0
+6598,ท้องถิ่นเทศบาลตำบลบ้านใหม่,Ban Mai Sub-district Municipality,0
+6599,ท้องถิ่นเทศบาลนครพิษณุโลก,Phitsanulok City Municipality,0
+6600,จังหวัดพิจิตร,Phichit Province,0
+6601,อำเภอเมืองพิจิตร,Mueang Phichit District,0
+6602,อำเภอวังทรายพูน,Wang Sai Phun District,0
+6603,อำเภอโพธิ์ประทับช้าง,Pho Prathap Chang District,0
+6604,อำเภอตะพานหิน,Taphan Hin District,0
+6605,อำเภอบางมูลนาก,Bang Mun Nak District,0
+6606,อำเภอโพทะเล,Pho Thale District,0
+6607,อำเภอสามง่าม,Sam Ngam District,0
+6608,อำเภอทับคล้อ,Thap Khlo District,0
+6609,อำเภอสากเหล็ก,Sak Lek District,0
+6610,อำเภอบึงนาราง,Bueng Na Rang District,0
+6611,อำเภอดงเจริญ,Dong Charoen District,0
+6612,อำเภอวชิรบารมี,Vajira Barami District,0
+6676,ท้องถิ่นเทศบาลตำบลหนองพยอม,Nong Phayom Sub-district Municipality,0
+6677,ท้องถิ่นเทศบาลตำบลหนองปล้อง,Nong Plong Sub-district Municipality,0
+6678,ท้องถิ่นเทศบาลตำบลเนินมะกอก,Noen Makok Sub-district Municipality,0
+6679,ท้องถิ่นเทศบาลตำบลหอไกร,Ho Krai Sub-district Municipality,0
+6680,ท้องถิ่นเทศบาลตำบลดงป่าคำ,Dong Pa Kham Sub-district Municipality,0
+6681,ท้องถิ่นเทศบาลตำบลเนินปอ,Noen Po Sub-district Municipality,0
+6682,ท้องถิ่นเทศบาลตำบลสำนักขุนเณร,Samnak Khun Nen Sub-district Municipality,0
+6683,ท้องถิ่นเทศบาลตำบลสากเหล็ก,Sak Lek Sub-district Municipality,0
+6684,ท้องถิ่นเทศบาลตำบลทับคล้อ,Tap Khlo Sub-district Municipality,0
+6685,ท้องถิ่นเทศบาลตำบลเขาทราย,Khao Sai Sub-district Municipality,0
+6686,ท้องถิ่นเทศบาลตำบลสามง่าม,Sam Ngam Sub-district Municipality,0
+6687,ท้องถิ่นเทศบาลตำบลกำแพงดิน,Kamphaeng Din Sub-district Municipality,0
+6688,ท้องถิ่นเทศบาลตำบลโพทะเล,Pho Thale Sub-district Municipality,0
+6689,ท้องถิ่นเทศบาลตำบลท่าเสา,Tha Sao Sub-district Municipality,0
+6690,ท้องถิ่นเทศบาลตำบลวังตะกู,Wang Taku Sub-district Municipality,0
+6691,ท้องถิ่นเทศบาลตำบลบางไผ่,Bang Phai Sub-district Municipality,0
+6692,ท้องถิ่นเทศบาลตำบลโพธิ์ประทับช้าง,Pho Prathap Chang Sub-district Municipality,0
+6693,ท้องถิ่นเทศบาลตำบลวังทรายพูน,Wang Sai Phun Sub-district Municipality,0
+6694,ท้องถิ่นเทศบาลตำบลหัวดง,Hua Dong Sub-district Municipality,0
+6695,ท้องถิ่นเทศบาลตำบลวังกรด,Wang Krot Sub-district Municipality,0
+6696,ท้องถิ่นเทศบาลตำบลท่าฬ่อ,Tha Lo Sub-district Municipality,0
+6697,ท้องถิ่นเทศบาลเมืองบางมูลนาก,Bang Mun Nak town municipality,0
+6698,ท้องถิ่นเทศบาลเมืองตะพานหิน,Taphan Hin Town Municipality,0
+6699,ท้องถิ่นเทศบาลเมืองพิจิตร,Phichit Town Municipality,0
+6700,จังหวัดเพชรบูรณ์,Phetchabun Province,0
+6701,อำเภอเมืองเพชรบูรณ์,Mueang Phetchabun District,0
+6702,อำเภอชนแดน,Chon Daen District,0
+6703,อำเภอหล่มสัก,Lom Sak District,0
+6704,อำเภอหล่มเก่า,Lom Kao District,0
+6705,อำเภอวิเชียรบุรี,Wichian Buri District,0
+6706,อำเภอศรีเทพ,Si Thep District,0
+6707,อำเภอหนองไผ่,Nong Phai District,0
+6708,อำเภอบึงสามพัน,Bueng Sam Phan District,0
+6709,อำเภอน้ำหนาว,Nam Nao District,0
+6710,อำเภอวังโป่ง,Wang Pong District,0
+6711,อำเภอเขาค้อ,Khao Kho District,0
+6712,กิ่งอำเภอวังชมภู,Wang Chomphu Minor District,25550101
+6713,กิ่งอำเภอพุเตย,Phu Toei Minor District,25550101
+6714,กิ่งอำเภอดงขุย,Dong Khui Minor District,25550101
+6715,กิ่งอำเภอเมืองกลาง,Mueang Klang Minor District,25550101
+6778,ท้องถิ่นเทศบาลตำบลแคมป์สน,Khaem Son Sub-district Municipality,0
+6779,ท้องถิ่นเทศบาลตำบลโคกสะอาด,Khoksaad Sub-district Municipality,0
+6780,ท้องถิ่นเทศบาลตำบลบัววัฒนา,Bua Watthana Sub-district Municipality,0
+6781,ท้องถิ่นเทศบาลตำบลบ่อไทย,Bo Thai Sub-district Municipality,0
+6782,ท้องถิ่นเทศบาลตำบลนางั่ว,Na Ngua Sub-district Municipality,0
+6783,ท้องถิ่นเทศบาลตำบลเฉลียงทอง,Chaliang Thong Sub-district Municipality,0
+6784,ท้องถิ่นเทศบาลตำบลวังโป่ง,Wang Pong Sub-district Municipality,0
+6785,ท้องถิ่นเทศบาลตำบลท้ายดง,Thai Dong Sub-district Municipality,0
+6786,ท้องถิ่นเทศบาลตำบลซับสมอทอด,Sap Samo Thot Sub-district Municipality,0
+6787,ท้องถิ่นเทศบาลตำบลหนองไผ่,Nong Phai Sub-district Municipality,0
+6788,ท้องถิ่นเทศบาลตำบลนาเฉลียง,Na Chaliang Sub-district Municipality,0
+6789,ท้องถิ่นเทศบาลตำบลสว่างวัฒนา,Sawang Watthana Sub-district Municipality,0
+6790,ท้องถิ่นเทศบาลเมืองวิเชียรบุรี,Wichian Buri Town Municipality,0
+6791,ท้องถิ่นเทศบาลตำบลพุเตย,Phu Toei Sub-district Municipality,0
+6792,ท้องถิ่นเทศบาลตำบลหล่มเก่า,Lom Kao Sub-district Municipality,0
+6793,ท้องถิ่นเทศบาลตำบลท่าข้าม,Tha Kham Sub-district Municipality,0
+6794,ท้องถิ่นเทศบาลตำบลดงขุย,Dong Khui Sub-district Municipality,0
+6795,ท้องถิ่นเทศบาลตำบลชนแดน,Chon Daen Sub-district Municipality,0
+6796,ท้องถิ่นเทศบาลตำบลวังชมภู,Wang Chomphu Sub-district Municipality,0
+6797,ท้องถิ่นเทศบาลตำบลท่าพล,Tha Phon Sub-district Municipality,0
+6798,ท้องถิ่นเทศบาลเมืองหล่มสัก,Lom Sak Town Municipality,0
+6799,ท้องถิ่นเทศบาลเมืองเพชรบูรณ์,Phetchabun Town Municipality,0
+7000,จังหวัดราชบุรี,Ratchaburi Province,0
+7001,อำเภอเมืองราชบุรี,Mueang Ratchaburi District,0
+7002,อำเภอจอมบึง,Chom Bueng District,0
+7003,อำเภอสวนผึ้ง,Suan Phueng District,0
+7004,อำเภอดำเนินสะดวก,Damnoen Saduak District,0
+7005,อำเภอบ้านโป่ง,Ban Pong District,0
+7006,อำเภอบางแพ,Bang Phae District,0
+7007,อำเภอโพธาราม,Photharam District,0
+7008,อำเภอปากท่อ,Pak Tho District,0
+7009,อำเภอวัดเพลง,Wat Phleng District,0
+7010,อำเภอบ้านคา,Ban Kha District,0
+7070,ท้องถิ่นเทศบาลตำบลดอนทราย,Don Sai Sub-district Municipality,0
+7071,ท้องถิ่นเทศบาลตำบลหลุมดิน,Lum Din Sub-district Municipality,0
+7072,ท้องถิ่นเทศบาลตำบลเบิกไพร,Boekphrai Sub-district Municipality,0
+7073,ท้องถิ่นเทศบาลตำบลทุ่งหลวง,Thung Luang Sub-district Municipality,0
+7074,ท้องถิ่นเทศบาลตำบลบ้านฆ้อง,Ban Khong Sub-district Municipality,0
+7075,ท้องถิ่นเทศบาลตำบลกรับใหญ่,Krap Yai Sub-district Municipality,0
+7076,ท้องถิ่นเทศบาลตำบลบ้านสิงห์,Bansing Sub-district Municipality,0
+7077,ท้องถิ่นเทศบาลตำบลวัดเพลง,Wat Phleng Sub-district Municipality,0
+7078,ท้องถิ่นเทศบาลตำบลปากท่อ,Pak Tho Sub-district Municipality,0
+7079,ท้องถิ่นเทศบาลตำบลหนองโพ,Nong Pho Sub-district Municipality,0
+7080,ท้องถิ่นเทศบาลตำบลบ้านเลือก,Ban Lueak Sub-district Municipality,0
+7081,ท้องถิ่นเทศบาลตำบลเจ็ดเสมียน,Chet Samian Sub-district Municipality,0
+7082,ท้องถิ่นเทศบาลตำบลเขาขวาง,Khao Khwang Sub-district Municipality,0
+7083,ท้องถิ่นเทศบาลตำบลโพหัก,Pho Hak Sub-district Municipality,0
+7084,ท้องถิ่นเทศบาลตำบลบางแพ,Bang Phae Sub-district Municipality,0
+7085,ท้องถิ่นเทศบาลตำบลห้วยกระบอก,Huai Krabok Sub-district Municipality,0
+7086,ท้องถิ่นเทศบาลเมืองท่าผา,Tha Pha Town Municipality,0
+7087,ท้องถิ่นเทศบาลตำบลกระจับ,Krachap Sub-district Municipality,0
+7088,ท้องถิ่นเทศบาลตำบลศรีดอนไผ่,Si Don Phai Sub-district Municipality,0
+7089,ท้องถิ่นเทศบาลตำบลดำเนินสะดวก,Damnoen Saduak Sub-district Municipality,0
+7090,ท้องถิ่นเทศบาลตำบลสวนผึ้ง,Suan Phueng Sub-district Municipality,0
+7091,ท้องถิ่นเทศบาลตำบลบ้านชัฏป่าหวาย,Ban Chat Pa Wai Sub-district Municipality,0
+7092,ท้องถิ่นเทศบาลตำบลด่านทับตะโก,Dan Thap Tako Sub-district Municipality,0
+7093,ท้องถิ่นเทศบาลตำบลจอมบึง,Chom Bueng Sub-district Municipality,0
+7094,ท้องถิ่นเทศบาลตำบลห้วยชินสีห์,Huai Chin Si Sub-district Municipality,0
+7095,ท้องถิ่นเทศบาลตำบลหลักเมือง,Lak Mueang Sub-district Municipality,0
+7096,ท้องถิ่นเทศบาลตำบลเขางู,khao Ngu Sub-district Municipality,0
+7097,ท้องถิ่นเทศบาลเมืองโพธาราม,Photharam Town Municipality,0
+7098,ท้องถิ่นเทศบาลเมืองบ้านโป่ง,Ban Pong Town Municipality,0
+7099,ท้องถิ่นเทศบาลเมืองราชบุรี,Ratchaburi Town Municipality,0
+7100,จังหวัดกาญจนบุรี,Kanchanaburi Province,0
+7101,อำเภอเมืองกาญจนบุรี,Mueang Kanchanaburi District,0
+7102,อำเภอไทรโยค,Sai Yok District,0
+7103,อำเภอบ่อพลอย,Bo Phloi District,0
+7104,อำเภอศรีสวัสดิ์,Si Sawat District,0
+7105,อำเภอท่ามะกา,Tha Maka District,0
+7106,อำเภอท่าม่วง,Tha Muang District,0
+7107,อำเภอทองผาภูมิ,Thong Pha Phum District,0
+7108,อำเภอสังขละบุรี,Sangkhla Buri District,0
+7109,อำเภอพนมทวน,Phanom Thuan District,0
+7110,อำเภอเลาขวัญ,Lao Khwan District,0
+7111,อำเภอด่านมะขามเตี้ย,Dan Makham Tia District,0
+7112,อำเภอหนองปรือ,Nong Prue District,0
+7113,อำเภอห้วยกระเจา,Huai Krachao District,0
+7151,สาขาตำบลท่ากระดาน อำเภอศรีสวัสดิ์,Tha Kradan Branch Si Sawat District,25470211
+7167,ท้องถิ่นเทศบาลตำบลรางหวาย,Rang Wai Sub-district Municipality,0
+7168,ท้องถิ่นเทศบาลตำบลหนองสาหร่าย,Nong Sarai Sub-district Municipality,0
+7169,ท้องถิ่นเทศบาลเมืองปากแพรก,Pak Phraek Town Municipality,0
+7170,ท้องถิ่นเทศบาลตำบลวังศาลา,Wang Sala Sub-district Municipality,0
+7171,ท้องถิ่นเทศบาลตำบลท่าล้อ,Tha Lo Sub-district Municipality,0
+7172,ท้องถิ่นเทศบาลตำบลวังขนาย,Wang Khanai Sub-district Municipality,0
+7173,ท้องถิ่นเทศบาลตำบลหนองปรือ,Nong Prue Sub-district Municipality,0
+7174,ท้องถิ่นเทศบาลตำบลด่านมะขามเตี้ย,Dan Makham Tia Sub-district Municipality,0
+7175,ท้องถิ่นเทศบาลตำบลหนองฝ้าย,Nong Fai Sub-district Municipality,0
+7176,ท้องถิ่นเทศบาลตำบลเลาขวัญ,Lao Khwan Sub-district Municipality,0
+7177,ท้องถิ่นเทศบาลตำบลตลาดเขต,Talat Khet Sub-district Municipality,0
+7178,ท้องถิ่นเทศบาลตำบลพนมทวน,Phanom Thuan Sub-district Municipality,0
+7179,ท้องถิ่นเทศบาลตำบลวังกะ,Wang Ka Sub-district Municipality,0
+7180,ท้องถิ่นเทศบาลตำบลทองผาภูมิ,Thong Pha Phum Sub-district Municipality,0
+7181,ท้องถิ่นเทศบาลตำบลหนองตากยา,Nong Tak Ya Sub-district Municipality,0
+7182,ท้องถิ่นเทศบาลตำบลหนองขาว,Nong Khao Sub-district Municipality,0
+7183,ท้องถิ่นเทศบาลตำบลสำรอง,Samrong Sub-district Municipality,0
+7184,ท้องถิ่นเทศบาลตำบลท่าม่วง,Tha Muang Sub-district Municipality,0
+7185,ท้องถิ่นเทศบาลตำบลหวายเหนียว,Wai Niao Sub-district Municipality,0
+7186,ท้องถิ่นเทศบาลตำบลพระแท่น,Phra Thaen Sub-district Municipality,0
+7187,ท้องถิ่นเทศบาลตำบลท่าไม้,Tha Mai Sub-district Municipality,0
+7188,ท้องถิ่นเทศบาลตำบลท่ามะกา,Tha Maka Sub-Disrict Municipality,0
+7189,ท้องถิ่นเทศบาลตำบลลูกแก,Luk Kae Sub-district Municipality,0
+7190,ท้องถิ่นเทศบาลตำบลเอราวัณ,Erawan Sub-district Municipality,0
+7191,ท้องถิ่นเทศบาลตำบลหนองรี,Nong Ri Sub-district Municipality,0
+7192,ท้องถิ่นเทศบาลตำบลบ่อพลอย,Bo Phloi Sub-district Municipality,0
+7193,ท้องถิ่นเทศบาลตำบลวังโพธิ์,Wang Pho Sub-district Municipality,0
+7194,ท้องถิ่นเทศบาลตำบลน้ำตกไทรโยคน้อย,Namtok Sai Yok Noi Sub-district Municipality,0
+7195,ท้องถิ่นเทศบาลตำบลหนองบัว,Nong Bua Sub-district Municipality,0
+7196,ท้องถิ่นเทศบาลตำบลลาดหญ้า,Lat Ya Sub-district Municipality,0
+7197,ท้องถิ่นเทศบาลตำบลแก่งเสี้ยน,Kaeng Sian Sub-district Municipality,0
+7198,ท้องถิ่นเทศบาลเมืองท่าเรือพระแท่น,Tharuea Phra Thaen Town Municipality,0
+7199,ท้องถิ่นเทศบาลเมืองกาญจนบุรี,Kanchanaburi Town Municipality,0
+7200,จังหวัดสุพรรณบุรี,Suphan Buri Province,0
+7201,อำเภอเมืองสุพรรณบุรี,Mueang Suphan Buri District,0
+7202,อำเภอเดิมบางนางบวช,Doem Bang Nang Buat District,0
+7203,อำเภอด่านช้าง,Dan Chang District,0
+7204,อำเภอบางปลาม้า,Bang Pla Ma District,0
+7205,อำเภอศรีประจันต์,Si Prachan District,0
+7206,อำเภอดอนเจดีย์,Don Chedi District,0
+7207,อำเภอสองพี่น้อง,Song Phi Nong District,0
+7208,อำเภอสามชุก,Sam Chuk District,0
+7209,อำเภออู่ทอง,U Thong District,0
+7210,อำเภอหนองหญ้าไซ,Nong Ya Sai District,0
+7211,กิ่งอำเภอบางตาเถร,Bang Ta Then Minor District,25550101
+7212,กิ่งอำเภอเนินพลับพลา,Noen Phlapphla Minor District,25550101
+7265,ท้องถิ่นเทศบาลตำบลปากน้ำ,Pak Nam Sub-district Municipality,0
+7266,ท้องถิ่นเทศบาลตำบลท้าวอู่ทอง,Thao U Thong Sub-district Municipality,0
+7267,ท้องถิ่นเทศบาลตำบลกระจัน,Kra Chan Sub-district Municipality,0
+7268,ท้องถิ่นเทศบาลตำบลบ้านโข้ง,Ban Khong Sub-district Municipality,0
+7269,ท้องถิ่นเทศบาลตำบลเดิมบาง,Doem Bang Sub-district Municipality,0
+7270,ท้องถิ่นเทศบาลตำบลบางกุ้ง,Bangkung Sub-district Municipality,0
+7271,ท้องถิ่นเทศบาลตำบลท่าระหัด,Tha Rahat Sub-district Municipality,0
+7272,ท้องถิ่นเทศบาลตำบลตะค่า,Ta Kha Sub-district Municipality,0
+7273,ท้องถิ่นเทศบาลตำบลบ้านดอน,Ban Don Sub-district Municipality,0
+7274,ท้องถิ่นเทศบาลตำบลต้นคราม,Ton Khram Sub-district Municipality,0
+7275,ท้องถิ่นเทศบาลตำบลปลายนา,Plai Na Sub-district Municipality,0
+7276,ท้องถิ่นเทศบาลตำบลขุนพัดเพ็ง,Khun Phat Pheng Sub-district Municipality,0
+7277,ท้องถิ่นเทศบาลตำบลวังยาง,Wang Yang Sub-district Municipality,0
+7278,ท้องถิ่นเทศบาลตำบลเขาดิน,Khao Din Sub-district Municipality,0
+7279,ท้องถิ่นเทศบาลตำบลหนองหญ้าไซ,Nong Ya Sai Sub-district Municipality,0
+7280,ท้องถิ่นเทศบาลตำบลอู่ทอง,U Thong Sub-district Municipality,0
+7281,ท้องถิ่นเทศบาลตำบลสระยายโสม,Sa Yai Som Sub-district Municipality,0
+7282,ท้องถิ่นเทศบาลตำบลสามชุก,Sam Chuk Sub-district Municipality,0
+7283,ท้องถิ่นเทศบาลตำบลทุ่งคอก,Thung Khok Sub-district Municipality,0
+7284,ท้องถิ่นเทศบาลตำบลสระกระโจม,Sa Krachom Sub-district Municipality,0
+7285,ท้องถิ่นเทศบาลตำบลดอนเจดีย์,Don Chedi Sub-district Municipality,0
+7286,ท้องถิ่นเทศบาลตำบลศรีประจันต์,Si Prachan Sub-district Municipality,0
+7287,ท้องถิ่นเทศบาลตำบลไผ่กองดิน,Phai Kong Din Sub-district Municipality,0
+7288,ท้องถิ่นเทศบาลตำบลบ้านแหลม,Ban Laem Sub-district Municipality,0
+7289,ท้องถิ่นเทศบาลตำบลบางปลาม้า,Bang Pla Ma Sub-district Municipality,0
+7290,ท้องถิ่นเทศบาลตำบลโคกคราม,Khok Khram Sub-district Municipality,0
+7291,ท้องถิ่นเทศบาลตำบลด่านช้าง,Dan Chang Sub-district Municipality,0
+7292,ท้องถิ่นเทศบาลตำบลบ่อกรุ,Bo Kru Sub-district Municipality,0
+7293,ท้องถิ่นเทศบาลตำบลนางบวช,Nang Buat Sub-district Municipality,0
+7294,ท้องถิ่นเทศบาลตำบลเขาพระ,Khao Phra Sub-district Municipality,0
+7295,ท้องถิ่นเทศบาลตำบลสวนแตง,Suan Taeng Sub-district Municipality,0
+7296,ท้องถิ่นเทศบาลตำบลโพธิ์พระยา,Pho Phraya Sub-district Municipality,0
+7297,ท้องถิ่นเทศบาลตำบลท่าเสด็จ,Tha Sadet Sub-district Municipality,0
+7298,ท้องถิ่นเทศบาลเมืองสองพี่น้อง,Song Phi Nong Town Municipality,0
+7299,ท้องถิ่นเทศบาลเมืองสุพรรณบุรี,Suphan Buri Town Municipality,0
+7300,จังหวัดนครปฐม,Nakhon Pathom Province,0
+7301,อำเภอเมืองนครปฐม,Mueang Nakhon Pathom District,0
+7302,อำเภอกำแพงแสน,Kamphaeng Saen District,0
+7303,อำเภอนครชัยศรี,Nakhon Chai Si District,0
+7304,อำเภอดอนตูม,Don Tum District,0
+7305,อำเภอบางเลน,Bang Len District,0
+7306,อำเภอสามพราน,Sam Phran District,0
+7307,อำเภอพุทธมณฑล,Phutthamonthon District,0
+7380,ท้องถิ่นเทศบาลตำบลบ่อพลับ,Bo Phlap Sub-district Municipality,0
+7381,ท้องถิ่นเทศบาลตำบลบางกระทึก,Bang Kra Thuek Sub-district Municipality,0
+7382,ท้องถิ่นเทศบาลเมืองกระทุ่มล้ม,Krathum Lom Town Municipality,0
+7383,ท้องถิ่นเทศบาลเมืองไร่ขิง,Rai Khing Town Municipality,0
+7384,ท้องถิ่นเทศบาลตำบลคลองโยง,Khlong Yong Sub-district Municipality,0
+7385,ท้องถิ่นเทศบาลตำบลศาลายา,Salaya Sub-district Municipality,0
+7386,ท้องถิ่นเทศบาลตำบลอ้อมใหญ่,Om Yai Sub-district Municipality,0
+7387,ท้องถิ่นเทศบาลเมืองสามพราน,Sam Phran Town Municipality,0
+7388,ท้องถิ่นเทศบาลตำบลลำพญา,Lam Phaya Sub-district Municipality,0
+7389,ท้องถิ่นเทศบาลตำบลรางกระทุ่ม,Rang Krathum Sub-district Municipality,0
+7390,ท้องถิ่นเทศบาลตำบลบางหลวง,Bang Luang Sub-district Municipality,0
+7391,ท้องถิ่นเทศบาลตำบลบางเลน,Bang Len Sub-district Municipality,0
+7392,ท้องถิ่นเทศบาลตำบลสามง่าม,Samngam Sub-district Municipality,0
+7393,ท้องถิ่นเทศบาลตำบลห้วยพลู,Huai Phlu Sub-district Municipality,0
+7394,ท้องถิ่นเทศบาลตำบลนครชัยศรี,Nakhon Chai Si Sub-district Municipality,0
+7395,ท้องถิ่นเทศบาลตำบลกำแพงแสน,Kamphaeng Saen Sub-district Municipality,0
+7396,ท้องถิ่นเทศบาลตำบลโพรงมะเดื่อ,Phrong Maduea Sub-district Municipality,0
+7397,ท้องถิ่นเทศบาลตำบลธรรมศาลา,Thamma Sala Sub-district Municipality,0
+7398,ท้องถิ่นเทศบาลตำบลดอนยายหอม,Don Yai Hom Sub-district Municipality,0
+7399,ท้องถิ่นเทศบาลนครนครปฐม,Nakhon Pathom City Municipality,0
+7400,จังหวัดสมุทรสาคร,Samut Sakhon Province,0
+7401,อำเภอเมืองสมุทรสาคร,Mueang Samut Sakhon District,0
+7402,อำเภอกระทุ่มแบน,Krathum Baen District,0
+7403,อำเภอบ้านแพ้ว,Ban Phaeo District,0
+7491,ท้องถิ่นเทศบาลตำบลสวนหลวง,Suan Luang Sub-district Municipality,0
+7492,ท้องถิ่นเทศบาลตำบลนาดี,Na Di Sub-district Municipality,0
+7493,ท้องถิ่นเทศบาลตำบลหลักห้า,Lak Ha Sub-district Municipality,0
+7494,ท้องถิ่นเทศบาลตำบลบ้านแพ้ว,Ban Phaeo Sub-district Municipality,0
+7495,ท้องถิ่นเทศบาลตำบลเกษตรพัฒนา,Kaset Phatthana Sub-district Municipality,0
+7496,ท้องถิ่นเทศบาลตำบลบางปลา,Bang Pla Sub-district Municipality,0
+7497,ท้องถิ่นเทศบาลนครอ้อมน้อย,Om Noi City Municipality,0
+7498,ท้องถิ่นเทศบาลเมืองกระทุ่มแบน,Krathum Baen Town Municipality,0
+7499,ท้องถิ่นเทศบาลนครสมุทรสาคร,Samut Sakhon City Municipality,0
+7500,จังหวัดสมุทรสงคราม,Samut Songkhram Province,0
+7501,อำเภอเมืองสมุทรสงคราม,Mueang Samut Songkhram District,0
+7502,อำเภอบางคนที,Bang Khonthi District,0
+7503,อำเภออัมพวา,Amphawa District,0
+7595,ท้องถิ่นเทศบาลตำบลเหมืองใหม่,Mueang Mai Sub-district Municipality,0
+7596,ท้องถิ่นเทศบาลตำบลบางนกแขวก,Bang Nok Khwaek Sub-district Municipality,0
+7597,ท้องถิ่นเทศบาลตำบลกระดังงา,Kradangnga Sub-district Municipality,0
+7598,ท้องถิ่นเทศบาลตำบลอัมพวา,Amphawa Sub-district Municipality,0
+7599,ท้องถิ่นเทศบาลเมืองสมุทรสงคราม,Samut Songkhram Town Municipality,0
+7600,จังหวัดเพชรบุรี,Phetchaburi Province,0
+7601,อำเภอเมืองเพชรบุรี,Mueang Phetchaburi District,0
+7602,อำเภอเขาย้อย,Khao Yoi District,0
+7603,อำเภอหนองหญ้าปล้อง,Nong Ya Plong District,0
+7604,อำเภอชะอำ,Cha-am District,0
+7605,อำเภอท่ายาง,Tha Yang District,0
+7606,อำเภอบ้านลาด,Ban Lat District,0
+7607,อำเภอบ้านแหลม,Ban Laem District,0
+7608,อำเภอแก่งกระจาน,Kaeng Krachan District,0
+7609,กิ่งอำเภอเขาลูกช้าง,Khao Lukchang Minor District,25550101
+7688,ท้องถิ่นเทศบาลตำบลท่าแลง,Tha Laeng Sub-district Municipality,0
+7689,ท้องถิ่นเทศบาลตำบลบ้านแหลม,Ban Laem Sub-district Municipality,0
+7690,ท้องถิ่นเทศบาลตำบลบางตะบูน,Bang Tabun Sub-district Municipality,0
+7691,ท้องถิ่นเทศบาลตำบลบ้านลาด,Ban Lat Sub-district Municipality,0
+7692,ท้องถิ่นเทศบาลตำบลหนองจอก,Nong Chok Sub-district Municipality,0
+7693,ท้องถิ่นเทศบาลตำบลท่ายาง,Tha Yang Sub-district Municipality,0
+7694,ท้องถิ่นเทศบาลตำบลนายาง,Na Yang Sub-district Municipality,0
+7695,ท้องถิ่นเทศบาลตำบลเขาย้อย,Khao Yoi Sub-district Municipality,0
+7696,ท้องถิ่นเทศบาลตำบลหาดเจ้าสำราญ,Hat Chaosamran Sub-district Municipality,0
+7697,ท้องถิ่นเทศบาลตำบลหัวสะพาน,Hua Saphan Sub-district Municipality,0
+7698,ท้องถิ่นเทศบาลเมืองชะอำ,Cha-am Town Municipality,0
+7699,ท้องถิ่นเทศบาลเมืองเพชรบุรี,Phetchaburi Town Municipality,0
+7700,จังหวัดประจวบคีรีขันธ์,Prachuap Khiri Khan Province,0
+7701,อำเภอเมืองประจวบคีรีขันธ์,Mueang Prachuap Khiri Khan District,0
+7702,อำเภอกุยบุรี,Kui Buri District,0
+7703,อำเภอทับสะแก,Thap Sakae District,0
+7704,อำเภอบางสะพาน,Bang Saphan District,0
+7705,อำเภอบางสะพานน้อย,Bang Saphan Noi District,0
+7706,อำเภอปราณบุรี,Pran Buri District,0
+7707,อำเภอหัวหิน,Hua Hin District,0
+7708,อำเภอสามร้อยยอด,Sam Roi Yot District,0
+7784,ท้องถิ่นเทศบาลตำบลเขาน้อย,Khao Noi Sub-district Municipality,0
+7785,ท้องถิ่นเทศบาลตำบลไร่เก่า,Rai Kao Sub-district Municipality,0
+7786,ท้องถิ่นเทศบาลตำบลหนองพลับ,Nong Phlap Sub-district Municipality,0
+7787,ท้องถิ่นเทศบาลตำบลปากน้ำปราณ,Paknam Pran Sub-district Municipality,0
+7788,ท้องถิ่นเทศบาลตำบลปราณบุรี,Pran Buri Sub-district Municipality,0
+7789,ท้องถิ่นเทศบาลตำบลบางสะพานน้อย,Bang Saphan Noi Sub-district Municipality,0
+7790,ท้องถิ่นเทศบาลตำบลร่อนทอง,Ronthong Sub-district Municipality,0
+7791,ท้องถิ่นเทศบาลตำบลบ้านกรูด,Ban Krut Sub-district Municipality,0
+7792,ท้องถิ่นเทศบาลตำบลกำเนิดนพคุณ,Kamnoet Nopphakhun Sub-district Municipality,0
+7793,ท้องถิ่นเทศบาลตำบลทับสะแก,Thap Sakae Sub-district Municipality,0
+7794,ท้องถิ่นเทศบาลตำบลไร่ใหม่,Rai Mai Sub-district Municipality,0
+7795,ท้องถิ่นเทศบาลตำบลกุยบุรี,Kui Buri Sub-district Municipality,0
+7796,ท้องถิ่นเทศบาลตำบลคลองวาฬ,Khlong Wan Sub-district Municipality,0
+7797,ท้องถิ่นเทศบาลตำบล กม.5,Ko Mo 5 Sub-district Municipality,0
+7798,ท้องถิ่นเทศบาลเมืองหัวหิน,Hua Hin Town Municipality,0
+7799,ท้องถิ่นเทศบาลเมืองประจวบคีรีขันธ์,Prachuap Khiri Khan Town Municipality,0
+8000,จังหวัดนครศรีธรรมราช,Nakhon Si Thammarat Province,0
+8001,อำเภอเมืองนครศรีธรรมราช,Mueang Nakhon Si Thammarat District,0
+8002,อำเภอพรหมคีรี,Phrom Khiri District,0
+8003,อำเภอลานสกา,Lan Saka District,0
+8004,อำเภอฉวาง,Chawang District,0
+8005,อำเภอพิปูน,Phipun District,0
+8006,อำเภอเชียรใหญ่,Chian Yai District,0
+8007,อำเภอชะอวด,Cha-uat District,0
+8008,อำเภอท่าศาลา,Tha Sala District,0
+8009,อำเภอทุ่งสง,Thung Song District,0
+8010,อำเภอนาบอน,Na Bon District,0
+8011,อำเภอทุ่งใหญ่,Thung Yai District,0
+8012,อำเภอปากพนัง,Pak Phanang District,0
+8013,อำเภอร่อนพิบูลย์,Ron Phibun District,0
+8014,อำเภอสิชล,Sichon District,0
+8015,อำเภอขนอม,Khanom District,0
+8016,อำเภอหัวไทร,Hua Sai District,0
+8017,อำเภอบางขัน,Bang Khan District,0
+8018,อำเภอถ้ำพรรณรา,Tham Phannara District,0
+8019,อำเภอจุฬาภรณ์,Chulabhorn District,0
+8020,อำเภอพระพรหม,Phra Phrom District,0
+8021,อำเภอนบพิตำ,Nopphitam District,0
+8022,อำเภอช้างกลาง,Chang Klang District,0
+8023,อำเภอเฉลิมพระเกียรติ,Chaloem Phra Kiat District,0
+8024,กิ่งอำเภอกะปาง,Kapang Minor District,25550101
+8025,กิ่งอำเภอราษฎร์ภักดี,Rat Phakdi Minor District,25550101
+8026,กิ่งอำเภอกลาย,Klai Minor District,25550101
+8027,กิ่งอำเภอนาหลวง,Na Luang Minor District,25550101
+8051,สาขาตำบลเสือหึง อำเภอเชียรใหญ่,Suea Hueng Branch Chian Yai District,25461231
+8052,สาขาตำบลสวนหลวง,Suan Luang Branch,25550101
+8053,สาขาตำบลหินตก อำเภอร่อนพิบูลย์,Hin Tok Branch Ron Phibun District,25550101
+8054,สาขาตำบลควนชะลิก อำเภอหัวไทร,Khuan Chalik Branch Hua Sai District,25550101
+8055,สาขาตำบลกะปาง อำเภอทุ่งสง,Kapang Branch Thung Song District,25550101
+8070,ท้องถิ่นเทศบาลตำบลหน้าสตน,Na Saton Sub-Distric Municipality,0
+8071,ท้องถิ่นเทศบาลตำบลเขาพระ,Khao Phra Sub-Distric Municipality,0
+8072,ท้องถิ่นเทศบาลตำบลเกาะเพชร,Ko Phet Sub-Distric Municipality,0
+8073,ท้องถิ่นเทศบาลตำบลทางพูน,Thang Phun Sub-Distric Municipality,0
+8074,ท้องถิ่นเทศบาลตำบลที่วัง,Thi Wang Sub-district Municipality,0
+8075,ท้องถิ่นเทศบาลตำบลท้องเนียน,Thong Nian Sub-Distric Municipality,0
+8076,ท้องถิ่นเทศบาลตำบลหัวไทร,Hua Sai Sub-Distric Municipality,0
+8077,ท้องถิ่นเทศบาลตำบลขนอม,Khanom Sub-Distric Municipality,0
+8078,ท้องถิ่นเทศบาลตำบลสิชล,Sichon Sub-Distric Municipality,0
+8079,ท้องถิ่นเทศบาลตำบลหินตก,Hin Tok Sub-Distric Municipality,0
+8080,ท้องถิ่นเทศบาลตำบลร่อนพิบูลย์,Ron Phibun Sub-Distric Municipality,0
+8081,ท้องถิ่นเทศบาลตำบลเขาชุมทอง,Khao Chum Thong Sub-district Municipality,0
+8082,ท้องถิ่นเทศบาลตำบลท่ายาง,Tha Yang Sub-Distric Municipality,0
+8083,ท้องถิ่นเทศบาลตำบลนาบอน,Na Bon Sub-district Municipality,0
+8084,ท้องถิ่นเทศบาลตำบลท่าศาลา,Tha Sala Sub-district Municipality,0
+8085,ท้องถิ่นเทศบาลตำบลชะอวด,Cha-uat Sub-district Municipality,0
+8086,ท้องถิ่นเทศบาลตำบลเชียรใหญ่,Chian Yai Sub-district Municipality,0
+8087,ท้องถิ่นเทศบาลตำบลพิปูน,Phipun Sub-Distric Municipality,0
+8088,ท้องถิ่นเทศบาลตำบลไม้เรียง,Mai Riang Sub-Distric Municipality,0
+8089,ท้องถิ่นเทศบาลตำบลฉวาง,Chawang Sub-Distric Municipality,0
+8090,ท้องถิ่นเทศบาลตำบลจันดี,Chan Di Sub-Distric Municipality,0
+8091,ท้องถิ่นเทศบาลตำบลลานสกา,Lan Saka Sub-Distric Municipality,0
+8092,ท้องถิ่นเทศบาลตำบลพรหมโลก,Phrom Lok Sub-Distric Municipality,0
+8093,ท้องถิ่นเทศบาลตำบลทอนหงส์,Thon Hong Sub-Distric Municipality,0
+8094,ท้องถิ่นเทศบาลตำบลปากนคร,Pak Nakhon Sub-district Municipality,0
+8095,ท้องถิ่นเทศบาลตำบลบางจาก,Bang Chak Sub-district Municipality,0
+8096,ท้องถิ่นเทศบาลตำบลท่าแพ,Tha Phrae Sub-district Municipality,0
+8097,ท้องถิ่นเทศบาลเมืองทุ่งสง,Thung Song Town Municipality,0
+8098,ท้องถิ่นเทศบาลเมืองปากพนัง,Pak Phanang Town Municipality,0
+8099,ท้องถิ่นเทศบาลนครนครศรีธรรมราช,Nakhon Si Thammarat City Municipality,0
+8100,จังหวัดกระบี่,Krabi Province,0
+8101,อำเภอเมืองกระบี่,Mueang Krabi District,0
+8102,อำเภอเขาพนม,Khao Phanom District,0
+8103,อำเภอเกาะลันตา,Ko Lanta District,0
+8104,อำเภอคลองท่อม,Khlong Thom District,0
+8105,อำเภออ่าวลึก,Ao Luek District,0
+8106,อำเภอปลายพระยา,Plai Phraya District,0
+8107,อำเภอลำทับ,Lam Thap District,0
+8108,อำเภอเหนือคลอง,Nuea Khlong District,0
+8189,ท้องถิ่นเทศบาลตำบลกระบี่น้อย,Krabinoi Sub-district Municipality,0
+8190,ท้องถิ่นเทศบาลตำบลเหนือคลอง,Nuea Khlong Sub-district Municipality,0
+8191,ท้องถิ่นเทศบาลตำบลลำทับ,Lam Thap Sub-district Municipality,0
+8192,ท้องถิ่นเทศบาลตำบลปลายพระยา,Plai Phraya Sub-district Municipality,0
+8193,ท้องถิ่นเทศบาลตำบลอ่าวลึกใต้,Ao Luek Tai Sub-district Municipality,0
+8194,ท้องถิ่นเทศบาลตำบลแหลมสัก,Laem sak Sub-district Municipality,0
+8195,ท้องถิ่นเทศบาลตำบลคลองพน,Khlong Phon Sub-district Municipality,0
+8196,ท้องถิ่นเทศบาลตำบลคลองท่อมใต้,Khlong Thom Tai Sub-district Municipality,0
+8197,ท้องถิ่นเทศบาลตำบลเกาะลันตาใหญ่,Ko Lanta Yai Sub-district Municipality,0
+8198,ท้องถิ่นเทศบาลตำบลเขาพนม,Khao Phanom Sub-district Municipality,0
+8199,ท้องถิ่นเทศบาลเมืองกระบี่,Krabi Town Municipality,0
+8200,จังหวัดพังงา,Phangnga Province,0
+8201,อำเภอเมืองพังงา,Mueng Phang-nga District,0
+8202,อำเภอเกาะยาว,Ko Yao District,0
+8203,อำเภอกะปง,Kapong District,0
+8204,อำเภอตะกั่วทุ่ง,Takua Thung District,0
+8205,อำเภอตะกั่วป่า,Takua Pa District,0
+8206,อำเภอคุระบุรี,Khura Buri District,0
+8207,อำเภอทับปุด,Thap Put District,0
+8208,อำเภอท้ายเหมือง,Thai Mueang District,0
+8209,กิ่งอำเภอโคกกลอย,Khok Kloi Minor District,25550101
+8291,ท้องถิ่นเทศบาลตำบลท้ายเหมือง,Thai Mueang Sub-district Municipality,0
+8292,ท้องถิ่นเทศบาลตำบลทับปุด,Thap Put Sub-district Municipality,0
+8293,ท้องถิ่นเทศบาลตำบลคุระบุรี,Khura Buri Sub-district Municipality,0
+8294,ท้องถิ่นเทศบาลตำบลโคกกลอย,Khok Kloi Sub-district Municipality,0
+8295,ท้องถิ่นเทศบาลตำบลกระโสม,Kra Som Sub-district Municipality,0
+8296,ท้องถิ่นเทศบาลตำบลท่านา,Tha Na Sub-district Municipality,0
+8297,ท้องถิ่นเทศบาลตำบลเกาะยาว,Ko Yao Sub-district Municipality,25651116
+8298,ท้องถิ่นเทศบาลเมืองตะกั่วป่า,Takua Pa Town Municipality,0
+8299,ท้องถิ่นเทศบาลเมืองพังงา,Phangnga Town Municipality,0
+8300,จังหวัดภูเก็ต,Phuket Province,0
+8301,อำเภอเมืองภูเก็ต,Mueang Phuket District,0
+8302,อำเภอกะทู้,Kathu District,0
+8303,อำเภอถลาง,Thalang District,0
+8391,ท้องถิ่นเทศบาลตำบลวิชิต,Wichit Sub-district Municipality,0
+8392,ท้องถิ่นเทศบาลตำบลราไวย์,Ra Wai Sub-district Municipality,0
+8393,ท้องถิ่นเทศบาลตำบลรัษฎา,Ratsada Sub-district Municipality,0
+8394,ท้องถิ่นเทศบาลตำบลเทพกระษัตรี,Thep Krasattri Sub-district Municipality,0
+8395,ท้องถิ่นเทศบาลตำบลเชิงทะเล,Choeng Thale Sub-district Municipality,0
+8396,ท้องถิ่นเทศบาลเมืองกะทู้,Kathu Town Municipality,0
+8397,ท้องถิ่นเทศบาลตำบลกะรน,Ka Ron Sub-district Municipality,0
+8398,ท้องถิ่นเทศบาลเมืองป่าตอง,Pa Tong Town Municipality,0
+8399,ท้องถิ่นเทศบาลนครภูเก็ต,Phuket City Municipality,0
+8400,จังหวัดสุราษฎร์ธานี,Surat Thani Province,0
+8401,อำเภอเมืองสุราษฎร์ธานี,Mueang Surat Thani District,0
+8402,อำเภอกาญจนดิษฐ์,Kanchanadit District,0
+8403,อำเภอดอนสัก,Don Sak District,0
+8404,อำเภอเกาะสมุย,Ko Samui District,0
+8405,อำเภอเกาะพะงัน,Ko Pha-ngan District,0
+8406,อำเภอไชยา,Chaiya District,0
+8407,อำเภอท่าชนะ,Tha Chana District,0
+8408,อำเภอคีรีรัฐนิคม,Khiri Rat Nikhom District,0
+8409,อำเภอบ้านตาขุน,Ban Ta Khun District,0
+8410,อำเภอพนม,Phanom District,0
+8411,อำเภอท่าฉาง,Tha Chang District,0
+8412,อำเภอบ้านนาสาร,Ban Na San District,0
+8413,อำเภอบ้านนาเดิม,Ban Na Doem District,0
+8414,อำเภอเคียนซา,Khian Sa District,0
+8415,อำเภอเวียงสระ,Wiang Sa District,0
+8416,อำเภอพระแสง,Phrasaeng District,0
+8417,อำเภอพุนพิน,Phunphin District,0
+8418,อำเภอชัยบุรี,Chai Buri District,0
+8419,อำเภอวิภาวดี,Vibhavadi District,0
+8420,กิ่งอำเภอท่าโรงช้าง,Tha Rong Chang Minor District,25550101
+8421,กิ่งอำเภอบางสวรรค์,Bang Sawan Minor District,25550101
+8451,สาขาตำบลเกาะเต่า อำเภอเกาะพะงัน,Ko Tao Branch Ko Pha-ngan District,25550101
+8471,ท้องถิ่นเทศบาลตำบลบ้านเสด็จ,Ban Sadat Sub-district Municipality,0
+8472,ท้องถิ่นเทศบาลตำบลคลองชะอุ่น,Khlong Cha Un Sub-district Municipality,0
+8473,ท้องถิ่นเทศบาลตำบลทุ่งหลวง,Thung Luang Sub-district Municipality,0
+8474,ท้องถิ่นเทศบาลตำบลขุนทะเล,Khun Thale Sub-district Municipality,0
+8475,ท้องถิ่นเทศบาลตำบลช้างซ้าย,Chang Sai Sub-district Municipality,0
+8476,ท้องถิ่นเทศบาลตำบลเขานิพันธ์,Khao Niphan Sub-district Municipality,0
+8477,ท้องถิ่นเทศบาลตำบลวัดประดู่,Wat Pradu Sub-district Municipality,0
+8478,ท้องถิ่นเทศบาลตำบลบ้านส้อง,Ban Song Sub-district Municipality,0
+8479,ท้องถิ่นเทศบาลตำบลย่านดินแดง,Yan Dindaeng Sub-district Municipality,0
+8480,ท้องถิ่นเทศบาลตำบลบางสวรรค์,Bang Sawan Sub-district Municipality,0
+8481,ท้องถิ่นเทศบาลตำบลเวียงสระ,Wiang Sa Sub-district Municipality,0
+8482,ท้องถิ่นเทศบาลตำบลเคียนซา,Khian Sa Sub-district Municipality,0
+8483,ท้องถิ่นเทศบาลตำบลบ้านนา,Ban Na Sub-district Municipality,0
+8484,ท้องถิ่นเทศบาลตำบลท่าฉาง,Tha Chang Sub-district Municipality,0
+8485,ท้องถิ่นเทศบาลตำบลพนม,Phanom Sub-district Municipality,0
+8486,ท้องถิ่นเทศบาลตำบลบ้านตาขุน,Ban Ta Khun Sub-district Municipality,0
+8487,ท้องถิ่นเทศบาลตำบลบ้านเชี่ยวหลาน,Ban Chiao Lan Sub-district Municipality,0
+8488,ท้องถิ่นเทศบาลตำบลท่าขนอน,Tha Khanon Sub-district Municipality,0
+8489,ท้องถิ่นเทศบาลตำบลท่าชนะ,Tha Chana Sub-district Municipality,0
+8490,ท้องถิ่นเทศบาลตำบลพุมเรียง,Phumriang Sub-District  Municipality,0
+8491,ท้องถิ่นเทศบาลตำบลตลาดไชยา,Talat Chaiya Sub-district Municipality,0
+8492,ท้องถิ่นเทศบาลตำบลเกาะพะงัน,Ko Pha-ngan Sub-district Municipality,0
+8493,ท้องถิ่นเทศบาลนครเกาะสมุย,Ko Samui City Municipality,0
+8494,ท้องถิ่นเทศบาลเมืองดอนสัก,Don Sak Town Municipality,0
+8495,ท้องถิ่นเทศบาลตำบลท่าทองใหม่,Tha Thong Mai Sub-district Municipality,0
+8496,ท้องถิ่นเทศบาลตำบลกาญจนดิษฐ์,Kanchanadit Sub-district Municipality,0
+8497,ท้องถิ่นเทศบาลเมืองท่าข้าม,Tha Kham Town Municipality,0
+8498,ท้องถิ่นเทศบาลเมืองนาสาร,Na San Town Municipality,0
+8499,ท้องถิ่นเทศบาลนครสุราษฎร์ธานี,Surat Thani City Municipality,0
+8500,จังหวัดระนอง,Ranong Province,0
+8501,อำเภอเมืองระนอง,Mueang Ranong District,0
+8502,อำเภอละอุ่น,La-un District,0
+8503,อำเภอกะเปอร์,Kapoe District,0
+8504,อำเภอกระบุรี,Kra Buri District,0
+8505,อำเภอสุขสำราญ,Suk Samran District,0
+8593,ท้องถิ่นเทศบาลตำบลบางริ้น,Bang Rin Sub-district Municipality,25550101
+8594,ท้องถิ่นเทศบาลตำบลน้ำจืด,Namchuet Sub-district Municipality,0
+8595,ท้องถิ่นเทศบาลตำบลกะเปอร์,Kapoe Sub-district Municipality,0
+8596,ท้องถิ่นเทศบาลตำบลละอุ่น,La-un Sub-district Municipality,0
+8597,ท้องถิ่นเทศบาลตำบลหงาว,Ngao Sub-district Municipality,0
+8598,ท้องถิ่นเทศบาลตำบลปากน้ำ,Paknam Sub-district Municipality,0
+8599,ท้องถิ่นเทศบาลเมืองระนอง,Ranong Town Municipality,0
+8600,จังหวัดชุมพร,Chumphon Province,0
+8601,อำเภอเมืองชุมพร,Mueang Chumphon District,0
+8602,อำเภอท่าแซะ,Tha Sae District,0
+8603,อำเภอปะทิว,Pathio District,0
+8604,อำเภอหลังสวน,Lang Suan District,0
+8605,อำเภอละแม,Lamae District,0
+8606,อำเภอพะโต๊ะ,Phato District,0
+8607,อำเภอสวี,Sawi District,0
+8608,อำเภอทุ่งตะโก,Thung Tako District,0
+8685,ท้องถิ่นเทศบาลตำบลท่ายาง,Tha Yang Sub-district Municipality,0
+8686,ท้องถิ่นเทศบาลตำบลปากตะโก,Pak Tako Sub-district Municipality,0
+8687,ท้องถิ่นเทศบาลตำบลนาโพธิ์,Na Pho Sub-district Municipality,0
+8688,ท้องถิ่นเทศบาลตำบลพะโต๊ะ,Phato Sub-district Municipality,0
+8689,ท้องถิ่นเทศบาลตำบลละแม,Lamae Sub-district Municipality,0
+8690,ท้องถิ่นเทศบาลตำบลปากน้ำหลังสวน,Paknam Lang Suan Sub-district Municipality,0
+8691,ท้องถิ่นเทศบาลตำบลสะพลี,Sa phli Sub-district Municipality,0
+8692,ท้องถิ่นเทศบาลตำบลมาบอำมฤต,Map Ammarit Sub-district Municipality,0
+8693,ท้องถิ่นเทศบาลตำบลปะทิว,Pathio Sub-district Municipality,0
+8694,ท้องถิ่นเทศบาลตำบลเนินสันติ,Noen Santi Sub-district Municipality,0
+8695,ท้องถิ่นเทศบาลตำบลท่าแซะ,Tha Sae Sub-district Municipality,0
+8696,ท้องถิ่นเทศบาลตำบลวังไผ่,Wang Phai Sub-district Municipality,0
+8697,ท้องถิ่นเทศบาลตำบลปากน้ำชุมพร,Paknam Chumphon Sub-district Municipality,0
+8698,ท้องถิ่นเทศบาลเมืองหลังสวน,Lang Suan Town Municipality,0
+8699,ท้องถิ่นเทศบาลเมืองชุมพร,Chumphon Town Municipality,0
+9000,จังหวัดสงขลา,Songkhla Province,0
+9001,อำเภอเมืองสงขลา,Mueang Songkhla District,0
+9002,อำเภอสทิงพระ,Sathing Phra District,0
+9003,อำเภอจะนะ,Chana District,0
+9004,อำเภอนาทวี,Na Thawi District,0
+9005,อำเภอเทพา,Thepha District,0
+9006,อำเภอสะบ้าย้อย,Saba Yoi District,0
+9007,อำเภอระโนด,Ranot District,0
+9008,อำเภอกระแสสินธุ์,Krasae Sin District,0
+9009,อำเภอรัตภูมิ,Rattaphum District,0
+9010,อำเภอสะเดา,Sadao District,0
+9011,อำเภอหาดใหญ่,Hat Yai District,0
+9012,อำเภอนาหม่อม,Na Mom District,0
+9013,อำเภอควนเนียง,Khuan Niang District,0
+9014,อำเภอบางกล่ำ,Bang Klam District,0
+9015,อำเภอสิงหนคร,Singhanakhon District,0
+9016,อำเภอคลองหอยโข่ง,Khlong Hoi Khong District,0
+9017,กิ่งอำเภอศรีวิชัย,Si Wichai Minor District,25550101
+9066,ท้องถิ่นเทศบาลเมืองทุ่งตำเสา,Thung Tamsao Town Municipality,0
+9067,ท้องถิ่นเทศบาลตำบลโคกม่วง,Khok Muang Sub-district Municipality,0
+9068,ท้องถิ่นเทศบาลตำบลทุ่งลาน,Thung Lan Sub-district Municipality,0
+9069,ท้องถิ่นเทศบาลตำบลเกาะแต้ว,Ko Taeo Sub-district Municipality,0
+9070,ท้องถิ่นเทศบาลตำบลคูเต่า,Khu Tao Sub District Municipality,0
+9071,ท้องถิ่นเทศบาลตำบลท่าช้าง,Tha Chang Sub-district Municipality,0
+9072,ท้องถิ่นเทศบาลตำบลน้ำน้อย,Nam Noi Sub-district Municipality,0
+9073,ท้องถิ่นเทศบาลตำบลลำไพล,Lam Phlai Sub-district Municipality,0
+9074,ท้องถิ่นเทศบาลตำบลบ้านไร่,Ban Rai Sub-district Municipality,0
+9075,ท้องถิ่นเทศบาลตำบลพะวง,Phawong Sub-district Municipality,0
+9076,ท้องถิ่นเทศบาลเมืองเขารูปช้าง,Khao Rup Chang Town Municipality,0
+9077,ท้องถิ่นเทศบาลตำบลสำนักขาม,Samnak Kham Sub-district Municipality,0
+9078,ท้องถิ่นเทศบาลเมืองคลองแห,Khlong Hae Town Municipality,0
+9079,ท้องถิ่นเทศบาลเมืองควนลัง,Khuan Lang Town Municipality,0
+9080,ท้องถิ่นเทศบาลเมืองคอหงส์,Kho Hong Town Municipality,0
+9081,ท้องถิ่นเทศบาลเมืองสิงหนคร,Singhanakhon Town Municipality,0
+9082,ท้องถิ่นเทศบาลตำบลควนเนียง,Khuan Niang Sub-district Municipality,0
+9083,ท้องถิ่นเทศบาลตำบลพะตง,Pha Tong Sub-district Municipality,0
+9084,ท้องถิ่นเทศบาลตำบลคลองแงะ,Khlong Ngae Sub-district Municipality,0
+9085,ท้องถิ่นเทศบาลเมืองปาดังเบซาร์,Padang Be Sa Town Municipality,0
+9086,ท้องถิ่นเทศบาลตำบลปริก,Prik Sub-district Municipality,0
+9087,ท้องถิ่นเทศบาลตำบลนาสีทอง,Na Si Thong Sub-district Municipality,0
+9088,ท้องถิ่นเทศบาลตำบลกำแพงเพชร,Kamphaeng Phet Sub-district Municipality,0
+9089,ท้องถิ่นเทศบาลตำบลระโนด,Ranot Sub-district Municipality,0
+9090,ท้องถิ่นเทศบาลตำบลบ่อตรุ,Bo Tru Sub-district Municipality,0
+9091,ท้องถิ่นเทศบาลตำบลสะบ้าย้อย,Saba Yoi Sub-district Municipality,0
+9092,ท้องถิ่นเทศบาลตำบลเทพา,Thepha Sub-district Municipality,0
+9093,ท้องถิ่นเทศบาลตำบลนาทวี,Na Thawi Sub-district Municipality,0
+9094,ท้องถิ่นเทศบาลตำบลจะนะ,Chana Sub-district Municipality,0
+9095,ท้องถิ่นเทศบาลตำบลสทิงพระ,Sathing Phra Sub-district Municipality,0
+9096,ท้องถิ่นเทศบาลเมืองบ้านพรุ,Ban Phru Town Municipality,0
+9097,ท้องถิ่นเทศบาลเมืองสะเดา,Sadao Town Municipality,0
+9098,ท้องถิ่นเทศบาลนครหาดใหญ่,Hat Yai City Municipality,0
+9099,ท้องถิ่นเทศบาลนครสงขลา,Songkhla City Municipality,0
+9100,จังหวัดสตูล,Satun Province,0
+9101,อำเภอเมืองสตูล,Mueang Satun District,0
+9102,อำเภอควนโดน,Khuan Don District,0
+9103,อำเภอควนกาหลง,Khuan Kalong District,0
+9104,อำเภอท่าแพ,Tha Phae District,0
+9105,อำเภอละงู,La-ngu District,0
+9106,อำเภอทุ่งหว้า,Thung Wa District,0
+9107,อำเภอมะนัง,Manang District,0
+9193,ท้องถิ่นเทศบาลตำบลคลองขุด,Khlong Khut Sub-district Municipality,0
+9194,ท้องถิ่นเทศบาลตำบลทุ่งหว้า,Thung Wa Sub-district Municipality,0
+9195,ท้องถิ่นเทศบาลตำบลกำแพง,Kamphaeng Sub-district Municipality,0
+9196,ท้องถิ่นเทศบาลตำบลควนโดน,Khuan Don Sub-district Municipality,0
+9197,ท้องถิ่นเทศบาลตำบลฉลุง,Chalung Sub-district Municipality,0
+9198,ท้องถิ่นเทศบาลตำบลเจ๊ะบิลัง,Che Bi Lang Sub-district Municipality,0
+9199,ท้องถิ่นเทศบาลเมืองสตูล,Satun Town Municipality,0
+9200,จังหวัดตรัง,Trang Province,0
+9201,อำเภอเมืองตรัง,Mueang Trang District,0
+9202,อำเภอกันตัง,Kantang District,0
+9203,อำเภอย่านตาขาว,Yan Ta Khao District,0
+9204,อำเภอปะเหลียน,Palian District,0
+9205,อำเภอสิเกา,Sikao District,0
+9206,อำเภอห้วยยอด,Huai Yot District,0
+9207,อำเภอวังวิเศษ,Wang Wiset District,0
+9208,อำเภอนาโยง,Na Yong District,0
+9209,อำเภอรัษฎา,Ratsada District,0
+9210,อำเภอหาดสำราญ,Hat Samran District,0
+9211,กิ่งอำเภอบางดี,Bang Di Minor District,25550101
+9212,กิ่งอำเภอนาวง,Na Wong Minor District,25550101
+9251,สาขาคลองเต็ง อำเภอเมืองตรัง,Khlong Teng BranchMueang Trang District,25550101
+9286,ท้องถิ่นเทศบาลตำบลคลองปาง,Khlong Pang Sub-district Municipality,0
+9287,ท้องถิ่นเทศบาลตำบลนาโยงเหนือ,Na Yong Nuea Sub-district Municipality,0
+9288,ท้องถิ่นเทศบาลตำบลวังวิเศษ,Wang Wiset Sub-district Municipality,0
+9289,ท้องถิ่นเทศบาลตำบลลำภูรา,Lam Phu Ra Sub-district Municipality,0
+9290,ท้องถิ่นเทศบาลตำบลนาวง,Na Wong Sub-district Municipality,0
+9291,ท้องถิ่นเทศบาลตำบลสิเกา,Sikao Sub-district Municipality,0
+9292,ท้องถิ่นเทศบาลตำบลควนกุน,Khuan Kun Sub-district Municipality,0
+9293,ท้องถิ่นเทศบาลตำบลทุ่งยาว,Thung Yao Sub-district Municipality,0
+9294,ท้องถิ่นเทศบาลตำบลท่าข้าม,Tha Kham Sub-district Municipality,0
+9295,ท้องถิ่นเทศบาลตำบลย่านตาขาว,Yan Ta Khao Sub-district Municipality,0
+9296,ท้องถิ่นเทศบาลตำบลคลองเต็ง,Khlong Teng Sub-district Municipality,0
+9297,ท้องถิ่นเทศบาลตำบลห้วยยอด,Huai Yot Sub-district Municipality,0
+9298,ท้องถิ่นเทศบาลเมืองกันตัง,Kantang Town Municipality,0
+9299,ท้องถิ่นเทศบาลนครตรัง,Trang City Municipality,0
+9300,จังหวัดพัทลุง,Phatthalung Province,0
+9301,อำเภอเมืองพัทลุง,Mueang Phatthalung District,0
+9302,อำเภอกงหรา,Kong Ra District,0
+9303,อำเภอเขาชัยสน,Khao Chaison District,0
+9304,อำเภอตะโหมด,Tamot District,0
+9305,อำเภอควนขนุน,Khuan Khanun District,0
+9306,อำเภอปากพะยูน,Pak Phayun District,0
+9307,อำเภอศรีบรรพต,Si Banphot District,0
+9308,อำเภอป่าบอน,Pa Bon District,0
+9309,อำเภอบางแก้ว,Bang Kaeo District,0
+9310,อำเภอป่าพะยอม,Pa Phayom District,0
+9311,อำเภอศรีนครินทร์,Srinagarindra District,0
+9312,กิ่งอำเภอช่วยทุกข์ราษฎร์,Chuai Thuk Rat Minor District,25550101
+9382,ท้องถิ่นเทศบาลตำบลเขาหัวช้าง,Khao Hua Chang Sub-district Municipality,0
+9383,ท้องถิ่นเทศบาลตำบลชะรัด,Cha Rat Sub-district Municipality,0
+9384,ท้องถิ่นเทศบาลตำบลหารเทา,Han Thao Sub-district Municipality,0
+9385,ท้องถิ่นเทศบาลตำบลบางแก้ว,Bang Kaeo Sub-district Municipality,0
+9386,ท้องถิ่นเทศบาลตำบลอ่าวพะยูน,Ao Phayun Sub-district Municipality,0
+9387,ท้องถิ่นเทศบาลตำบลชุมพล,Chumpon Sub-district Municipality,0
+9388,ท้องถิ่นเทศบาลตำบลโคกม่วง,Khok Muang Sub-district Municipality,0
+9389,ท้องถิ่นเทศบาลตำบลบ้านนา,Ban Na Sub-district municipality,0
+9390,ท้องถิ่นเทศบาลตำบลลานข่อย,Lan Khoi Sub-district Municipality,0
+9391,ท้องถิ่นเทศบาลตำบลท่ามะเดื่อ,Tha Maduea Sub-district Municipality,0
+9392,ท้องถิ่นเทศบาลตำบลป่าบอน,Pa Bon Sub-district Municipality,0
+9393,ท้องถิ่นเทศบาลตำบลปากพะยูน,Pak Phayun Sub-district Municipality,0
+9394,ท้องถิ่นเทศบาลตำบลมะกอกเหนือ,Makok Nuea Sub-district Municipality,0
+9395,ท้องถิ่นเทศบาลตำบลควนขนุน,Khuan Khanun Sub-district Municipality,0
+9396,ท้องถิ่นเทศบาลตำบลแม่ขรี,Mae Khri Sub-district Municipality,0
+9397,ท้องถิ่นเทศบาลตำบลตะโหมด,Tamot Sub-district Municipality,0
+9398,ท้องถิ่นเทศบาลตำบลเขาชัยสน,Khao Chaison Sub-district Municipality,0
+9399,ท้องถิ่นเทศบาลเมืองพัทลุง,Phatthalung Town Municipality,0
+9400,จังหวัดปัตตานี,Pattani Province,0
+9401,อำเภอเมืองปัตตานี,Mueang Pattani District,0
+9402,อำเภอโคกโพธิ์,Khok Pho District,0
+9403,อำเภอหนองจิก,Nong Chik District,0
+9404,อำเภอปะนาเระ,Panare District,0
+9405,อำเภอมายอ,Mayo District,0
+9406,อำเภอทุ่งยางแดง,Thung Yang Daeng District ,0
+9407,อำเภอสายบุรี,Sai Buri District,0
+9408,อำเภอไม้แก่น,Mai Kaen District,0
+9409,อำเภอยะหริ่ง,Yaring District,0
+9410,อำเภอยะรัง,Yarang District,0
+9411,อำเภอกะพ้อ,Kapho District,0
+9412,อำเภอแม่ลาน,Mae Lan District,0
+9488,ท้องถิ่นเทศบาลตำบลยะรัง,Yarang Sub-district Municipality,0
+9489,ท้องถิ่นเทศบาลตำบลยะหริ่ง,Yaring Sub-district Municipality,0
+9490,ท้องถิ่นเทศบาลตำบลบางปู,Bang Pu Sub-district Municipality,0
+9491,ท้องถิ่นเทศบาลตำบลตันหยง,Tanyong Sub-district Municipality,0
+9492,ท้องถิ่นเทศบาลตำบลมายอ,Mayo Sub-district Municipality,0
+9493,ท้องถิ่นเทศบาลตำบลปะนาเระ,Panare Sub-district Municipality,0
+9494,ท้องถิ่นเทศบาลตำบลหนองจิก,Nong Chik Sub-district Municipality,0
+9495,ท้องถิ่นเทศบาลตำบลบ่อทอง,Bo Thong Sub-district Municipality,0
+9496,ท้องถิ่นเทศบาลตำบลนาประดู่,Na Pradu Sub-district Municipality,0
+9497,ท้องถิ่นเทศบาลตำบลโคกโพธิ์,Khok Pho Sub-district Municipality,0
+9498,ท้องถิ่นเทศบาลเมืองตะลุบัน,Ta Lu Ban Town Municipality,0
+9499,ท้องถิ่นเทศบาลเมืองปัตตานี,Pattani Town Municipality,0
+9500,จังหวัดยะลา,Yala Province,0
+9501,อำเภอเมืองยะลา,Mueang Yala District,0
+9502,อำเภอเบตง,Betong District,0
+9503,อำเภอบันนังสตา,Bannang Sata District,0
+9504,อำเภอธารโต,Than To District,0
+9505,อำเภอยะหา,Yaha District,0
+9506,อำเภอรามัน,Raman District,0
+9507,อำเภอกาบัง,Kabang District,0
+9508,อำเภอกรงปินัง,Krong Pinang District,0
+9590,ท้องถิ่นเทศบาลเมืองสะเตงนอก,Sateng Nok Town Municipality,0
+9591,ท้องถิ่นเทศบาลตำบลเขื่อนบางลาง,Khuean Bang Lang Sub-district Municipality,0
+9592,ท้องถิ่นเทศบาลตำบลโกตาบารู,Kotabaru Sub-district Municipality,0
+9593,ท้องถิ่นเทศบาลตำบลเมืองรามันห์,Mueang Raman Sub-district Municipality,0
+9594,ท้องถิ่นเทศบาลตำบลยะหา,Yaha Sub-district Municipality,0
+9595,ท้องถิ่นเทศบาลตำบลคอกช้าง,Khokchang Sub-district Municipality,0
+9596,ท้องถิ่นเทศบาลตำบลบันนังสตา,Bannang Sata Sub-district Municipality,0
+9597,ท้องถิ่นเทศบาลตำบลลำใหม่,Lam Mai Sub-district Municipality,0
+9598,ท้องถิ่นเทศบาลเมืองเบตง,Betong Town Municipality,0
+9599,ท้องถิ่นเทศบาลนครยะลา,Yala City Municipality,0
+9600,จังหวัดนราธิวาส,Narathiwat Province,0
+9601,อำเภอเมืองนราธิวาส,Mueang Narathiwat District,0
+9602,อำเภอตากใบ,Tak Bai District,0
+9603,อำเภอบาเจาะ,Bacho District,0
+9604,อำเภอยี่งอ,Yi-ngo District,0
+9605,อำเภอระแงะ,Ra-ngae District,0
+9606,อำเภอรือเสาะ,Rueso District,0
+9607,อำเภอศรีสาคร,Si Sakhon District,0
+9608,อำเภอแว้ง,Waeng District,0
+9609,อำเภอสุคิริน,Sukhirin District,0
+9610,อำเภอสุไหงโกลก,Su-ngai Kolok District,0
+9611,อำเภอสุไหงปาดี,Su-ngai Padi District,0
+9612,อำเภอจะแนะ,Chanae District,0
+9613,อำเภอเจาะไอร้อง,Cho-airong District,0
+9686,ท้องถิ่นเทศบาลตำบลปะลุรู,Pa Lu Ru Sub-district Municipality,0
+9687,ท้องถิ่นเทศบาลตำบลสุคิริน,Sukhirin Sub-district Municipality,0
+9688,ท้องถิ่นเทศบาลตำบลแว้ง,Waeng Sub-district Municipality,0
+9689,ท้องถิ่นเทศบาลตำบลบูเก๊ะตา,Bu Ke Ta Sub-district Municipality,0
+9690,ท้องถิ่นเทศบาลตำบลศรีสาคร,Si Sakhon Sub-district Municipality,0
+9691,ท้องถิ่นเทศบาลตำบลรือเสาะ,Rueso Sub-district Municipality,0
+9692,ท้องถิ่นเทศบาลตำบลมะรือโบตก,Marue Bo Tok Sub-district Municipality,0
+9693,ท้องถิ่นเทศบาลตำบลตันหยงมัส,Tanyong Mat Sub-district Municipality,0
+9694,ท้องถิ่นเทศบาลตำบลยี่งอ,Yi-ngo Sub-district Municipality,0
+9695,ท้องถิ่นเทศบาลตำบลบาเจาะ,Bacho Sub-district Municipality,0
+9696,ท้องถิ่นเทศบาลตำบลต้นไทร,Ton Sai Sub-district Municipality,0
+9697,ท้องถิ่นเทศบาลเมืองตากใบ,Tak Bai Town Municipality,0
+9698,ท้องถิ่นเทศบาลเมืองสุไหงโกลก,Su-ngai Kolok Town Municipality,0
+9699,ท้องถิ่นเทศบาลเมืองนราธิวาส,Narathiwat Town Municipality,0
+,,,
+,,,
+* update 25660901,,,

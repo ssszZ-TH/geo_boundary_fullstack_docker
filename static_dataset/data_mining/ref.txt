@@ -1,0 +1,21 @@
+https://www.thepexcel.com/thailand-tambon-database/
+
+https://github.com/ThepExcel/download
+
+https://github.com/ThepExcel/download/blob/master/ThepExcel-Thailand-Tambon.xlsx
+
+เเต่ผมจะใช้ข้อมูลจังหวัด เเละรหัสอิงจากกรมการปกครอง
+คำเเนะนำจาก ดร.ศรายุทธ ฉายสุริยะ เปรียบเทียบกับ harry potter คือ อาจารย์สอน DADA
+
+https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/ccaa.php
+
+https://stat.bora.dopa.go.th/dload/table_desc.txt
+https://stat.bora.dopa.go.th/dload/ccaatt.xlsx
+https://stat.bora.dopa.go.th/dload/rcode.xlsx
+https://stat.bora.dopa.go.th/dload/trok.xlsx
+https://stat.bora.dopa.go.th/dload/soi.xlsx
+https://stat.bora.dopa.go.th/dload/thanon.xlsx
+https://stat.bora.dopa.go.th/dload/commu.xlsx
+
+ตัวช่วยเเปรง จาก clipboard txt ที่ copy มาจากหน้าเว็บ เป็น csv
+https://tableconvert.com/
