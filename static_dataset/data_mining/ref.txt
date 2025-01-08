@@ -19,3 +19,6 @@ https://stat.bora.dopa.go.th/dload/commu.xlsx
 
 ตัวช่วยเเปรง จาก clipboard txt ที่ copy มาจากหน้าเว็บ เป็น csv
 https://tableconvert.com/
+
+รหัสไปรษณีย์ จาก website ไปรษณีย์ไทย
+https://file.thailandpost.com/upload/content/_5e856abf6c77a.pdf

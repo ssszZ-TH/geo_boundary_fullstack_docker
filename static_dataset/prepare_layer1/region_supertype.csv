@@ -1,0 +1,6 @@
+,geo_id,geo_code,name,abbreviation,type_id
+0,251,region-142,Asia,142,10
+1,252,region-150,Europe,150,10
+3,253,region-2,Africa,2,10
+4,254,region-9,Oceania,9,10
+7,255,region-19,Americas,19,10
