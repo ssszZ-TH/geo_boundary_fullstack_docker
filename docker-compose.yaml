@@ -5,6 +5,7 @@ services:
     image: postgres:13
     volumes:
       - ./db-data:/var/lib/postgresql/data
+      - ./staticData:/staticData  # เพิ่ม Mount โฟลเดอร์ data
     environment:
       POSTGRES_DB: myapp
       POSTGRES_USER: user
