@@ -22,3 +22,51 @@ county
 
 \copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/county_suppertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.county(geo_id, state_id) from '/staticData/county_subtype.csv' DELIMITER ',' CSV HEADER;
+
+
+--------------- Adjust sequence for AUTO_INCREMENT to ensure proper next ID ------------------------
+คำสั่งนี้จะปรับ AUTO_INCREMENT ให้ถูกต้อง
+-----------------------
+
+docker compose exec db psql -U user -d myapp 
+
+ต่อไป
+
+DO $$
+DECLARE
+    seq RECORD;
+    tbl_name TEXT;
+    col_name TEXT;
+    max_val BIGINT;
+BEGIN
+    FOR seq IN
+        SELECT
+            c.oid::regclass::text AS seq_name,
+            t.relname AS table_name,
+            a.attname AS column_name
+        FROM
+            pg_class c
+        JOIN pg_namespace n ON n.oid = c.relnamespace
+        JOIN pg_depend d ON d.objid = c.oid
+        JOIN pg_class t ON t.oid = d.refobjid
+        JOIN pg_attribute a ON a.attnum = d.refobjsubid AND a.attrelid = t.oid
+        WHERE
+            c.relkind = 'S'
+            AND n.nspname = 'public'
+    LOOP
+        EXECUTE format('SELECT COALESCE(MAX(%I), 0) FROM %I', seq.column_name, seq.table_name)
+        INTO max_val;
+
+        EXECUTE format('SELECT setval(%L, %s)', seq.seq_name, GREATEST(max_val, 1));
+    END LOOP;
+END $$;
+
+
+สาเหตุที่ต้องปรับ auto AUTO_INCREMENT index ให้เป็น max +1 เพราะว่า
+
+คำสั่งที่ไว้ดู table ทุกตัว
+
+SELECT table_schema, table_name
+FROM information_schema.tables
+WHERE table_type = 'BASE TABLE' AND table_schema NOT IN ('pg_catalog', 'information_schema')
+ORDER BY table_schema, table_name;
