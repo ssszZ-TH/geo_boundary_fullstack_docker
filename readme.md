@@ -4,7 +4,7 @@ project ของผมคือการร้อยเรียงจาก da
 ### Architecture
 ALL NEW PHP เป็นการนำ php ที่เป็นภาษาเก่าเเก่เเต่ทรงอนุภาค มาติดอาวุธที่ทันสมัย อย่างเช่น postgresql React+Ts เเละ Laravel framework ที่มาครอบ PHP อีกชั้นนึงเพื่อความสดวก
 
-![architecture](./note/architecture.jpg)
+![architecture](./note_for_backend//architecture.jpg)
 
 ตามจริงมี nginx เป็น load balancer ด้วยเเต่ผมไม่รู้จะเอามาใส่ตรงใหนของ diagram ผมเลยไม่ใส่
 
