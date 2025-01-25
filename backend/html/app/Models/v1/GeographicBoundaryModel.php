@@ -14,7 +14,8 @@ class GeographicBoundaryModel extends Model
     protected $primaryKey = 'geo_id';
     protected $fillable = [
         'geo_code',
-        'name',
+        'name_en',
+        'name_th',
         'abbreviation',
         'type_id'
     ];

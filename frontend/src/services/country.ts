@@ -3,15 +3,23 @@
 import axios from 'axios';
 
 const BASE_URL = 'http://localhost:8080/api/v1';
+const defultTypeId = 1;
 
 // Function to create a new country
-export const createCountry = async (geoCode: string, name: string, abbreviation: string, typeId: number = 1) => {
+export const createCountry = async (
+  geoCode: string,
+  name_en: string,
+  name_th: string,
+  abbreviation: string,
+  type_id: number = defultTypeId
+) => {
   // Step 1: Insert data into supertype
   const supertypeResponse = await axios.post(`${BASE_URL}/geographic_boundary`, {
     geo_code: geoCode,
-    name: name,
+    name_en: name_en,
+    name_th: name_th,
     abbreviation: abbreviation,
-    type_id: typeId,
+    type_id: type_id,
   });
 
   // Extract geo_id from the supertype response
@@ -43,16 +51,18 @@ export const getCountryById = async (geoId: number) => {
 export const updateCountry = async (
   geoId: number,
   geoCode: string,
-  name: string,
+  name_en: string,
+  name_th: string,
   abbreviation: string,
-  typeId: number = 1
+  type_id: number = defultTypeId
 ) => {
   // Step 1: Update data in the supertype
   const supertypeResponse = await axios.put(`${BASE_URL}/geographic_boundary/${geoId}`, {
     geo_code: geoCode,
-    name: name,
+    name_en: name_en,
+    name_th: name_th,
     abbreviation: abbreviation,
-    type_id: typeId,
+    type_id: type_id,
   });
 
   // Step 2: Update data in the subtype

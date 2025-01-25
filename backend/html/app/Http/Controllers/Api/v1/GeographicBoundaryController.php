@@ -30,7 +30,8 @@ class GeographicBoundaryController extends Controller
         try {
             $request->validate([
                 'geo_code' => 'nullable|string|max:50',
-                'name' => 'required|string|max:255',
+                'name_en' => 'required|string|max:255',
+                'name_th' => 'required|string|max:255',
                 'abbreviation' => 'nullable|string|max:50',
                 'type_id' => 'required|integer|exists:geographic_boundary_type,type_id',
             ]);
@@ -70,7 +71,8 @@ class GeographicBoundaryController extends Controller
         try {
             $request->validate([
                 'geo_code' => 'nullable|string|max:50',
-                'name' => 'required|string|max:255',
+                'name_en' => 'required|string|max:255',
+                'name_th' => 'required|string|max:255',
                 'abbreviation' => 'nullable|string|max:50',
                 'type_id' => 'required|integer|exists:geographic_boundary_type,type_id',
             ]);
