@@ -1,6 +1,8 @@
+docker compose exec db psql -U user -d myapp
+
 country
 
-\copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/country_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/country_suppertype_en_th.csv' DELIMITER ',' CSV HEADER;
 \copy public.country(geo_id) from '/staticData/country_subtype.csv' DELIMITER ',' CSV HEADER ;
 
 postalcode

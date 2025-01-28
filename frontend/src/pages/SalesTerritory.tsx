@@ -22,8 +22,13 @@ function SalesTerritory() {
       width: 150,
     },
     {
-      field: "name",
+      field: "name_en",
       headerName: "Name",
+      width: 300,
+    },
+    {
+      field: "name_th",
+      headerName: "ชื่อ",
       width: 300,
     },
     {
@@ -67,7 +72,8 @@ function SalesTerritory() {
   const [initialDetail, setInitialDetail] = useState({
     geo_id: null,
     geo_code: "",
-    name: "",
+    name_en: "",
+    name_th: "",
     abbreviation: "",
   });
 
@@ -94,7 +100,8 @@ function SalesTerritory() {
     geo_id: number,
     boundary: {
       geo_code: string,
-      name: string,
+      name_en: string,
+      name_th: string,
       abbreviation: string,
     }
   }
@@ -106,7 +113,8 @@ function SalesTerritory() {
       return {
         geo_id: obj.geo_id || null,
         geo_code: "",
-        name: "",
+        name_en: "",
+        name_th: "",
         abbreviation: "-",
       };
     }
@@ -114,7 +122,8 @@ function SalesTerritory() {
     return {
       geo_id: obj.geo_id,
       geo_code: obj.boundary.geo_code || "",
-      name: obj.boundary.name || "",
+      name_en: obj.boundary.name_en || "",
+      name_th: obj.boundary.name_th || "",
       abbreviation: obj.boundary.abbreviation || "-",
     };
   };
@@ -171,7 +180,8 @@ function SalesTerritory() {
     setInitialDetail({
       geo_id: null,
       geo_code: "",
-      name: "",
+      name_en: "",
+      name_th: "",
       abbreviation: "",
     });
     setOpenModalFor("")
@@ -180,7 +190,8 @@ function SalesTerritory() {
   interface typeOfUpdatedCountry {
     geo_id: number;
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
   }
 
@@ -194,7 +205,8 @@ function SalesTerritory() {
         await updateCountry (
           updatedCountry.geo_id,
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
         );
         console.log("Updated Country:", updatedCountry);
@@ -203,7 +215,8 @@ function SalesTerritory() {
         // ถ้าไม่มี geo_id แสดงว่าต้องสร้างใหม่
         await createCountry(
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
         );
         console.log("Created Country:", updatedCountry);
@@ -222,7 +235,7 @@ function SalesTerritory() {
 
   return (
     <>
-      <AppBarCustom title="CRUD Country" />
+      <AppBarCustom title="CRUD sales territory" />
 
       {loading ? (
         <Loading /> // แสดง loading component ถ้ากำลังโหลด

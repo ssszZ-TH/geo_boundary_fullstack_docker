@@ -1,0 +1,18 @@
+country standard
+
+https://gisportal.exat.co.th/exatPortalHosting/document/KM-CopIT-GDM.pdf
+
+
+
+กรมที่ดินใช้ระบบ gis
+
+https://www.dla.go.th/work/e_book/eb8/eb8_1/13.pdf
+
+
+วิธีการออกเเบบ gis
+
+https://www.geeksforgeeks.org/how-to-design-databases-for-geographical-information-systems/
+
+https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/an-overview-of-geodatabase-design.htm
+
+https://developers.google.com/maps/documentation/geocoding/overview
