@@ -22,7 +22,12 @@ function Territory() {
       width: 150,
     },
     {
-      field: "name",
+      field: "name_en",
+      headerName: "Name",
+      width: 300,
+    },
+    {
+      field: "name_th",
       headerName: "Name",
       width: 300,
     },
@@ -72,7 +77,8 @@ function Territory() {
   const [initialDetail, setInitialDetail] = useState({
     geo_id: null,
     geo_code: "",
-    name: "",
+    name_en: "",
+    name_th: "",
     abbreviation: "",
     countryId: 0,
   });
@@ -83,7 +89,8 @@ function Territory() {
   interface typeOfMuiRow {
     geo_id: number | null;
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
     countryId: number;
   }
@@ -109,7 +116,8 @@ function Territory() {
     country_id: number;
     boundary: {
       geo_code: string;
-      name: string;
+      name_en: string;
+      name_th: string;
       abbreviation: string;
     };
     get_country: {
@@ -124,7 +132,8 @@ function Territory() {
       return {
         geo_id: obj.geo_id || null,
         geo_code: "",
-        name: "",
+        name_en: "",
+        name_th: "",
         abbreviation: "",
         countryId: 0,
       };
@@ -133,7 +142,8 @@ function Territory() {
     return {
       geo_id: obj.geo_id,
       geo_code: obj.boundary.geo_code || "",
-      name: obj.boundary.name || "",
+      name_en: obj.boundary.name || "",
+      name_th: obj.boundary.name || "",
       abbreviation: obj.boundary.abbreviation || "-",
       countryId: obj.get_country.geo_id,
     };
@@ -189,7 +199,8 @@ function Territory() {
     setInitialDetail({
       geo_id: null,
       geo_code: "",
-      name: "",
+      name_en: "",
+      name_th: "",
       abbreviation: "",
       countryId: 0,
     });
@@ -199,7 +210,8 @@ function Territory() {
   interface typeOfUpdatedCountry {
     geo_id: number;
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
     countryId: number;
   }
@@ -213,7 +225,8 @@ function Territory() {
         await updateCountry(
           updatedCountry.geo_id,
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
           updatedCountry.countryId,
         );
@@ -223,7 +236,8 @@ function Territory() {
         // ถ้าไม่มี geo_id แสดงว่าต้องสร้างใหม่
         await createCountry(
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
           updatedCountry.countryId,
         );
