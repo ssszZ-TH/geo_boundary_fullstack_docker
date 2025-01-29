@@ -16,7 +16,8 @@ import { getAllCountries as getAllCities } from "../services/city";
 interface typeOfStateData {
   geo_id: number | null;
   geo_code: string;
-  name: string;
+  name_en: string;
+  name_th: string;
   abbreviation: string | null;
   countyId: number;
   cityId: number;
@@ -61,13 +62,15 @@ export default function CountyCityModal({
   interface typeOfRawCity {
     geo_id: number;
     boundary: {
-      name: string;
+      name_en: string;
+      name_th: string;
     };
   }
   interface typeOfRawCounty {
     geo_id: number;
     boundary: {
-      name: string;
+      name_en: string;
+      name_th: string;
     };
   }
 
@@ -77,7 +80,7 @@ export default function CountyCityModal({
     const stateList = response.map((item: typeOfRawCounty): typeOfoption => {
       return {
         id: item.geo_id,
-        text: item.boundary.name,
+        text: item.boundary.name_en + " - " + item.boundary.name_th,
       };
     });
     setCountyList(stateList);
@@ -89,7 +92,7 @@ export default function CountyCityModal({
     const stateList = response.map((item: typeOfRawCity): typeOfoption => {
       return {
         id: item.geo_id,
-        text: item.boundary.name,
+        text: item.boundary.name_en + " - " + item.boundary.name_th,
       };
     });
     setCityList(stateList);
@@ -104,7 +107,8 @@ export default function CountyCityModal({
   const [formData, setFormData] = useState<typeOfStateData>({
     geo_id: null,
     geo_code: "",
-    name: "",
+    name_en: "",
+    name_th: "",
     abbreviation: "",
     countyId: 0,
     cityId: 0,
@@ -151,8 +155,16 @@ export default function CountyCityModal({
         />
         <TextField
           label="Name"
-          name="name"
-          value={formData.name}
+          name="name_en"
+          value={formData.name_en}
+          onChange={handleChange}
+          fullWidth
+          margin="normal"
+        />
+        <TextField
+          label="ชื่อ"
+          name="name_th"
+          value={formData.name_th}
           onChange={handleChange}
           fullWidth
           margin="normal"

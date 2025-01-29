@@ -22,8 +22,13 @@ function CountyCity() {
       width: 150,
     },
     {
-      field: "name",
+      field: "name_en",
       headerName: "Name",
+      width: 300,
+    },
+    {
+      field: "name_th",
+      headerName: "ชื่อ",
       width: 300,
     },
     {
@@ -77,7 +82,8 @@ function CountyCity() {
   const [initialDetail, setInitialDetail] = useState({
     geo_id: null,
     geo_code: "",
-    name: "",
+    name_en: "",
+    name_th: "",
     abbreviation: "",
     stateId: 0,
   });
@@ -110,7 +116,8 @@ function CountyCity() {
     boundary: {
       geo_id: number;
       geo_code: string;
-      name: string;
+      name_en: string;
+      name_th: string;
       abbreviation: string;
       type_id: number;
     };
@@ -128,7 +135,8 @@ function CountyCity() {
   interface typeOfMuiRow {
     geo_id: number | null;
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
     countyId: number;
     cityId: number;
@@ -139,7 +147,8 @@ function CountyCity() {
     return {
       geo_id: obj.geo_id,
       geo_code: obj.boundary.geo_code || "",
-      name: obj.boundary.name || "",
+      name_en: obj.boundary.name_en || "",
+      name_th: obj.boundary.name_th || "",
       abbreviation: obj.boundary.abbreviation || "",
       countyId: obj.get_county.geo_id,
       cityId: obj.get_city.geo_id,
@@ -196,7 +205,8 @@ function CountyCity() {
     setInitialDetail({
       geo_id: null,
       geo_code: "",
-      name: "",
+      name_en: "",
+      name_th: "",
       abbreviation: "",
       stateId: 0
     });
@@ -206,7 +216,8 @@ function CountyCity() {
   interface typeOfCountyCityPayload {
     geo_id: number;
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
     countyId: number;
     cityId: number;
@@ -222,7 +233,8 @@ function CountyCity() {
         await updateCountry (
           updatedCountry.geo_id,
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
           updatedCountry.countyId,
           updatedCountry.cityId,
@@ -233,7 +245,8 @@ function CountyCity() {
         // ถ้าไม่มี geo_id แสดงว่าต้องสร้างใหม่
         await createCountry(
           updatedCountry.geo_code,
-          updatedCountry.name,
+          updatedCountry.name_en,
+          updatedCountry.name_th,
           updatedCountry.abbreviation || "",
           updatedCountry.countyId,
           updatedCountry.cityId,

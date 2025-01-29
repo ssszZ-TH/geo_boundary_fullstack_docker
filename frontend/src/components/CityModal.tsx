@@ -15,7 +15,8 @@ import { getAllCountries as getAllStates } from "../services/state";
 interface typeOfStateData {
   geo_id: number | null;
   geo_code: string;
-  name: string;
+  name_en: string;
+  name_th: string;
   abbreviation: string | null;
   stateId: number;
 }
@@ -57,11 +58,13 @@ export default function CityModal({
     geo_id: number;
     boundary: {
       geo_code: string;
-      name: string;
+      name_en: string;
+      name_th: string;
       abbreviation: string;
     };
     geo_code: string;
-    name: string;
+    name_en: string;
+    name_th: string;
     abbreviation: string;
     get_state: {
       geo_id: number;
@@ -74,7 +77,7 @@ export default function CityModal({
   ): Array<optionState> => {
     return states.map((state: any) => ({
       id: state.geo_id,
-      text: state.boundary.name,
+      text: state.boundary.name_en+' - '+ state.boundary.name_th,
     }));
   };
 
@@ -90,7 +93,8 @@ export default function CityModal({
   const [formData, setFormData] = useState<typeOfStateData>({
     geo_id: null,
     geo_code: "",
-    name: "",
+    name_en: "",
+    name_th: "",
     abbreviation: "",
     stateId: 0,
   });
@@ -136,8 +140,16 @@ export default function CityModal({
         />
         <TextField
           label="Name"
-          name="name"
-          value={formData.name}
+          name="name_en"
+          value={formData.name_en}
+          onChange={handleChange}
+          fullWidth
+          margin="normal"
+        />
+        <TextField
+          label="ชื่อ"
+          name="name_th"
+          value={formData.name_th}
           onChange={handleChange}
           fullWidth
           margin="normal"
