@@ -1,0 +1,78 @@
+geo_id,geo_code,name_en,name_th,abbreviation,type_id
+1419,state-TH-10000000,Bangkok,กรุงเทพมหานคร,BKK,3
+1420,state-TH-11000000,Samut Prakan,สมุทรปราการ,SPK,3
+1421,state-TH-12000000,Nonthaburi,นนทบุรี,NBI,3
+1422,state-TH-13000000,Pathum Thani,ปทุมธานี,PTE,3
+1423,state-TH-14000000,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,AYA,3
+1424,state-TH-15000000,Ang Thong,อ่างทอง,ATG,3
+1425,state-TH-16000000,Loburi,ลพบุรี,LRI,3
+1426,state-TH-17000000,Sing Buri,สิงห์บุรี,SBR,3
+1427,state-TH-18000000,Chai Nat,ชัยนาท,CNT,3
+1428,state-TH-19000000,Saraburi,สระบุรี,SRI,3
+1429,state-TH-20000000,Chon Buri,ชลบุรี,CBI,3
+1430,state-TH-21000000,Rayong,ระยอง,RYG,3
+1431,state-TH-22000000,Chanthaburi,จันทบุรี,CTI,3
+1432,state-TH-23000000,Trat,ตราด,TRT,3
+1433,state-TH-24000000,Chachoengsao,ฉะเชิงเทรา,CCO,3
+1434,state-TH-25000000,Prachin Buri,ปราจีนบุรี,PRI,3
+1435,state-TH-26000000,Nakhon Nayok,นครนายก,NYK,3
+1436,state-TH-27000000,Sa Kaeo,สระแก้ว,SKW,3
+1437,state-TH-30000000,Nakhon Ratchasima,นครราชสีมา,NMA,3
+1438,state-TH-31000000,Buri Ram,บุรีรัมย์,BRM,3
+1439,state-TH-32000000,Surin,สุรินทร์,SRN,3
+1440,state-TH-33000000,Si Sa Ket,ศรีสะเกษ,SSK,3
+1441,state-TH-34000000,Ubon Ratchathani,อุบลราชธานี,UBN,3
+1442,state-TH-35000000,Yasothon,ยโสธร,YST,3
+1443,state-TH-36000000,Chaiyaphum,ชัยภูมิ,CPM,3
+1444,state-TH-37000000,Amnat Charoen,อำนาจเจริญ,ACR,3
+1445,state-TH-38000000,buogkan,บึงกาฬ,BKN,3
+1446,state-TH-39000000,Nong Bua Lam Phu,หนองบัวลำภู,NBP,3
+1447,state-TH-40000000,Khon Kaen,ขอนแก่น,KKN,3
+1448,state-TH-41000000,Udon Thani,อุดรธานี,UDN,3
+1449,state-TH-42000000,Loei,เลย,LEI,3
+1450,state-TH-43000000,Nong Khai,หนองคาย,NKI,3
+1451,state-TH-44000000,Maha Sarakham,มหาสารคาม,MKM,3
+1452,state-TH-45000000,Roi Et,ร้อยเอ็ด,RET,3
+1453,state-TH-46000000,Kalasin,กาฬสินธุ์,KSN,3
+1454,state-TH-47000000,Sakon Nakhon,สกลนคร,SNK,3
+1455,state-TH-48000000,Nakhon Phanom,นครพนม,NPM,3
+1456,state-TH-49000000,Mukdahan,มุกดาหาร,MDH,3
+1457,state-TH-50000000,Chiang Mai,เชียงใหม่,CMI,3
+1458,state-TH-51000000,Lamphun,ลำพูน,LPN,3
+1459,state-TH-52000000,Lampang,ลำปาง,LPG,3
+1460,state-TH-53000000,Uttaradit,อุตรดิตถ์,UTT,3
+1461,state-TH-54000000,Phrae,แพร่,PRE,3
+1462,state-TH-55000000,Nan,น่าน,NAN,3
+1463,state-TH-56000000,Phayao,พะเยา,PYO,3
+1464,state-TH-57000000,Chiang Rai,เชียงราย,CRI,3
+1465,state-TH-58000000,Mae Hong Son,แม่ฮ่องสอน,MSN,3
+1466,state-TH-60000000,Nakhon Sawan,นครสวรรค์,NSN,3
+1467,state-TH-61000000,Uthai Thani,อุทัยธานี,UTI,3
+1468,state-TH-62000000,Kamphaeng Phet,กำแพงเพชร,KPT,3
+1469,state-TH-63000000,Tak,ตาก,TAK,3
+1470,state-TH-64000000,Sukhothai,สุโขทัย,STI,3
+1471,state-TH-65000000,Phitsanulok,พิษณุโลก,PLK,3
+1472,state-TH-66000000,Phichit,พิจิตร,PCT,3
+1473,state-TH-67000000,Phetchabun,เพชรบูรณ์,PNB,3
+1474,state-TH-70000000,Ratchaburi,ราชบุรี,RBR,3
+1475,state-TH-71000000,Kanchanaburi,กาญจนบุรี,KRI,3
+1476,state-TH-72000000,Suphan Buri,สุพรรณบุรี,SPB,3
+1477,state-TH-73000000,Nakhon Pathom,นครปฐม,NPT,3
+1478,state-TH-74000000,Samut Sakhon,สมุทรสาคร,SKN,3
+1479,state-TH-75000000,Samut Songkhram,สมุทรสงคราม,SKM,3
+1480,state-TH-76000000,Phetchaburi,เพชรบุรี,PBI,3
+1481,state-TH-77000000,Prachuap Khiri Khan,ประจวบคีรีขันธ์,PKN,3
+1482,state-TH-80000000,Nakhon Si Thammarat,นครศรีธรรมราช,NST,3
+1483,state-TH-81000000,Krabi,กระบี่,KBI,3
+1484,state-TH-82000000,Phangnga,พังงา,PNA,3
+1485,state-TH-83000000,Phuket,ภูเก็ต,PKT,3
+1486,state-TH-84000000,Surat Thani,สุราษฎร์ธานี,SNI,3
+1487,state-TH-85000000,Ranong,ระนอง,RNG,3
+1488,state-TH-86000000,Chumphon,ชุมพร,CPN,3
+1489,state-TH-90000000,Songkhla,สงขลา,SKA,3
+1490,state-TH-91000000,Satun,สตูล,STN,3
+1491,state-TH-92000000,Trang,ตรัง,TRG,3
+1492,state-TH-93000000,Phatthalung,พัทลุง,PLG,3
+1493,state-TH-94000000,Pattani,ปัตตานี,PTN,3
+1494,state-TH-95000000,Yala,ยะลา,YLA,3
+1495,state-TH-96000000,Narathiwat,นราธิวาส,NWT,3
