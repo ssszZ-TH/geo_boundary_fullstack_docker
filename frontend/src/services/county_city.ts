@@ -5,7 +5,7 @@ import axios from 'axios';
 const BASE_URL = 'http://localhost:8080/api/v1';
 const SUBTYPE_URL = `${BASE_URL}/county_city`;
 const SUPERTYPE_URL = `${BASE_URL}/geographic_boundary`;
-const defultTypeId = 5;
+const defultTypeId = 12;
 
 // Function to create a new country
 export const createCountry = async (
