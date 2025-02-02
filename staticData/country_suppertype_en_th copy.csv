@@ -1,0 +1,250 @@
+geo_id,geo_code,name_en,name_th,abbreviation,type_id
+1,AF,Afghanistan,อัฟกานิสถาน,AF,1
+2,AX,Åland Islands,หมู่เกาะโอลันด์,AX,1
+3,AL,Albania,แอลเบเนีย,AL,1
+4,DZ,Algeria,แอลจีเรีย,DZ,1
+5,AS,American Samoa,อเมริกันซามัว,AS,1
+6,AD,Andorra,อันดอร์รา,AD,1
+7,AO,Angola,แองโกลา,AO,1
+8,AI,Anguilla,แองกวิลลา,AI,1
+9,AQ,Antarctica,แอนตาร์กติกา,AQ,1
+10,AG,Antigua and Barbuda,แอนติกาและบาร์บูดา,AG,1
+11,AR,Argentina,อาร์เจนตินา,AR,1
+12,AM,Armenia,อาร์มีเนีย,AM,1
+13,AW,Aruba,อารูบา,AW,1
+14,AU,Australia,ออสเตรเลีย,AU,1
+15,AT,Austria,ออสเตรีย,AT,1
+16,AZ,Azerbaijan,อาเซอร์ไบจาน,AZ,1
+17,BS,Bahamas,บาฮามาส,BS,1
+18,BH,Bahrain,บาห์เรน,BH,1
+19,BD,Bangladesh,บังกลาเทศ,BD,1
+20,BB,Barbados,บาร์เบโดส,BB,1
+21,BY,Belarus,เบลารุส,BY,1
+22,BE,Belgium,เบลเยียม,BE,1
+23,BZ,Belize,เบลีซ,BZ,1
+24,BJ,Benin,เบนิน,BJ,1
+25,BM,Bermuda,เบอร์มิวดา,BM,1
+26,BT,Bhutan,ภูฏาน,BT,1
+27,BO,Bolivia,โบลิเวีย,BO,1
+28,BQ,"Bonaire, Sint Eustatius and Saba",เนเธอร์แลนด์แคริบเบียน,BQ,1
+29,BA,Bosnia and Herzegovina,บอสเนียและเฮอร์เซโกวีนา,BA,1
+30,BW,Botswana,บอตสวานา,BW,1
+31,BV,Bouvet Island,เกาะบูเวต์,BV,1
+32,BR,Brazil,บราซิล,BR,1
+33,IO,British Indian Ocean Territory,บริติชอินเดียนโอเชียนเทร์ริทอรี,IO,1
+34,BN,Brunei Darussalam,บรูไน,BN,1
+35,BG,Bulgaria,บัลแกเรีย,BG,1
+36,BF,Burkina Faso,บูร์กินาฟาโซ,BF,1
+37,BI,Burundi,บุรุนดี,BI,1
+38,CV,Cabo Verde,กาบูเวร์ดี,CV,1
+39,KH,Cambodia,กัมพูชา,KH,1
+40,CM,Cameroon,แคเมอรูน,CM,1
+41,CA,Canada,แคนาดา,CA,1
+42,KY,Cayman Islands,หมู่เกาะเคย์แมน,KY,1
+43,CF,Central African Republic,สาธารณรัฐแอฟริกากลาง,CF,1
+44,TD,Chad,ชาด,TD,1
+45,CL,Chile,ชิลี,CL,1
+46,CN,China,จีน,CN,1
+47,CX,Christmas Island,เกาะคริสต์มาส,CX,1
+48,CC,Cocos (Keeling) Islands,หมู่เกาะโคโคส,CC,1
+49,CO,Colombia,โคลอมเบีย,CO,1
+50,KM,Comoros,คอโมโรส,KM,1
+51,CG,Republic of the Congo,สาธารณรัฐคองโก,CG,1
+52,CD,Democratic Republic of the Congo,สาธารณรัฐประชาธิปไตยคองโก,CD,1
+53,CK,Cook Islands,หมู่เกาะคุก,CK,1
+54,CR,Costa Rica,คอสตาริกา,CR,1
+55,CI,Côte d'Ivoire,โกตดิวัวร์,CI,1
+56,HR,Croatia,โครเอเชีย,HR,1
+57,CU,Cuba,คิวบา,CU,1
+58,CW,Curaçao,กือราเซา,CW,1
+59,CY,Cyprus,ไซปรัส,CY,1
+60,CZ,Czech Republic,เช็กเกีย,CZ,1
+61,DK,Denmark,เดนมาร์ก,DK,1
+62,DJ,Djibouti,จิบูตี,DJ,1
+63,DM,Dominica,ดอมินีกา,DM,1
+64,DO,Dominican Republic,สาธารณรัฐโดมินิกัน,DO,1
+65,EC,Ecuador,เอกวาดอร์,EC,1
+66,EG,Egypt,อียิปต์,EG,1
+67,SV,El Salvador,เอลซัลวาดอร์,SV,1
+68,GQ,Equatorial Guinea,อิเควทอเรียลกินี,GQ,1
+69,ER,Eritrea,เอริเทรีย,ER,1
+70,EE,Estonia,เอสโตเนีย,EE,1
+71,SZ,Swaziland,สวาซิแลนด์,SZ,1
+72,ET,Ethiopia,เอธิโอเปีย,ET,1
+73,FK,Falkland Islands,หมู่เกาะฟอล์กแลนด์,FK,1
+74,FO,Faroe Islands,หมู่เกาะแฟโร,FO,1
+75,FJ,Fiji,ฟีจี,FJ,1
+76,FI,Finland,ฟินแลนด์,FI,1
+77,FR,France,ฝรั่งเศส,FR,1
+78,GF,French Guiana,เฟรนช์เกียนา,GF,1
+79,PF,French Polynesia,เฟรนช์พอลินีเชีย,PF,1
+80,TF,French Southern Territories,เฟรนช์เซาเทิร์นและแอนตาร์กติกแลนดส์,TF,1
+81,GA,Gabon,กาบอง,GA,1
+82,GM,Gambia,แกมเบีย,GM,1
+83,GE,Georgia,จอร์เจีย,GE,1
+84,DE,Germany,เยอรมนี,DE,1
+85,GH,Ghana,กานา,GH,1
+86,GI,Gibraltar,ยิบรอลตาร์,GI,1
+87,GR,Greece,กรีซ,GR,1
+88,GL,Greenland,กรีนแลนด์,GL,1
+89,GD,Grenada,เกรเนดา,GD,1
+90,GP,Guadeloupe,กัวเดอลุป,GP,1
+91,GU,Guam,กวม,GU,1
+92,GT,Guatemala,กัวเตมาลา,GT,1
+93,GG,Guernsey,เกิร์นซีย์,GG,1
+94,GN,Guinea,กินี,GN,1
+95,GW,Guinea-Bissau,กินี-บิสเซา,GW,1
+96,GY,Guyana,กายอานา,GY,1
+97,HT,Haiti,เฮติ,HT,1
+98,HM,Heard Island and McDonald Islands,เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์,HM,1
+99,VA,Vatican City State,นครรัฐวาติกัน,VA,1
+100,HN,Honduras,ฮอนดูรัส,HN,1
+101,HK,Hong Kong,ฮ่องกง,HK,1
+102,HU,Hungary,ฮังการี,HU,1
+103,IS,Iceland,ไอซ์แลนด์,IS,1
+104,IN,India,อินเดีย,IN,1
+105,ID,Indonesia,อินโดนีเซีย,ID,1
+106,IR,Iran,อิหร่าน,IR,1
+107,IQ,Iraq,อิรัก,IQ,1
+108,IE,Ireland,ไอร์แลนด์,IE,1
+109,IM,Isle of Man,ไอล์ออฟแมน,IM,1
+110,IL,Israel,อิสราเอล,IL,1
+111,IT,Italy,อิตาลี,IT,1
+112,JM,Jamaica,จาเมกา,JM,1
+113,JP,Japan,ญี่ปุ่น,JP,1
+114,JE,Jersey,เจอร์ซีย์,JE,1
+115,JO,Jordan,จอร์แดน,JO,1
+116,KZ,Kazakhstan,คาซัคสถาน,KZ,1
+117,KE,Kenya,เคนยา,KE,1
+118,KI,Kiribati,คิริบาส,KI,1
+119,KP,North Korea,เกาหลีเหนือ,KP,1
+120,KR,South Korea,เกาหลีใต้,KR,1
+121,KW,Kuwait,คูเวต,KW,1
+122,KG,Kyrgyzstan,คีร์กีซสถาน,KG,1
+123,LA,Laos,ลาว,LA,1
+124,LV,Latvia,ลัตเวีย,LV,1
+125,LB,Lebanon,เลบานอน,LB,1
+126,LS,Lesotho,เลโซโท,LS,1
+127,LR,Liberia,ไลบีเรีย,LR,1
+128,LY,Libya,ลิเบีย,LY,1
+129,LI,Liechtenstein,ลิกเตนสไตน์,LI,1
+130,LT,Lithuania,ลิทัวเนีย,LT,1
+131,LU,Luxembourg,ลักเซมเบิร์ก,LU,1
+132,MO,Macao,มาเก๊า,MO,1
+133,MG,Madagascar,มาดากัสการ์,MG,1
+134,MW,Malawi,มาลาวี,MW,1
+135,MY,Malaysia,มาเลเซีย,MY,1
+136,MV,Maldives,มัลดีฟส์,MV,1
+137,ML,Mali,มาลี,ML,1
+138,MT,Malta,มอลตา,MT,1
+139,MH,Marshall Islands,หมู่เกาะมาร์แชลล์,MH,1
+140,MQ,Martinique,มาร์ตีนิก,MQ,1
+141,MR,Mauritania,มอริเตเนีย,MR,1
+142,MU,Mauritius,มอริเชียส,MU,1
+143,YT,Mayotte,มายอต,YT,1
+144,MX,Mexico,เม็กซิโก,MX,1
+145,FM,Micronesia,ไมโครนีเซีย,FM,1
+146,MD,Moldova,มอลโดวา,MD,1
+147,MC,Monaco,โมนาโก,MC,1
+148,MN,Mongolia,มองโกเลีย,MN,1
+149,ME,Montenegro,มอนเตเนโกร,ME,1
+150,MS,Montserrat,มอนต์เซอร์รัต,MS,1
+151,MA,Morocco,โมร็อกโก,MA,1
+152,MZ,Mozambique,โมซัมบิก,MZ,1
+153,MM,Myanmar,พม่า,MM,1
+154,NA,Namibia,นามิเบีย,NA,1
+155,NR,Nauru,นาอูรู,NR,1
+156,NP,Nepal,เนปาล,NP,1
+157,NL,Netherlands,เนเธอร์แลนด์,NL,1
+158,NC,New Caledonia,นิวแคลิโดเนีย,NC,1
+159,NZ,New Zealand,นิวซีแลนด์,NZ,1
+160,NI,Nicaragua,นิการากัว,NI,1
+161,NE,Niger,ไนเจอร์,NE,1
+162,NG,Nigeria,ไนจีเรีย,NG,1
+163,NU,Niue,นีวเว,NU,1
+164,NF,Norfolk Island,เกาะนอร์ฟอล์ก,NF,1
+165,MK,North Macedonia,นอร์ทมาซิโดเนีย,MK,1
+166,MP,Northern Mariana Islands,หมู่เกาะนอร์เทิร์นมาเรียนา,MP,1
+167,NO,Norway,นอร์เวย์,NO,1
+168,OM,Oman,โอมาน,OM,1
+169,PK,Pakistan,ปากีสถาน,PK,1
+170,PW,Palau,ปาเลา,PW,1
+171,PS,Palestine,ปาเลสไตน์,PS,1
+172,PA,Panama,ปานามา,PA,1
+173,PG,Papua New Guinea,ปาปัวนิวกินี,PG,1
+174,PY,Paraguay,ปารากวัย,PY,1
+175,PE,Peru,เปรู,PE,1
+176,PH,Philippines,ฟิลิปปินส์,PH,1
+177,PN,Pitcairn,หมู่เกาะพิตแคร์น,PN,1
+178,PL,Poland,โปแลนด์,PL,1
+179,PT,Portugal,โปรตุเกส,PT,1
+180,PR,Puerto Rico,ปวยร์โตรีโก,PR,1
+181,QA,Qatar,กาตาร์,QA,1
+182,RE,Réunion,เรอูว์นียง,RE,1
+183,RO,Romania,โรมาเนีย,RO,1
+184,RU,Russian Federation,รัสเซีย,RU,1
+185,RW,Rwanda,รวันดา,RW,1
+186,BL,Saint Barthélemy,แซงบาร์เตเลมี,BL,1
+187,SH,"Saint Helena, Ascension and Tristan da Cunha",เซนต์เฮเลนา,SH,1
+188,KN,Saint Kitts and Nevis,เซนต์คิตส์และเนวิส,KN,1
+189,LC,Saint Lucia,เซนต์ลูเชีย,LC,1
+190,MF,Saint Martin,แซงมาร์แตง,MF,1
+191,PM,Saint Pierre and Miquelon,แซงปีแยร์และมีเกอลง,PM,1
+192,VC,Saint Vincent and the Grenadines,เซนต์วินเซนต์และเกรนาดีนส์,VC,1
+193,WS,Samoa,ซามัว,WS,1
+194,SM,San Marino,ซานมารีโน,SM,1
+195,ST,Sao Tome and Principe,เซาตูเมและปรินซีปี,ST,1
+196,SA,Saudi Arabia,ซาอุดีอาระเบีย,SA,1
+197,SN,Senegal,เซเนกัล,SN,1
+198,RS,Serbia,เซอร์เบีย,RS,1
+199,SC,Seychelles,เซเชลส์,SC,1
+200,SL,Sierra Leone,เซียร์ราลีโอน,SL,1
+201,SG,Singapore,สิงคโปร์,SG,1
+202,SX,Sint Maarten,ซินต์มาร์เติน,SX,1
+203,SK,Slovakia,สโลวาเกีย,SK,1
+204,SI,Slovenia,สโลวีเนีย,SI,1
+205,SB,Solomon Islands,หมู่เกาะโซโลมอน,SB,1
+206,SO,Somalia,โซมาเลีย,SO,1
+207,ZA,South Africa,แอฟริกาใต้,ZA,1
+208,GS,South Georgia and the South Sandwich Islands,เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช,GS,1
+209,SS,South Sudan,เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช,SS,1
+210,ES,Spain,สเปน,ES,1
+211,LK,Sri Lanka,ศรีลังกา,LK,1
+212,SD,Sudan,ซูดาน,SD,1
+213,SR,Suriname,ซูรินาม,SR,1
+214,SJ,Svalbard and Jan Mayen,สฟาลบาร์และยานไมเอน,SJ,1
+215,SE,Sweden,สวีเดน,SE,1
+216,CH,Switzerland,สวิตเซอร์แลนด์,CH,1
+217,SY,Syrian Arab Republic,ซีเรีย,SY,1
+218,TW,Taiwan,ไต้หวัน,TW,1
+219,TJ,Tajikistan,ทาจิกิสถาน,TJ,1
+220,TZ,Tanzania,แทนซาเนีย,TZ,1
+221,TH,Thailand,ไทย,TH,1
+222,TL,Timor-Leste,ติมอร์-เลสเต,TL,1
+223,TG,Togo,โตโก,TG,1
+224,TK,Tokelau,โทเคอเลา,TK,1
+225,TO,Tonga,ตองงา,TO,1
+226,TT,Trinidad and Tobago,ตรินิแดดและโตเบโก,TT,1
+227,TN,Tunisia,ตูนิเซีย,TN,1
+228,TR,Turkey,ตุรกี,TR,1
+229,TM,Turkmenistan,เติร์กเมนิสถาน,TM,1
+230,TC,Turks and Caicos Islands,หมู่เกาะเติกส์และเคคอส,TC,1
+231,TV,Tuvalu,ตูวาลู,TV,1
+232,UG,Uganda,ยูกันดา,UG,1
+233,UA,Ukraine,ยูเครน,UA,1
+234,AE,United Arab Emirates,สหรัฐอาหรับเอมิเรตส์,AE,1
+235,GB,United Kingdom of Great Britain and Northern Ireland,สหราชอาณาจักร,GB,1
+236,US,United States of America,สหรัฐ,US,1
+237,UM,United States Minor Outlying Islands,เกาะเล็กรอบนอกของสหรัฐอเมริกา,UM,1
+238,UY,Uruguay,อุรุกวัย,UY,1
+239,UZ,Uzbekistan,อุซเบกิสถาน,UZ,1
+240,VU,Vanuatu,วานูวาตู,VU,1
+241,VE,Venezuela,เวเนซุเอลา,VE,1
+242,VN,Vietnam,เวียดนาม,VN,1
+243,VG,British Virgin Islands,หมู่เกาะบริติชเวอร์จิน,VG,1
+244,VI,United States Virgin Islands,หมู่เกาะเวอร์จินของสหรัฐอเมริกา,VI,1
+245,WF,Wallis and Futuna,วาลิสและฟูตูนา,WF,1
+246,EH,Western Sahara,ซาฮาราตะวันตก,EH,1
+247,YE,Yemen,เยเมน,YE,1
+248,ZM,Zambia,แซมเบีย,ZM,1
+249,ZW,Zimbabwe,ซิมบับเว,ZW,1
