@@ -2,28 +2,39 @@ docker compose exec db psql -U user -d myapp
 
 country
 
-\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/country_suppertype_en_th.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/country_suppertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.country(geo_id) from '/staticData/country_subtype.csv' DELIMITER ',' CSV HEADER ;
 
 postalcode
+ต้องเพิ่มภาษา en th
 
-\copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/postalcode_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_th, abbreviation, type_id) from '/staticData/postalcode_suppertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.postal_code(geo_id, country_id) from '/staticData/postalcode_subtype.csv' DELIMITER ',' CSV HEADER;
 
 region
 
-\copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/region_supertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/region_supertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.region(geo_id) from '/staticData/region_subtype.csv' DELIMITER ',' CSV HEADER;
 
 state
 
-\copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/state_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/state_suppertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.state(geo_id, country_id) from '/staticData/state_subtype.csv' DELIMITER ',' CSV HEADER;
 
 county
 
-\copy public.geographic_boundary(geo_id, geo_code, name, abbreviation, type_id) from '/staticData/county_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/county_suppertype.csv' DELIMITER ',' CSV HEADER;
 \copy public.county(geo_id, state_id) from '/staticData/county_subtype.csv' DELIMITER ',' CSV HEADER;
+
+city
+
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/city_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.city(geo_id, state_id) from '/staticData/city_subtype.csv' DELIMITER ',' CSV HEADER;
+
+county_city
+
+\copy public.geographic_boundary(geo_id, geo_code, name_en, name_th, abbreviation, type_id) from '/staticData/county_city_suppertype.csv' DELIMITER ',' CSV HEADER;
+\copy public.county_city(geo_id, county_id, city_id) from '/staticData/county_city_subtype.csv' DELIMITER ',' CSV HEADER;
 
 
 --------------- Adjust sequence for AUTO_INCREMENT to ensure proper next ID ------------------------

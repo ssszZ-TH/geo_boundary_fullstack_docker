@@ -18,6 +18,7 @@ const Territory = lazy(() => import("./pages/Territory"));
 
 const Home = lazy(() => import("./pages/Home"));
 const About = lazy(() => import("./pages/About"));
+const DynamicDropdown = lazy(() => import("./pages/DynamicDropdown"));
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -38,6 +39,7 @@ createRoot(document.getElementById("root")!).render(
 
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
+          <Route path="/dynamic_dropdown" element={<DynamicDropdown />} />
           {/* สามารถเพิ่ม Route อื่น ๆ ได้ที่นี่ */}
         </Routes>
       </Suspense>
