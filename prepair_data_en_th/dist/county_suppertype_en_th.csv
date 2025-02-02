@@ -1,54 +1,54 @@
 geo_id,geo_code,name_en,name_th,abbreviation,type_id
-1496,10010000,Khet Phra Nakhon,เขตพระนคร,-,5
-1497,10020000,Khet Dusit,เขตดุสิต,-,5
-1498,10030000,Khet Nong Chok,เขตหนองจอก,-,5
-1499,10040000,Khet Bang Rak,เขตบางรัก,-,5
-1500,10050000,Khet Bang Khen,เขตบางเขน,-,5
-1501,10060000,Khet Bang Kapi,เขตบางกะปิ,-,5
-1502,10070000,Khet Pathum Wan,เขตปทุมวัน,-,5
-1503,10080000,Khet Pom Prap Sattru Phai,เขตป้อมปราบศัตรูพ่าย,-,5
-1504,10090000,Khet Phra Khanong,เขตพระโขนง,-,5
-1505,10100000,Khet Min Buri,เขตมีนบุรี,-,5
-1506,10110000,Khet Lat Krabang,เขตลาดกระบัง,-,5
-1507,10120000,Khet Yan Nawa,เขตยานนาวา,-,5
-1508,10130000,Khet Samphanthawong,เขตสัมพันธวงศ์,-,5
-1509,10140000,Khet Phaya Thai,เขตพญาไท,-,5
-1510,10150000,Khet Thon Buri,เขตธนบุรี,-,5
-1511,10160000,Khet Bangkok Yai,เขตบางกอกใหญ่,-,5
-1512,10170000,Khet Huai Khwang,เขตห้วยขวาง,-,5
-1513,10180000,Khet Khlong San,เขตคลองสาน,-,5
-1514,10190000,Khet Taling Chan,เขตตลิ่งชัน,-,5
-1515,10200000,Khet Bangkok Noi,เขตบางกอกน้อย,-,5
-1516,10210000,Khet Bang Khun Thian,เขตบางขุนเทียน,-,5
-1517,10220000,Khet Phasi Charoen,เขตภาษีเจริญ,-,5
-1518,10230000,Khet Nong Khaem,เขตหนองแขม,-,5
-1519,10240000,Khet Rat Burana,เขตราษฎร์บูรณะ,-,5
-1520,10250000,Khet Bang Phlat,เขตบางพลัด,-,5
-1521,10260000,Khet Din Daeng,เขตดินแดง,-,5
-1522,10270000,Khet Bueng Kum,เขตบึงกุ่ม,-,5
-1523,10280000,Khet Sathon,เขตสาทร,-,5
-1524,10290000,Khet Bang Sue,เขตบางซื่อ,-,5
-1525,10300000,Khet Chatuchak,เขตจตุจักร,-,5
-1526,10310000,Khet Bang Kho Laem,เขตบางคอแหลม,-,5
-1527,10320000,Khet Prawet,เขตประเวศ,-,5
-1528,10330000,Khet Khlong Toei,เขตคลองเตย,-,5
-1529,10340000,Khet Suan Luang,เขตสวนหลวง,-,5
-1530,10350000,Khet Chom Thong,เขตจอมทอง,-,5
-1531,10360000,Khet Don Mueang,เขตดอนเมือง,-,5
-1532,10370000,Khet Ratchathewi,เขตราชเทวี,-,5
-1533,10380000,Khet Lat Phrao,เขตลาดพร้าว,-,5
-1534,10390000,Khet Watthana,เขตวัฒนา,-,5
-1535,10400000,Khet Bang Khae,เขตบางแค,-,5
-1536,10410000,Khet Lak Si,เขตหลักสี่,-,5
-1537,10420000,Khet Sai Mai,เขตสายไหม,-,5
-1538,10430000,Khet Khan Na Yao,เขตคันนายาว,-,5
-1539,10440000,Khet Saphan Sung,เขตสะพานสูง,-,5
-1540,10450000,Khet Wang Thonglang,เขตวังทองหลาง,-,5
-1541,10460000,Khet Khlong Sam Wa,เขตคลองสามวา,-,5
-1542,10470000,Khet Bang Na,เขตบางนา,-,5
-1543,10480000,Khet Thawi Watthana,เขตทวีวัฒนา,-,5
-1544,10490000,Khet Thung Khru,เขตทุ่งครุ,-,5
-1545,10500000,Khet Bang Bon,เขตบางบอน,-,5
+1496,10010000,Phra Nakhon,เขตพระนคร,-,5
+1497,10020000,Dusit,เขตดุสิต,-,5
+1498,10030000,Nong Chok,เขตหนองจอก,-,5
+1499,10040000,Bang Rak,เขตบางรัก,-,5
+1500,10050000,Bang Khen,เขตบางเขน,-,5
+1501,10060000,Bang Kapi,เขตบางกะปิ,-,5
+1502,10070000,Pathum Wan,เขตปทุมวัน,-,5
+1503,10080000,Pom Prap Sattru Phai,เขตป้อมปราบศัตรูพ่าย,-,5
+1504,10090000,Phra Khanong,เขตพระโขนง,-,5
+1505,10100000,Min Buri,เขตมีนบุรี,-,5
+1506,10110000,Lat Krabang,เขตลาดกระบัง,-,5
+1507,10120000,Yan Nawa,เขตยานนาวา,-,5
+1508,10130000,Samphanthawong,เขตสัมพันธวงศ์,-,5
+1509,10140000,Phaya Thai,เขตพญาไท,-,5
+1510,10150000,Thon Buri,เขตธนบุรี,-,5
+1511,10160000,Bangkok Yai,เขตบางกอกใหญ่,-,5
+1512,10170000,Huai Khwang,เขตห้วยขวาง,-,5
+1513,10180000,Khlong San,เขตคลองสาน,-,5
+1514,10190000,Taling Chan,เขตตลิ่งชัน,-,5
+1515,10200000,Bangkok Noi,เขตบางกอกน้อย,-,5
+1516,10210000,Bang Khun Thian,เขตบางขุนเทียน,-,5
+1517,10220000,Phasi Charoen,เขตภาษีเจริญ,-,5
+1518,10230000,Nong Khaem,เขตหนองแขม,-,5
+1519,10240000,Rat Burana,เขตราษฎร์บูรณะ,-,5
+1520,10250000,Bang Phlat,เขตบางพลัด,-,5
+1521,10260000,Din Daeng,เขตดินแดง,-,5
+1522,10270000,Bueng Kum,เขตบึงกุ่ม,-,5
+1523,10280000,Sathon,เขตสาทร,-,5
+1524,10290000,Bang Sue,เขตบางซื่อ,-,5
+1525,10300000,Chatuchak,เขตจตุจักร,-,5
+1526,10310000,Bang Kho Laem,เขตบางคอแหลม,-,5
+1527,10320000,Prawet,เขตประเวศ,-,5
+1528,10330000,Khlong Toei,เขตคลองเตย,-,5
+1529,10340000,Suan Luang,เขตสวนหลวง,-,5
+1530,10350000,Chom Thong,เขตจอมทอง,-,5
+1531,10360000,Don Mueang,เขตดอนเมือง,-,5
+1532,10370000,Ratchathewi,เขตราชเทวี,-,5
+1533,10380000,Lat Phrao,เขตลาดพร้าว,-,5
+1534,10390000,Vadhana,เขตวัฒนา,-,5
+1535,10400000,Bang Khae,เขตบางแค,-,5
+1536,10410000,Lak Si,เขตหลักสี่,-,5
+1537,10420000,Sai Mai,เขตสายไหม,-,5
+1538,10430000,Khan Na Yao,เขตคันนายาว,-,5
+1539,10440000,Saphan Sung,เขตสะพานสูง,-,5
+1540,10450000,Wang Thonglang,เขตวังทองหลาง,-,5
+1541,10460000,Khlong Sam Wa,เขตคลองสามวา,-,5
+1542,10470000,Bang Na,เขตบางนา,-,5
+1543,10480000,Thawi Watthana,เขตทวีวัฒนา,-,5
+1544,10490000,Thung Khru,เขตทุ่งครุ,-,5
+1545,10500000,Bang Bon,เขตบางบอน,-,5
 1546,11010000,Mueang Samut Prakan,เมืองสมุทรปราการ,-,5
 1547,11020000,Bang Bo,บางบ่อ,-,5
 1548,11030000,Bang Phli,บางพลี,-,5
@@ -80,7 +80,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1574,14100000,Lat Bua Luang,ลาดบัวหลวง,-,5
 1575,14110000,Wang Noi,วังน้อย,-,5
 1576,14120000,Sena,เสนา,-,5
-1577,14130000,Bang Sai,บางซ้าย,-,5
+1577,14130000,Bang Saai,บางซ้าย,-,5
 1578,14140000,Uthai,อุทัย,-,5
 1579,14150000,Maha Rat,มหาราช,-,5
 1580,14160000,Ban Phraek,บ้านแพรก,-,5
@@ -129,10 +129,6 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1623,19110000,Muak Lek,มวกเหล็ก,-,5
 1624,19120000,Wang Muang,วังม่วง,-,5
 1625,19130000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1625,19130000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1625,19130000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1625,19130000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1625,19130000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 1626,20010000,Mueang Chon Buri,เมืองชลบุรี,-,5
 1627,20020000,Ban Bueng,บ้านบึง,-,5
 1628,20030000,Nong Yai,หนองใหญ่,-,5
@@ -161,7 +157,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1651,22070000,Soi Dao,สอยดาว,-,5
 1652,22080000,Kaeng Hang Maeo,แก่งหางแมว,-,5
 1653,22090000,Na Yai Am,นายายอาม,-,5
-1654,22100000,Khoa Khitchakut,เขาคิชฌกูฏ,-,5
+1654,22100000,Khao Khitchakut,เขาคิชฌกูฏ,-,5
 1655,23010000,Mueang Trat,เมืองตราด,-,5
 1656,23020000,Khlong Yai,คลองใหญ่,-,5
 1657,23030000,Khao Saming,เขาสมิง,-,5
@@ -221,7 +217,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1711,30190000,Kham Thale So,ขามทะเลสอ,-,5
 1712,30200000,Sikhio,สีคิ้ว,-,5
 1713,30210000,Pak Chong,ปากช่อง,-,5
-1714,30220000,Nong Bunnak,หนองบุญมาก,-,5
+1714,30220000,Nong Bun Mak,หนองบุญมาก,-,5
 1715,30230000,Kaeng Sanam Nang,แก้งสนามนาง,-,5
 1716,30240000,Non Daeng,โนนแดง,-,5
 1717,30250000,Wang Nam Khiao,วังน้ำเขียว,-,5
@@ -231,10 +227,6 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1721,30290000,Lam Thamenchai,ลำทะเมนชัย,-,5
 1722,30300000,Bua Lai,บัวลาย,-,5
 1723,30310000,Sida,สีดา,-,5
-1724,30320000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1724,30320000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1724,30320000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1724,30320000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 1724,30320000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 1725,31010000,Mueang Buri Ram,เมืองบุรีรัมย์,-,5
 1726,31020000,Khu Mueang,คูเมือง,-,5
@@ -255,13 +247,9 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1741,31170000,Non Suwan,โนนสุวรรณ,-,5
 1742,31180000,Chamni,ชำนิ,-,5
 1743,31190000,Ban Mai Chaiyaphot,บ้านใหม่ไชยพจน์,-,5
-1744,31200000,Din Daeng,โนนดินแดง,-,5
+1744,31200000,Non Din Daeng,โนนดินแดง,-,5
 1745,31210000,Ban Dan,บ้านด่าน,-,5
 1746,31220000,Khaen Dong,แคนดง,-,5
-1747,31230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1747,31230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1747,31230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-1747,31230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 1747,31230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 1748,32010000,Mueang Surin,เมืองสุรินทร์,-,5
 1749,32020000,Chumphon Buri,ชุมพลบุรี,-,5
@@ -284,7 +272,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1766,33020000,Yang Chum Noi,ยางชุมน้อย,-,5
 1767,33030000,Kanthararom,กันทรารมย์,-,5
 1768,33040000,Kantharalak,กันทรลักษ์,-,5
-1769,33050000,Khukhan,ขุขันธ์,-,5
+1769,33050000,KhuKhan,ขุขันธ์,-,5
 1770,33060000,Phrai Bueng,ไพรบึง,-,5
 1771,33070000,Prang Ku,ปรางค์กู่,-,5
 1772,33080000,Khun Han,ขุนหาญ,-,5
@@ -418,7 +406,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1900,41220000,Na Yung,นายูง,-,5
 1901,41230000,Phibun Rak,พิบูลย์รักษ์,-,5
 1902,41240000,Ku Kaeo,กู่แก้ว,-,5
-1903,41250000,rachak-sinlapakhom,ประจักษ์ศิลปาคม,-,5
+1903,41250000,Prachaksinlapakhom,ประจักษ์ศิลปาคม,-,5
 1904,42010000,Mueang Loei,เมืองเลย,-,5
 1905,42020000,Na Duang,นาด้วง,-,5
 1906,42030000,Chiang Khan,เชียงคาน,-,5
@@ -446,13 +434,13 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1928,44020000,Kae Dam,แกดำ,-,5
 1929,44030000,Kosum Phisai,โกสุมพิสัย,-,5
 1930,44040000,Kantharawichai,กันทรวิชัย,-,5
-1931,44050000,Kantharawichai,เชียงยืน,-,5
+1931,44050000,Chiang Yuen,เชียงยืน,-,5
 1932,44060000,Borabue,บรบือ,-,5
 1933,44070000,Na Chueak,นาเชือก,-,5
 1934,44080000,Phayakkhaphum Phisai,พยัคฆภูมิพิสัย,-,5
 1935,44090000,Wapi Pathum,วาปีปทุม,-,5
 1936,44100000,Na Dun,นาดูน,-,5
-1937,44110000,Yang Sisurat,ยางสีสุราช,-,5
+1937,44110000,Yang Si Surat,ยางสีสุราช,-,5
 1938,44120000,Kut Rang,กุดรัง,-,5
 1939,44130000,Chuen Chom,ชื่นชม,-,5
 1940,45010000,Mueang Roi Et,เมืองร้อยเอ็ด,-,5
@@ -474,7 +462,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1956,45170000,Changhan,จังหาร,-,5
 1957,45180000,Chiang Khwan,เชียงขวัญ,-,5
 1958,45190000,Nong Hi,หนองฮี,-,5
-1959,45200000,Thung Khao Luangกิ่,ทุ่งเขาหลวง,-,5
+1959,45200000,Thung Khao Luang,ทุ่งเขาหลวง,-,5
 1960,46010000,Mueang Kalasin,เมืองกาฬสินธุ์,-,5
 1961,46020000,Na Mon,นามน,-,5
 1962,46030000,Kamalasai,กมลาไสย,-,5
@@ -516,7 +504,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 1998,48030000,Tha Uthen,ท่าอุเทน,-,5
 1999,48040000,Ban Phaeng,บ้านแพง,-,5
 2000,48050000,That Phanom,ธาตุพนม,-,5
-2001,48060000,Renu Nakhon,เรณูนคร,-,5
+2001,48060000,Renu NaKhon,เรณูนคร,-,5
 2002,48070000,Na Kae,นาแก,-,5
 2003,48080000,Si Songkhram,ศรีสงคราม,-,5
 2004,48090000,Na Wa,นาหว้า,-,5
@@ -527,14 +515,14 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2009,49020000,Nikhom Kham Soi,นิคมคำสร้อย,-,5
 2010,49030000,Don Tan,ดอนตาล,-,5
 2011,49040000,Dong Luang,ดงหลวง,-,5
-2012,49050000,Khamcha-i,คำชะอี,-,5
+2012,49050000,Khamcha-I,คำชะอี,-,5
 2013,49060000,Wan Yai,หว้านใหญ่,-,5
 2014,49070000,Nong Sung,หนองสูง,-,5
 2015,50010000,Mueang Chiang Mai,เมืองเชียงใหม่,-,5
 2016,50020000,Chom Thong,จอมทอง,-,5
 2017,50030000,Mae Chaem,แม่แจ่ม,-,5
 2018,50040000,Chiang Dao,เชียงดาว,-,5
-2019,50050000,Doi Saket,ดอยสะเก็ด,-,5
+2019,50050000,Doi SaKet,ดอยสะเก็ด,-,5
 2020,50060000,Mae Taeng,แม่แตง,-,5
 2021,50070000,Mae Rim,แม่ริม,-,5
 2022,50080000,Samoeng,สะเมิง,-,5
@@ -554,7 +542,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2036,50220000,Mae Wang,แม่วาง,-,5
 2037,50230000,Mae On,แม่ออน,-,5
 2038,50240000,Doi Lo,ดอยหล่อ,-,5
-2039,50250000,,กัลยาณิวัฒนา,-,5
+2039,50250000,Galyani Vadhana,กัลยาณิวัฒนา,-,5
 2040,51010000,Mueang Lamphun,เมืองลำพูน,-,5
 2041,51020000,Mae Tha,แม่ทา,-,5
 2042,51030000,Ban Hong,บ้านโฮ่ง,-,5
@@ -608,10 +596,6 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2090,55130000,Song Khwae,สองแคว,-,5
 2091,55140000,Phu Phiang,ภูเพียง,-,5
 2092,55150000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2092,55150000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2092,55150000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2092,55150000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2092,55150000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 2093,56010000,Mueang Phayao,เมืองพะเยา,-,5
 2094,56020000,Chun,จุน,-,5
 2095,56030000,Chiang Kham,เชียงคำ,-,5
@@ -653,10 +637,10 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2131,60050000,Banphot Phisai,บรรพตพิสัย,-,5
 2132,60060000,Kao Liao,เก้าเลี้ยว,-,5
 2133,60070000,Takhli,ตาคลี,-,5
-2134,60080000,Takhli,ท่าตะโก,-,5
+2134,60080000,Tha Tako,ท่าตะโก,-,5
 2135,60090000,Phaisali,ไพศาลี,-,5
 2136,60100000,Phayuha Khiri,พยุหะคีรี,-,5
-2137,60110000,Phayuha Khiri,ลาดยาว,-,5
+2137,60110000,Lat Yao,ลาดยาว,-,5
 2138,60120000,Tak Fa,ตากฟ้า,-,5
 2139,60130000,Mae Wong,แม่วงก์,-,5
 2140,60140000,Mae Poen,แม่เปิน,-,5
@@ -677,7 +661,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2155,62060000,Phran Kratai,พรานกระต่าย,-,5
 2156,62070000,Lan Krabue,ลานกระบือ,-,5
 2157,62080000,Sai Thong Watthana,ทรายทองวัฒนา,-,5
-2158,62090000,Pang Sila Thong,ปางศิลาทอง,-,5
+2158,62090000,Pang SiLa Thong,ปางศิลาทอง,-,5
 2159,62100000,Bueng Samakkhi,บึงสามัคคี,-,5
 2160,62110000,Kosamphi Nakhon,โกสัมพีนคร,-,5
 2161,63010000,Mueang Tak,เมืองตาก,-,5
@@ -714,11 +698,11 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2192,66050000,Bang Mun Nak,บางมูลนาก,-,5
 2193,66060000,Pho Thale,โพทะเล,-,5
 2194,66070000,Sam Ngam,สามง่าม,-,5
-2195,66080000,Tap Khlo,ทับคล้อ,-,5
+2195,66080000,Thap Khlo,ทับคล้อ,-,5
 2196,66090000,Sak Lek,สากเหล็ก,-,5
 2197,66100000,Bueng Na Rang,บึงนาราง,-,5
 2198,66110000,Dong Charoen,ดงเจริญ,-,5
-2199,66120000,Wachirabarami,วชิรบารมี,-,5
+2199,66120000,Vajira Barami,วชิรบารมี,-,5
 2200,67010000,Mueang Phetchabun,เมืองเพชรบูรณ์,-,5
 2201,67020000,Chon Daen,ชนแดน,-,5
 2202,67030000,Lom Sak,หล่มสัก,-,5
@@ -746,7 +730,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2224,71040000,Si Sawat,ศรีสวัสดิ์,-,5
 2225,71050000,Tha Maka,ท่ามะกา,-,5
 2226,71060000,Tha Muang,ท่าม่วง,-,5
-2227,71070000,Pha Phum,ทองผาภูมิ,-,5
+2227,71070000,Thong Pha Phum,ทองผาภูมิ,-,5
 2228,71080000,Sangkhla Buri,สังขละบุรี,-,5
 2229,71090000,Phanom Thuan,พนมทวน,-,5
 2230,71100000,Lao Khwan,เลาขวัญ,-,5
@@ -794,7 +778,7 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2272,77080000,Sam Roi Yot,สามร้อยยอด,-,5
 2273,80010000,Mueang Nakhon Si Thammarat,เมืองนครศรีธรรมราช,-,5
 2274,80020000,Phrom Khiri,พรหมคีรี,-,5
-2275,80030000,Lan Saka,ลานสกา,-,5
+2275,80030000,Lan SaKa,ลานสกา,-,5
 2276,80040000,Chawang,ฉวาง,-,5
 2277,80050000,Phipun,พิปูน,-,5
 2278,80060000,Chian Yai,เชียรใหญ่,-,5
@@ -814,10 +798,6 @@ geo_id,geo_code,name_en,name_th,abbreviation,type_id
 2292,80200000,Phra Phrom,พระพรหม,-,5
 2293,80210000,Nopphitam,นบพิตำ,-,5
 2294,80220000,Chang Klang,ช้างกลาง,-,5
-2295,80230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2295,80230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2295,80230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
-2295,80230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 2295,80230000,Chaloem Phra Kiat,เฉลิมพระเกียรติ,-,5
 2296,81010000,Mueang Krabi,เมืองกระบี่,-,5
 2297,81020000,Khao Phanom,เขาพนม,-,5
