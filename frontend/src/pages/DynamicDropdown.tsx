@@ -15,6 +15,8 @@ import {
 import { getAllCountries } from "../services/country";
 import Loading from "../components/Loading";
 import { getStateDD } from "../services/state";
+import { getCountyDD } from "../services/county";
+import { getCountyCityDD } from "../services/county_city";
 
 const style = {
   position: "absolute" as "absolute",
@@ -49,9 +51,11 @@ export default function DynamicDropdown() {
     }
     if (name === "stateId") {
       // dropdown state change
+      fetchCountyList(value);
     }
     if (name === "countyId") {
       // dropdown county change
+      fetchCountyCityList(value);
     }
   };
 
@@ -99,6 +103,7 @@ export default function DynamicDropdown() {
     setCountryLoading(false);
   };
 
+  // dropdown อื่นๆ ก็ response เหมือนๆ กัน ก็เลยใช้ร่วมกันได้
   interface typeOfStateDDResponse {
     geo_id: number;
     name_en:string;
@@ -123,7 +128,7 @@ export default function DynamicDropdown() {
 
   const fetchCountyList = async (value: number) => {
     setCountyLoading(true);
-    const response = await getStateDD(value);
+    const response = await getCountyDD(value);
     // console.log("state list api = ", response);
     const data = response.data
     const countyList = data.map((item: typeOfStateDDResponse): typeOfoption  => {
@@ -134,6 +139,21 @@ export default function DynamicDropdown() {
     })
     setCountyList(countyList);
     setCountyLoading(false);
+  }
+
+  const fetchCountyCityList = async (value: number) => {
+    setCountyCityLoading(true);
+    const response = await getCountyCityDD(value);
+    // console.log("state list api = ", response);
+    const data = response.data
+    const countyCityList = data.map((item: typeOfStateDDResponse): typeOfoption  => {
+      return {
+        id: item.geo_id,
+        text: item.name_en+" - "+item.name_th,
+      };
+    })
+    setCountyCityList(countyCityList);
+    setCountyCityLoading(false);
   }
 
   useEffect(() => {
@@ -184,7 +204,7 @@ export default function DynamicDropdown() {
           </Select>
         </FormControl>)}
 
-        <FormControl fullWidth margin="normal">
+        {countyLoading?<Loading/>:(<FormControl fullWidth margin="normal">
           <InputLabel id="county-select-label">county</InputLabel>
           <Select
             labelId="county-select-label"
@@ -198,9 +218,9 @@ export default function DynamicDropdown() {
               </MenuItem>
             ))}
           </Select>
-        </FormControl>
+        </FormControl>)}
 
-        <FormControl fullWidth margin="normal">
+        {countyCityLoading?<Loading/>:(<FormControl fullWidth margin="normal">
           <InputLabel id="county-city-select-label">county city</InputLabel>
           <Select
             labelId="county-city-select-label"
@@ -214,7 +234,7 @@ export default function DynamicDropdown() {
               </MenuItem>
             ))}
           </Select>
-        </FormControl>
+        </FormControl>)}
         {/* <Button variant="contained" color="primary" onClick={handleSubmit}>
           Save
         </Button> */}
