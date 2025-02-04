@@ -89,6 +89,11 @@ export const deleteCountry = async (geoId: number) => {
   return response.data;
 };
 
+export const getStateDD = async (country_id: number) => {
+  const response = await axios.get(`${SUBTYPE_URL}/dd/${country_id}`);
+  return response.data;
+};
+
 // Example usage comments:
 // createCountry('countrydemo1', 'testname1', 'TESTAB1', 1);
 // getAllCountries();

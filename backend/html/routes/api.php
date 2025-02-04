@@ -47,6 +47,7 @@ Route::apiResource('v1/service_territory',ServiceTerritoryController::class);
 Route::apiResource('v1/state',StateController::class);
 Route::apiResource('v1/territory',TerritoryController::class);
 
+Route::get('v1/state/dd/{id}', [StateController::class, 'stateDDByCountryId']);
 
 Route::get('v1/test', function () {
     return response()->json([

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import AppBarCustom from "../components/AppBarCustom";
 import {
   Modal,
@@ -11,6 +11,10 @@ import {
   InputLabel,
   FormControl,
 } from "@mui/material";
+
+import { getAllCountries } from "../services/country";
+import Loading from "../components/Loading";
+import { getStateDD } from "../services/state";
 
 const style = {
   position: "absolute" as "absolute",
@@ -25,56 +29,151 @@ const style = {
 
 export default function DynamicDropdown() {
   const [formData, setFormData] = useState<typeOfStateData>({
-    geo_id: null,
-    geo_code: "",
-    name_en: "",
-    name_th: "",
-    abbreviation: "",
+    countryId: 0,
+    stateId: 0,
     countyId: 0,
-    cityId: 0,
+    countyCityId: 0,
   });
+
   const handleChange = (
-    e: React.ChangeEvent<HTMLInputElement | { name?: string; value: unknown }>
+    e: React.ChangeEvent<HTMLInputElement | { name?: string; value: number|string }>
   ) => {
     const { name, value } = e.target;
+    // console.log('handle change recive', name, value);
+
     setFormData({ ...formData, [name]: value });
+
+    if (name === "countryId") {
+      // dropdown country change
+      fetchStatesList(value);
+    }
+    if (name === "stateId") {
+      // dropdown state change
+    }
+    if (name === "countyId") {
+      // dropdown county change
+    }
   };
 
-  const [countryList, setCountryList] = useState([{ id: 0, text: "Loading country" }]);
-  const [stateList, setStateList] = useState([{ id: 0, text: "Loading state" }]);
-  const [countyList, setCountyList] = useState([{ id: 0, text: "Loading county" }]);
-  const [countyCityList, setCountyCityList] = useState([{ id: 0, text: "Loading countycity" }]);
+  // print check formdata
+  useEffect(() => {
+    console.log("form data = ", formData);
+  }, [formData]);
+
+  const [countryList, setCountryList] = useState([{ id: 0, text: "" }]);
+  const [stateList, setStateList] = useState([{ id: 0, text: "" }]);
+  const [countyList, setCountyList] = useState([{ id: 0, text: "" }]);
+  const [countyCityList, setCountyCityList] = useState([{ id: 0, text: "" }]);
+
+  const [countryLoading, setCountryLoading] = useState(false);
+  const [stateLoading, setStateLoading] = useState(false);
+  const [countyLoading, setCountyLoading] = useState(false);
+  const [countyCityLoading, setCountyCityLoading] = useState(false);
+
+  interface typeOfRawCountry {
+    geo_id: number;
+    boundary: {
+      geo_code: string;
+      name_en: string;
+      name_th: string;
+      abbreviation: string;
+    };
+  }
+
+  interface typeOfoption {
+    id: number;
+    text: string;
+  }
+
+  const fetchCountriesList = async () => {
+    setCountryLoading(true);
+    const response = await getAllCountries();
+    // console.log("country list api = ", response);
+    const countryList = response.map((item: typeOfRawCountry): typeOfoption => {
+      return {
+        id: item.geo_id,
+        text: item.boundary.name_en + " - " + item.boundary.name_th,
+      };
+    });
+    setCountryList(countryList);
+    setCountryLoading(false);
+  };
+
+  interface typeOfStateDDResponse {
+    geo_id: number;
+    name_en:string;
+    name_th:string;
+    abbreviation:string;
+  }
+
+  const fetchStatesList = async (value:number) => {
+    setStateLoading(true);
+    const response = await getStateDD(value);
+    // console.log("state list api = ", response);
+    const data = response.data
+    const stateList = data.map((item: typeOfStateDDResponse): typeOfoption  => {
+      return {
+        id: item.geo_id,
+        text: item.name_en+" - "+item.name_th,
+      };
+    })
+    setStateList(stateList);
+    setStateLoading(false);
+  };
+
+  const fetchCountyList = async (value: number) => {
+    setCountyLoading(true);
+    const response = await getStateDD(value);
+    // console.log("state list api = ", response);
+    const data = response.data
+    const countyList = data.map((item: typeOfStateDDResponse): typeOfoption  => {
+      return {
+        id: item.geo_id,
+        text: item.name_en+" - "+item.name_th,
+      };
+    })
+    setCountyList(countyList);
+    setCountyLoading(false);
+  }
+
+  useEffect(() => {
+    fetchCountriesList();
+  }, []);
 
   return (
     <>
-      <AppBarCustom />
+      <AppBarCustom title={"dynamic dropdown"} />
       <Box sx={style}>
         <Typography variant="h6" component="h2">
           Dynamic Dropdown
         </Typography>
 
-        <FormControl fullWidth margin="normal">
-          <InputLabel id="county-select-label">county</InputLabel>
-          <Select
-            labelId="county-select-label"
-            name="countyId"
-            value={formData.countyId || ""}
-            onChange={handleChange}
-          >
-            {countryList.map((item) => (
-              <MenuItem key={item.id} value={item.id}>
-                {item.text}
-              </MenuItem>
-            ))}
-          </Select>
-        </FormControl>
+        {countryLoading ? (
+          <Loading />
+        ) : (
+          <FormControl fullWidth margin="normal">
+            <InputLabel id="county-select-label">country</InputLabel>
+            <Select
+              labelId="county-select-label"
+              name="countryId"
+              value={formData.countryId || ""}
+              onChange={handleChange}
+            >
+              {countryList.map((item) => (
+                <MenuItem key={item.id} value={item.id}>
+                  {item.text}
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+        )}
 
-        <FormControl fullWidth margin="normal">
-          <InputLabel id="county-select-label">county</InputLabel>
+        {stateLoading?<Loading/>:(<FormControl fullWidth margin="normal">
+          <InputLabel id="state-select-label">state</InputLabel>
           <Select
             labelId="county-select-label"
-            name="countyId"
-            value={formData.countyId || ""}
+            name="stateId"
+            value={formData.stateId || ""}
             onChange={handleChange}
           >
             {stateList.map((item) => (
@@ -83,7 +182,7 @@ export default function DynamicDropdown() {
               </MenuItem>
             ))}
           </Select>
-        </FormControl>
+        </FormControl>)}
 
         <FormControl fullWidth margin="normal">
           <InputLabel id="county-select-label">county</InputLabel>
@@ -102,11 +201,11 @@ export default function DynamicDropdown() {
         </FormControl>
 
         <FormControl fullWidth margin="normal">
-          <InputLabel id="city-select-label">city</InputLabel>
+          <InputLabel id="county-city-select-label">county city</InputLabel>
           <Select
-            labelId="city-select-label"
-            name="cityId"
-            value={formData.cityId || ""}
+            labelId="county-city-select-label"
+            name="countyCityId"
+            value={formData.countyCityId || ""}
             onChange={handleChange}
           >
             {countyCityList.map((item) => (
