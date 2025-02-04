@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 use App\Models\v1\CountyCityModel as Model;
 
+use Illuminate\Support\Facades\DB;
+
+
 class CountyCityController extends Controller
 {
     /**
@@ -104,5 +107,37 @@ class CountyCityController extends Controller
         return response()->json([
             'deleted_data' => $deletedData
         ], 200);
+    }
+    public function countyCityDDBycountyId($county_id)
+    {
+        try {
+            // ใช้ Native Query ดึงรายการ countycity ตาม county_id
+            $data = DB::select("
+            SELECT gb.geo_id, gb.name_en, gb.name_th, gb.abbreviation
+            FROM geographic_boundary gb
+            JOIN county_city s ON gb.geo_id = s.geo_id
+            WHERE s.county_id = ?
+            ORDER BY gb.name_en ASC
+        ", [$county_id]);
+
+            // ถ้าข้อมูลว่าง ให้ส่ง response 404
+            if (empty($data)) {
+                return response()->json([
+                    'status' => 'error',
+                    'message' => 'not found'
+                ], 404);
+            }
+
+            return response()->json([
+                'status' => 'success',
+                'data' => $data
+            ], 200);
+        } catch (\Exception $e) {
+            return response()->json([
+                'status' => 'error',
+                'message' => 'Something went wrong!',
+                'error' => $e->getMessage()
+            ], 500);
+        }
     }
 }

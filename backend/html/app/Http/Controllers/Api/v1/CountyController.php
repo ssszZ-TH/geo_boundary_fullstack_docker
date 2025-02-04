@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 use App\Models\v1\CountyModel as Model;
 
+use Illuminate\Support\Facades\DB;
+
 class CountyController extends Controller
 {
     /**
@@ -15,7 +17,7 @@ class CountyController extends Controller
     public function index()
     {
         //
-        $item = Model::with(['boundary','getState'])->get();
+        $item = Model::with(['boundary', 'getState'])->get();
 
         return response()->json($item, 200);
     }
@@ -49,7 +51,7 @@ class CountyController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with(['boundary','getState'])->findOrFail($id);
+        $item = Model::with(['boundary', 'getState'])->findOrFail($id);
         return response()->json($item);
     }
 
@@ -102,5 +104,38 @@ class CountyController extends Controller
         return response()->json([
             'deleted_data' => $deletedData
         ], 200);
+    }
+
+    public function countyDDByStateId($state_id)
+    {
+        try {
+            // ใช้ Native Query ดึงรายการ county ตาม state_id
+            $data = DB::select("
+            SELECT gb.geo_id, gb.name_en, gb.name_th, gb.abbreviation
+            FROM geographic_boundary gb
+            JOIN county s ON gb.geo_id = s.geo_id
+            WHERE s.state_id = ?
+            ORDER BY gb.name_en ASC
+        ", [$state_id]);
+
+            // ถ้าข้อมูลว่าง ให้ส่ง response 404
+            if (empty($data)) {
+                return response()->json([
+                    'status' => 'error',
+                    'message' => 'not found'
+                ], 404);
+            }
+
+            return response()->json([
+                'status' => 'success',
+                'data' => $data
+            ], 200);
+        } catch (\Exception $e) {
+            return response()->json([
+                'status' => 'error',
+                'message' => 'Something went wrong!',
+                'error' => $e->getMessage()
+            ], 500);
+        }
     }
 }

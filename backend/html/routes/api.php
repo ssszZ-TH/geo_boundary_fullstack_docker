@@ -48,6 +48,8 @@ Route::apiResource('v1/state',StateController::class);
 Route::apiResource('v1/territory',TerritoryController::class);
 
 Route::get('v1/state/dd/{id}', [StateController::class, 'stateDDByCountryId']);
+Route::get('v1/county/dd/{id}', [CountyController::class, 'countyDDByStateId']);
+Route::get('v1/county_city/dd/{id}', [CountyCityController::class, 'countyCityDDBycountyId']);
 
 Route::get('v1/test', function () {
     return response()->json([

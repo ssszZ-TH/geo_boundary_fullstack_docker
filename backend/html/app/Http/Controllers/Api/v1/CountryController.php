@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 use App\Models\v1\CountryModel as Model;
 
+
 class CountryController extends Controller
 {
     /**
@@ -102,4 +103,5 @@ class CountryController extends Controller
             'deleted_data' => $deletedData
         ], 200);
     }
+    
 }
