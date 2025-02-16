@@ -16,3 +16,6 @@ https://docs.google.com/presentation/d/1oNFU5xwg3WIrw60VAQ8mE4_KBbktYMX0/edit?us
 
 ### เนื้อหาเพิ่มเติม
 อยู่ใน /note/...
+
+### database schema
+![database schema](./diagram/database-db_version3.jpg)
