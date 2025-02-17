@@ -32,6 +32,24 @@ const TreeDiagram = () => {
                       province
                     </Link>
                   </code>
+                  <ul>
+                    <li>
+                      <code>
+                        <Link href="/district" underline="hover">
+                          district
+                        </Link>
+                      </code>
+                      <ul>
+                        <li>
+                          <code>
+                            <Link href="/sub_district" underline="hover">
+                              sub district
+                            </Link>
+                          </code>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
                 </li>
                 <li>
                   <code>

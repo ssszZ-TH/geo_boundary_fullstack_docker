@@ -78,6 +78,18 @@ CREATE TABLE COUNTY_CITY (
     city_id INT NOT NULL REFERENCES CITY(geo_id) ON DELETE CASCADE
 );
 
+-- Subtype:
+CREATE TABLE district (
+    geo_id INT PRIMARY KEY REFERENCES GEOGRAPHIC_BOUNDARY(geo_id) ON DELETE CASCADE,
+    province_id INT NOT NULL REFERENCES province(geo_id) ON DELETE CASCADE
+);
+
+-- Subtype: 
+CREATE TABLE sub_district (
+    geo_id INT PRIMARY KEY REFERENCES GEOGRAPHIC_BOUNDARY(geo_id) ON DELETE CASCADE,
+    district_id INT NOT NULL REFERENCES district(geo_id) ON DELETE CASCADE
+);
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 -- 1. Insert into GEOGRAPHIC_BOUNDARY_TYPE
