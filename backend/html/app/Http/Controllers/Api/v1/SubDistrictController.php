@@ -4,6 +4,8 @@ namespace App\Http\Controllers\Api\v1;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Validation\ValidationException;
+use App\Models\v1\SubDistrictModel as Model;
 
 class SubDistrictController extends Controller
 {
@@ -13,6 +15,9 @@ class SubDistrictController extends Controller
     public function index()
     {
         //
+        $item = Model::with(['boundary','province'])->get();
+
+        return response()->json($item, 200);
     }
 
     /**
@@ -21,6 +26,21 @@ class SubDistrictController extends Controller
     public function store(Request $request)
     {
         //
+        try {
+            $request->validate([
+                'geo_id' => 'required|integer',
+                'district_id' => 'required|integer',
+            ]);
+
+            $item = Model::create($request->all());
+
+            return response()->json($item, 201);
+        } catch (ValidationException $e) {
+            return response()->json([
+                'error' => 'Validation failed',
+                'messages' => $e->errors(),
+            ], 422);
+        }
     }
 
     /**
@@ -29,6 +49,8 @@ class SubDistrictController extends Controller
     public function show(string $id)
     {
         //
+        $item = Model::with(['boundary','district'])->findOrFail($id);
+        return response()->json($item);
     }
 
     /**
@@ -37,6 +59,29 @@ class SubDistrictController extends Controller
     public function update(Request $request, string $id)
     {
         //
+        $item = Model::find($id);
+        if (!$item) {
+            return response()->json(['error' => 'not found'], 404);
+        }
+        $originalData = $item->toArray();
+        try {
+            $request->validate([
+                'geo_id' => 'required|integer',
+                'district_id' => 'required|integer',
+            ]);
+
+            $item->update($request->all());
+
+            return response()->json([
+                'original_data' => $originalData,
+                'updated_data' => $item
+            ], 200);
+        } catch (ValidationException $e) {
+            return response()->json([
+                'error' => 'Validation failed',
+                'messages' => $e->errors(),
+            ], 422);
+        }
     }
 
     /**
@@ -45,5 +90,17 @@ class SubDistrictController extends Controller
     public function destroy(string $id)
     {
         //
+        $item = Model::find($id);
+        if (!$item) {
+            return response()->json(['error' => 'not found'], 404);
+        }
+        // เก็บข้อมูลก่อนลบ
+        $deletedData = $item->toArray();
+        // ลบข้อมูล
+        $item->delete();
+        // ส่งข้อมูลที่ถูกลบกลับไป
+        return response()->json([
+            'deleted_data' => $deletedData
+        ], 200);
     }
 }
