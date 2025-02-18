@@ -15,7 +15,7 @@ class SubDistrictController extends Controller
     public function index()
     {
         //
-        $item = Model::with(['boundary','province'])->get();
+        $item = Model::with(['boundary','district'])->get();
 
         return response()->json($item, 200);
     }

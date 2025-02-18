@@ -16,6 +16,9 @@ use App\Http\Controllers\Api\v1\SalesTerritoryController;
 use App\Http\Controllers\Api\v1\ServiceTerritoryController;
 use App\Http\Controllers\Api\v1\StateController;
 use App\Http\Controllers\Api\v1\TerritoryController;
+use App\Http\Controllers\Api\v1\DistrictController;
+use App\Http\Controllers\Api\v1\SubDistrictController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -46,6 +49,10 @@ Route::apiResource('v1/sales_territory',SalesTerritoryController::class);
 Route::apiResource('v1/service_territory',ServiceTerritoryController::class);
 Route::apiResource('v1/state',StateController::class);
 Route::apiResource('v1/territory',TerritoryController::class);
+
+Route::apiResource('v1/district',DistrictController::class);
+Route::apiResource('v1/sub_district',SubDistrictController::class);
+
 
 Route::get('v1/state/dd/{id}', [StateController::class, 'stateDDByCountryId']);
 Route::get('v1/county/dd/{id}', [CountyController::class, 'countyDDByStateId']);
