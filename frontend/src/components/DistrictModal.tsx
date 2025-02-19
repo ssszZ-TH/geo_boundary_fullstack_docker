@@ -104,7 +104,7 @@ function DistrictModal({
   });
 
   useEffect(() => {
-    console.log("set form initialDetail = ", initialDetail);
+    console.log("set modal initialDetail = ", initialDetail);
     setFormData(initialDetail);
   }, [initialDetail]);
 

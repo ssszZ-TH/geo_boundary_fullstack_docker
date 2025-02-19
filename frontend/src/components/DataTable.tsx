@@ -15,7 +15,7 @@ export default function DataTable({ columns, rows, getRowId }: DataTableProps) {
         rows={rows}
         columns={columns}
         initialState={{ pagination: { paginationModel } }}
-        pageSizeOptions={[5, 10, 20, 50, 100]}
+        pageSizeOptions={[5, 10, 20, 50, 100, 200]}
         // checkboxSelection
         sx={{ border: 0 }}
         getRowId={getRowId}

@@ -80,7 +80,7 @@ function District() {
     name_en: "",
     name_th: "",
     abbreviation: "",
-    provinceId: 0,
+    province_id: 0,
   });
 
   // เหตุผลในการเปิด modal มีเปิดเพื่อ อ่าน เปิด แก้ไข เปิดเพื่อสร้างข้อมูลใหม่
