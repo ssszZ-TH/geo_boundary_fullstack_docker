@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 use App\Models\v1\ProvinceModel as Model;
+use Illuminate\Support\Facades\DB;
 
 class ProvinceController extends Controller
 {
@@ -15,7 +16,7 @@ class ProvinceController extends Controller
     public function index()
     {
         //
-        $item = Model::with(['boundary','getCountry'])->get();
+        $item = Model::with(['boundary', 'getCountry'])->get();
 
         return response()->json($item, 200);
     }
@@ -49,7 +50,7 @@ class ProvinceController extends Controller
     public function show(string $id)
     {
         //
-        $item = Model::with(['boundary','getCountry'])->findOrFail($id);
+        $item = Model::with(['boundary', 'getCountry'])->findOrFail($id);
         return response()->json($item);
     }
 
@@ -102,5 +103,37 @@ class ProvinceController extends Controller
         return response()->json([
             'deleted_data' => $deletedData
         ], 200);
+    }
+    public function provinceDDByCountryId($country_id)
+    {
+        try {
+            // ใช้ Native Query ดึงรายการ State ตาม country_id
+            $data = DB::select("
+            SELECT gb.geo_id, gb.name_en, gb.name_th, gb.abbreviation
+            FROM geographic_boundary gb
+            JOIN province p ON gb.geo_id = p.geo_id
+            WHERE p.country_id = ?
+            ORDER BY gb.name_en ASC
+        ", [$country_id]);
+
+            // ถ้าข้อมูลว่าง ให้ส่ง response 404
+            if (empty($data)) {
+                return response()->json([
+                    'status' => 'error',
+                    'message' => 'not found'
+                ], 404);
+            }
+
+            return response()->json([
+                'status' => 'success',
+                'data' => $data
+            ], 200);
+        } catch (\Exception $e) {
+            return response()->json([
+                'status' => 'error',
+                'message' => 'Something went wrong!',
+                'error' => $e->getMessage()
+            ], 500);
+        }
     }
 }

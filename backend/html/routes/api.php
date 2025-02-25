@@ -58,6 +58,10 @@ Route::get('v1/state/dd/{id}', [StateController::class, 'stateDDByCountryId']);
 Route::get('v1/county/dd/{id}', [CountyController::class, 'countyDDByStateId']);
 Route::get('v1/county_city/dd/{id}', [CountyCityController::class, 'countyCityDDBycountyId']);
 
+Route::get('v1/province/dd/{id}', [ProvinceController::class, 'provinceDDByCountryId']);
+Route::get('v1/district/dd/{id}', [DistrictController::class, 'getDistrictByProvinceId']);
+Route::get('v1/sub_district/dd/{id}', [SubDistrictController::class, 'getSubDistrictByDistrictId']);
+
 Route::get('v1/test', function () {
     return response()->json([
         'message' => 'Hello World!'
