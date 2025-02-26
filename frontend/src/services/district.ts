@@ -88,6 +88,6 @@ export const updateItem = async (
   };
 
   export const getDistrictDD = async (provinceId: number) => {
-    const response = await axios.get(`${SUBTYPE_URL}/province/${provinceId}`);
+    const response = await axios.get(`${SUBTYPE_URL}/dd/${provinceId}`);
     return response.data;
   };

@@ -90,7 +90,7 @@ export const deleteCountry = async (geoId: number) => {
 };
 
 export const getProvinceDD = async (country_id: number) => {
-  const response = await axios.get(`${SUBTYPE_URL}/dd${country_id}`);
+  const response = await axios.get(`${SUBTYPE_URL}/dd/${country_id}`);
   return response.data;
 };
 
