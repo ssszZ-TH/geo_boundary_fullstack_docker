@@ -86,3 +86,8 @@ export const updateItem = async (
     const response = await axios.delete(`${SUPERTYPE_URL}/${geoId}`);
     return response.data;
   };
+
+  export const getSubDistrictDD = async (districtId: number) => {
+    const response = await axios.get(`${SUBTYPE_URL}/district/${districtId}`);
+    return response.data;
+  };
