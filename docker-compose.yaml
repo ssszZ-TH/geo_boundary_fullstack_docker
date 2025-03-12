@@ -35,7 +35,7 @@ services:
       replicas: 3  # เพิ่ม replicas เพื่อให้มี 3 ตัว
 
   nginx:
-    image: nginx:latest
+    image: nginx:alpine
     # container_name: nginx_server
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf
@@ -43,6 +43,7 @@ services:
     ports:
       - "8080:80"
       - "5173:5173"
+      - "8081:8081"  # เพิ่ม port test prformance
     depends_on:
       - backend
       - frontend
